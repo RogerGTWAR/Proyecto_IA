@@ -7,6 +7,7 @@ venv/
 
 # Python
 __pycache__/
+cache_voz/
 *.pyc
 *.pyo
 *.pyd

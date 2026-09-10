@@ -1,5 +1,9 @@
+import time
+
+from agente_inventario import procesar_pregunta
 from asistente_voz import (cargar_modelo_voz, escuchar_pregunta, hablar,
                            listar_dispositivos_audio,
+                           obtener_ultimas_metricas,
                            obtener_microfono_predeterminado,
                            obtener_ruta_modelo)
 
@@ -38,12 +42,20 @@ def probar_voz():
         print(f"ERROR: {error}")
         return
     print(f"\nTexto reconocido:\n{texto}")
-    print("\n5. Probando parlantes...")
+    inicio = time.perf_counter()
+    respuesta = procesar_pregunta(texto)
+    tiempo_jarvis = time.perf_counter() - inicio
+    print(f"\n5. Respuesta sin TTS ({tiempo_jarvis:.3f} s):\n{respuesta}")
+    print("\n6. Probando edge-tts y parlantes...")
     try:
-        hablar(f"Texto reconocido: {texto}")
+        motor = hablar(respuesta)
     except RuntimeError as error:
         print(f"ERROR: {error}")
         return
+    print(f"Motor utilizado: {motor}")
+    print("Métricas:")
+    for nombre, valor in obtener_ultimas_metricas().items():
+        print(f"- {nombre}: {valor:.3f} s" if isinstance(valor, float) else f"- {nombre}: {valor}")
     print("Prueba de voz completada correctamente.")
 
 

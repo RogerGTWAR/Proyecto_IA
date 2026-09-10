@@ -1,4 +1,5 @@
 import threading
+import time
 import traceback
 import tkinter as tk
 from tkinter import messagebox, ttk
@@ -11,7 +12,8 @@ except ImportError:
 
 from agente_inventario import procesar_pregunta, reiniciar_contexto
 from asistente_voz import (FRASE_ACTIVACION, cerrar_audio, detener_voz,
-                           escuchar_pregunta, hablar)
+                           escuchar_pregunta, hablar, precalentar_voz,
+                           registrar_tiempo_jarvis)
 from alertas import eliminar_alerta, listar_alertas, marcar_alerta_atendida
 from deteccion_anomalias import analizar_movimientos
 from movimientos import (buscar_movimientos, listar_empleados_activos,
@@ -1017,6 +1019,12 @@ def iniciar_aplicacion():
                    "hablando": False, "hilo_escucha": None,
                    "hilo_asistente": None, "error": False}
 
+    def procesar_con_metricas(pregunta):
+        inicio = time.perf_counter()
+        respuesta = procesar_pregunta(pregunta)
+        registrar_tiempo_jarvis(time.perf_counter() - inicio)
+        return respuesta
+
     def escribir_chat(autor, texto):
         conversacion.configure(state="normal")
         prefijo = "usuario" if autor in {"Usuario", "Tú"} else "agente"
@@ -1079,7 +1087,7 @@ def iniciar_aplicacion():
             return "break" if evento else None
         pregunta_agente.delete(0, tk.END)
         escribir_chat("Tú", pregunta)
-        respuesta = procesar_pregunta(pregunta)
+        respuesta = procesar_con_metricas(pregunta)
         escribir_chat("Jarvis", respuesta)
         if responder_con_voz.get():
             reproducir_respuesta(respuesta)
@@ -1101,7 +1109,7 @@ def iniciar_aplicacion():
                 control_voz["escuchando"] = False
                 control_voz["procesando"] = True
                 ventana.after(0, actualizar_estado, "Procesando...")
-                respuesta = procesar_pregunta(pregunta)
+                respuesta = procesar_con_metricas(pregunta)
                 ventana.after(0, escribir_chat, "Jarvis", respuesta)
                 if usar_voz:
                     control_voz["hablando"] = True
@@ -1147,7 +1155,7 @@ def iniciar_aplicacion():
                     continue
                 ventana.after(0, escribir_chat, "Tú", pregunta)
                 ventana.after(0, actualizar_estado, "Procesando...")
-                respuesta = procesar_pregunta(pregunta)
+                respuesta = procesar_con_metricas(pregunta)
                 ventana.after(0, escribir_chat, "Jarvis", respuesta)
                 if usar_voz:
                     hablar(respuesta)
@@ -1208,6 +1216,7 @@ def iniciar_aplicacion():
     texto_pregunta.trace_add("write", lambda *_: boton_enviar.configure(
         state="normal" if texto_pregunta.get().strip() and texto_pregunta.get() != texto_placeholder else "disabled"))
     escribir_chat("Jarvis", "Hola. Soy Jarvis, tu asistente inteligente de inventario. ¿Qué necesitas revisar?")
+    precalentar_voz()
 
     def actualizar_todo():
         cargar_productos(); cargar_historial(); cargar_alertas(); cargar_empleados()
