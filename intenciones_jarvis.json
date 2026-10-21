@@ -1,0 +1,324 @@
+{
+  "consultar_stock": [
+    "cuantos motores quedan",
+    "que stock hay del motor",
+    "tenemos motores",
+    "cantidad de tornillos",
+    "existencia del rodamiento",
+    "como estamos de taladros",
+    "hay unidades disponibles",
+    "dime el inventario del producto",
+    "unidades restantes del articulo",
+    "disponibilidad de un producto",
+    "Cuánto queda de ese producto",
+    "Cuál es la cantidad que aún tenemos",
+    "Dime cuántas unidades nos quedan del artículo",
+    "Qué existencia tiene el producto seleccionado"
+  ],
+  "consultar_ubicacion": [
+    "donde estan los motores",
+    "ubicacion del taladro",
+    "en que parte estan los tornillos",
+    "localiza el rodamiento",
+    "donde guardaron el producto",
+    "en que pasillo se encuentra",
+    "busca la ubicacion",
+    "donde lo puedo encontrar",
+    "en que parte esta el producto",
+    "en cual parte se encuentra"
+  ],
+  "ultimo_retiro": [
+    "quien retiro el motor",
+    "ultima salida del producto",
+    "quien saco tornillos",
+    "ultimo retiro del taladro",
+    "quien hizo la ultima salida",
+    "empleado que retiro el producto",
+    "dime quien saco unidades",
+    "responsable del ultimo retiro",
+    "Quién fue responsable de la última salida",
+    "Quién se llevó el último material",
+    "Qué empleado entregó ese artículo por última vez",
+    "Dime el responsable del retiro más reciente"
+  ],
+  "ultimo_movimiento": [
+    "ultimo movimiento del motor",
+    "que paso por ultima vez con el producto",
+    "movimiento mas reciente del taladro",
+    "ultimo registro del motor",
+    "cual fue la ultima operacion",
+    "quien hizo el ultimo movimiento",
+    "actividad reciente del producto",
+    "ultima transaccion",
+    "que paso con el motor",
+    "que paso con el producto",
+    "movimiento reciente",
+    "Cuál es el movimiento más nuevo registrado",
+    "Muéstrame la operación más reciente de ese producto",
+    "Cuándo ocurrió el cambio más reciente de existencias",
+    "Revisa la última operación del artículo"
+  ],
+  "historial_producto": [
+    "historial del motor",
+    "movimientos del taladro",
+    "ver historial del producto",
+    "todos los movimientos de tornillos",
+    "lista de operaciones del producto",
+    "actividad historica del rodamiento",
+    "registros anteriores del articulo",
+    "historial de entradas y salidas",
+    "Consulta la actividad previa del producto",
+    "Quiero ver los movimientos anteriores de ese artículo",
+    "Enséñame las operaciones previas del repuesto",
+    "Muéstrame su historial completo"
+  ],
+  "stock_minimo": [
+    "stock minimo del motor",
+    "minimo de existencias",
+    "limite minimo del producto",
+    "cantidad minima del taladro",
+    "cual es el minimo permitido",
+    "nivel minimo de inventario",
+    "punto minimo del producto",
+    "minimo configurado"
+  ],
+  "stock_bajo": [
+    "productos con stock bajo",
+    "que productos tienen pocas existencias",
+    "inventario por debajo del minimo",
+    "mostrar stock bajo",
+    "articulos que se estan acabando",
+    "productos con pocas unidades",
+    "lista de existencias bajas",
+    "que hace falta reponer",
+    "articulos para reposicion",
+    "inventario que necesita reposicion"
+  ],
+  "productos_agotados": [
+    "productos agotados",
+    "que productos no tienen stock",
+    "articulos sin existencias",
+    "mostrar productos en cero",
+    "que se termino",
+    "productos sin unidades",
+    "inventario agotado",
+    "lista de faltantes"
+  ],
+  "consultar_alertas": [
+    "mostrar alertas",
+    "que alertas hay",
+    "alertas pendientes",
+    "avisos del inventario",
+    "hay alguna alerta",
+    "consultar notificaciones",
+    "problemas detectados",
+    "dime las alertas activas"
+  ],
+  "consultar_empleado": [
+    "informacion de carlos",
+    "buscar empleado",
+    "quien es este empleado",
+    "datos del trabajador",
+    "consulta el empleado",
+    "cargo de maria",
+    "informacion del codigo de empleado",
+    "dime los datos de juan"
+  ],
+  "consultar_movimientos": [
+    "mostrar movimientos",
+    "movimientos recientes",
+    "actividad del inventario",
+    "ultimas entradas y salidas",
+    "consultar operaciones",
+    "lista de movimientos",
+    "que movimientos hubo",
+    "actividad reciente",
+    "operaciones del almacen",
+    "transacciones recientes del inventario",
+    "Cuántos movimientos se registraron ayer",
+    "Muéstrame los movimientos de esta semana",
+    "Consulta las entradas de los últimos treinta días",
+    "Cuántas salidas hubo hoy"
+  ],
+  "resumen_inventario": [
+    "resumen del inventario",
+    "como esta el inventario general",
+    "estado general del almacen",
+    "dame un resumen",
+    "panorama del inventario",
+    "reporte general de existencias",
+    "situacion del almacen",
+    "resumen general",
+    "como esta el inventario",
+    "como estamos en el almacen",
+    "como estamos",
+    "que deberia revisar",
+    "hay algo urgente"
+  ],
+  "prediccion_agotamiento": [
+    "que productos podrian agotarse pronto",
+    "que se puede agotar",
+    "productos para reabastecer",
+    "que debo reponer",
+    "hay algo que necesite reabastecimiento",
+    "pronostico de agotamiento",
+    "riesgo de quedarse sin stock",
+    "predice faltantes",
+    "Cuánto tiempo durarán esas existencias",
+    "Para cuántos días alcanza ese stock",
+    "Cuál se agotaría primero con el consumo actual",
+    "Cuándo podría acabarse el artículo"
+  ],
+  "consultar_anomalias": [
+    "hay movimientos extraños",
+    "detectaste algo anormal",
+    "consultar anomalias",
+    "operaciones inusuales",
+    "movimientos sospechosos",
+    "actividad fuera de lo normal",
+    "revisa irregularidades",
+    "anomalias del inventario",
+    "Qué anomalías se registraron este mes",
+    "Cuántas anomalías están pendientes",
+    "Muéstrame los movimientos inusuales de ayer",
+    "Cuál fue el movimiento marcado con más gravedad"
+  ],
+  "movimientos_empleado": [
+    "que movimientos hizo carlos",
+    "actividad del empleado",
+    "ultimo movimiento de ana",
+    "operaciones realizadas por juan",
+    "historial del trabajador",
+    "movimientos de este empleado",
+    "que hizo el empleado",
+    "actividad reciente de carlos"
+  ],
+  "consultar_subject": [
+    "quien es el sujeto 17",
+    "a quien pertenece subject03",
+    "que empleado esta asociado a subject 8",
+    "el sujeto 20 esta registrado",
+    "quien es persona 12",
+    "informacion de sujeto17"
+  ],
+  "consultar_rostro_empleado": [
+    "carlos tiene rostro registrado",
+    "ana tiene registro facial",
+    "rostro del empleado",
+    "este trabajador tiene cara registrada",
+    "consulta el registro facial de juan"
+  ],
+  "listar_rostros": [
+    "quien tiene rostro registrado",
+    "empleados con registro facial",
+    "lista de rostros registrados"
+  ],
+  "empleados_sin_rostro": [
+    "que empleados no tienen rostro",
+    "trabajadores sin registro facial",
+    "quienes no tienen cara registrada"
+  ],
+  "consultar_reabastecimiento": [
+    "hay algo que tenga que comprar pronto",
+    "que debo reabastecer",
+    "necesito comprar algo",
+    "que producto esta en riesgo",
+    "que se va a acabar",
+    "productos que debo comprar"
+  ],
+  "consultar_producto": [
+    "hablame del motor",
+    "informacion del producto",
+    "descripcion del taladro",
+    "datos de los tornillos"
+  ],
+  "listar_productos": [
+    "que productos hay",
+    "lista de productos",
+    "muestra el catalogo",
+    "productos disponibles"
+  ],
+  "producto_menor_stock": [
+    "que producto tiene menos existencias",
+    "producto con menor stock",
+    "cual tiene menos unidades"
+  ],
+  "empleados_activos": [
+    "cuantos empleados activos hay",
+    "cantidad de trabajadores activos",
+    "numero de empleados"
+  ],
+  "movimientos_hoy": [
+    "que salio hoy",
+    "movimientos de hoy",
+    "que entradas hubo hoy",
+    "actividad de este dia"
+  ],
+  "alertas_reconocimiento": [
+    "hubo personas no reconocidas",
+    "hay alertas de personas desconocidas",
+    "rostros no reconocidos"
+  ],
+  "rostro_y_movimientos": [
+    "carlos tiene rostro registrado y cual fue su ultimo movimiento",
+    "revisa el rostro y movimientos de ana",
+    "registro facial y actividad del empleado"
+  ],
+  "saludo": [
+    "hola jarvis",
+    "buenos dias",
+    "buenas tardes",
+    "que onda",
+    "hola amigo",
+    "hey jarvis",
+    "buenas noches",
+    "que tal jarvis",
+    "como estas",
+    "como andas",
+    "todo bien"
+  ],
+  "agradecimiento": [
+    "gracias",
+    "muchas gracias",
+    "te agradezco",
+    "muy amable",
+    "perfecto gracias",
+    "excelente gracias",
+    "gracias jarvis",
+    "eso es todo gracias"
+  ],
+  "despedida": [
+    "adios",
+    "hasta luego",
+    "nos vemos",
+    "hasta pronto",
+    "me retiro",
+    "chao jarvis",
+    "hablamos despues",
+    "eso es todo"
+  ],
+  "pregunta_nombre": [
+    "como te llamas",
+    "cual es tu nombre",
+    "dime tu nombre",
+    "quien eres",
+    "presentate",
+    "como debo llamarte",
+    "tu nombre",
+    "que eres",
+    "Cómo quieres que te llame",
+    "Qué nombre debo usar para llamarte",
+    "Dime tu nombre como asistente",
+    "Con qué nombre te identificas"
+  ],
+  "ayuda": [
+    "ayuda",
+    "que puedes hacer",
+    "que puedo preguntarte",
+    "ayudame",
+    "muestra tus funciones",
+    "para que sirves",
+    "que consultas entiendes",
+    "necesito orientacion"
+  ]
+}

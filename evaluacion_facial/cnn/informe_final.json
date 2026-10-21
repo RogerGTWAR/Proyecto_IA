@@ -1,0 +1,482 @@
+{
+  "estado": "CNN_NO_CALIBRADA",
+  "fecha_revision": "2026-10-14",
+  "archivos_sface_identicos": 44,
+  "dataset": {
+    "preprocesamiento": "yunet-align-sface-gris-100x100-float32-0-1-v2",
+    "protocolo": "cnn-grupos-entrenamiento-validacion-calibracion-evaluacion-v1",
+    "archivos_por_subject": {
+      "subject01": 11,
+      "subject02": 11,
+      "subject03": 11,
+      "subject04": 11,
+      "subject05": 11,
+      "subject06": 11,
+      "subject07": 11,
+      "subject08": 11,
+      "subject09": 11,
+      "subject10": 11,
+      "subject11": 11,
+      "subject12": 11,
+      "subject13": 11,
+      "subject14": 11,
+      "subject15": 11,
+      "subject16": 30,
+      "subject17": 30,
+      "subject18": 30,
+      "subject19": 28
+    },
+    "subjects_activos_sql": [
+      "subject01",
+      "subject02",
+      "subject03",
+      "subject04",
+      "subject05",
+      "subject06",
+      "subject07",
+      "subject08",
+      "subject09",
+      "subject10",
+      "subject11",
+      "subject12",
+      "subject13",
+      "subject14",
+      "subject15",
+      "subject19"
+    ],
+    "validas_por_subject": {
+      "subject01": 11,
+      "subject02": 10,
+      "subject03": 10,
+      "subject04": 10,
+      "subject05": 11,
+      "subject06": 10,
+      "subject07": 8,
+      "subject08": 10,
+      "subject09": 10,
+      "subject10": 11,
+      "subject11": 11,
+      "subject12": 10,
+      "subject13": 11,
+      "subject14": 10,
+      "subject15": 11,
+      "subject19": 28
+    },
+    "grupos_por_subject": {
+      "subject01": 11,
+      "subject02": 10,
+      "subject03": 10,
+      "subject04": 10,
+      "subject05": 11,
+      "subject06": 10,
+      "subject07": 8,
+      "subject08": 10,
+      "subject09": 10,
+      "subject10": 11,
+      "subject11": 11,
+      "subject12": 10,
+      "subject13": 11,
+      "subject14": 10,
+      "subject15": 11,
+      "subject19": 1
+    },
+    "rechazos": [
+      {
+        "subject": "subject02",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.noglasses.gif"
+      },
+      {
+        "subject": "subject03",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.noglasses.gif"
+      },
+      {
+        "subject": "subject04",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.sad.gif.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.normal.gif"
+      },
+      {
+        "subject": "subject06",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.noglasses.gif"
+      },
+      {
+        "subject": "subject07",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.leftlight.gif",
+        "motivo": "ILUMINACION_DEFICIENTE"
+      },
+      {
+        "subject": "subject07",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.noglasses.gif"
+      },
+      {
+        "subject": "subject07",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.rightlight.gif",
+        "motivo": "ILUMINACION_DEFICIENTE"
+      },
+      {
+        "subject": "subject08",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.glasses.gif"
+      },
+      {
+        "subject": "subject09",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.noglasses.gif"
+      },
+      {
+        "subject": "subject12",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.noglasses.gif"
+      },
+      {
+        "subject": "subject14",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.noglasses.gif"
+      }
+    ],
+    "problemas_particion": [
+      "subject19: 28 imágenes válidas y 1 grupos; necesita al menos 8 imágenes y 4 grupos distintos. Capture 3 sesiones nuevas variadas y revise las etiquetas."
+    ],
+    "sesiones_externas_verificadas": false,
+    "nota": "Los archivos históricos sin sesión documentada se agrupan por contenido; esto no acredita nuevas sesiones. Ninguna imagen se borró ni se reasignó a otra persona."
+  },
+  "candidato_no_activado": {
+    "threshold": 0.4504130184650421,
+    "margin": 0.14773115515708923
+  },
+  "metricas_diagnostico_modelo_anterior": {
+    "muestras": 35,
+    "correctas_argmax": 30,
+    "correctas_aceptadas": 28,
+    "incorrectas_aceptadas": 3,
+    "rechazadas": 4,
+    "por_clase": {
+      "subject01": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 1
+      },
+      "subject02": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject03": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject04": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject05": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject06": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject07": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject08": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 1
+      },
+      "subject09": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject10": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject11": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject12": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject13": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject14": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject15": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject19": {
+        "muestras": 5,
+        "correctas_aceptadas": 5,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      }
+    },
+    "confusiones": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+        "real": "subject01",
+        "best_class": "subject03",
+        "best_score": 0.360343337059021,
+        "second_class": "subject01",
+        "second_score": 0.233303502202034,
+        "margin": 0.127039834856987,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+        "real": "subject02",
+        "best_class": "subject09",
+        "best_score": 0.5967941880226135,
+        "second_class": "subject02",
+        "second_score": 0.3891009986400604,
+        "margin": 0.2076931893825531,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+        "real": "subject04",
+        "best_class": "subject03",
+        "best_score": 0.5430489778518677,
+        "second_class": "subject14",
+        "second_score": 0.16298741102218628,
+        "margin": 0.3800615668296814,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+        "real": "subject06",
+        "best_class": "subject10",
+        "best_score": 0.7611644268035889,
+        "second_class": "subject14",
+        "second_score": 0.11596225202083588,
+        "margin": 0.645202174782753,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+        "real": "subject08",
+        "best_class": "subject03",
+        "best_score": 0.42473000288009644,
+        "second_class": "subject15",
+        "second_score": 0.10802973806858063,
+        "margin": 0.3167002648115158,
+        "aceptada": false
+      }
+    ],
+    "accuracy_argmax": 0.8571428571428571,
+    "protocolo_valido": false
+  },
+  "decision_vigente": {
+    "muestras": 35,
+    "correctas_argmax": 30,
+    "correctas_aceptadas": 0,
+    "incorrectas_aceptadas": 0,
+    "rechazadas": 35,
+    "por_clase": {
+      "subject01": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject02": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject03": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject04": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject05": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject06": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject07": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject08": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject09": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject10": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject11": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject12": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject13": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject14": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject15": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject19": {
+        "muestras": 5,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 5
+      }
+    },
+    "confusiones": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+        "real": "subject01",
+        "best_class": "subject03",
+        "best_score": 0.360343337059021,
+        "second_class": "subject01",
+        "second_score": 0.233303502202034,
+        "margin": 0.127039834856987,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+        "real": "subject02",
+        "best_class": "subject09",
+        "best_score": 0.5967941880226135,
+        "second_class": "subject02",
+        "second_score": 0.3891009986400604,
+        "margin": 0.2076931893825531,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+        "real": "subject04",
+        "best_class": "subject03",
+        "best_score": 0.5430489778518677,
+        "second_class": "subject14",
+        "second_score": 0.16298741102218628,
+        "margin": 0.3800615668296814,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+        "real": "subject06",
+        "best_class": "subject10",
+        "best_score": 0.7611644268035889,
+        "second_class": "subject14",
+        "second_score": 0.11596225202083588,
+        "margin": 0.645202174782753,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+        "real": "subject08",
+        "best_class": "subject03",
+        "best_score": 0.42473000288009644,
+        "second_class": "subject15",
+        "second_score": 0.10802973806858063,
+        "margin": 0.3167002648115158,
+        "aceptada": false
+      }
+    ],
+    "accuracy_argmax": 0.8571428571428571
+  },
+  "video_actual": {
+    "motor": "cnn",
+    "frames_renderizados": 174,
+    "segundos_video": 9.999127799999998,
+    "video_fps": 17.301509037618263,
+    "inferencia_fps": 0.0,
+    "latencia_cnn_ms": null,
+    "estados": {
+      "Buscando rostro...": 177
+    },
+    "error": null,
+    "nota": "Medición local con el rostro/escena presentes. No mide precisión poblacional ni distancia física. No se guardaron imágenes."
+  },
+  "inferencia_offline_ms_promedio": 6.479491428571396,
+  "nota": "La evaluacion anterior no es independiente por sesiones. La camara ya bloqueaba identidades antes de este cambio. No se reentreno por datos insuficientes. No hay medicion poblacional con desconocidos."
+}

@@ -1,0 +1,193 @@
+AUDITORÍA DEL DATASET CNN
+Válida indica calidad visual, no independencia de sesión ni identidad humana confirmada.
+Los archivos históricos sin procedencia no se reparten entre conjuntos.
+Las copias reducidas de inscripciones se sustituyen por sus fuentes canónicas; no se suman dos veces.
+Las sesiones incompletas se conservan, pero no habilitan entrenamiento.
+
+Subject | Activo | Archivos | Fuentes | Válidas | Borrosas detectadas | Duplicadas | Casi duplicadas | Sesiones | Grupos
+subject01 | Sí | 11 | 11 | 11 | 0 | 0 | 0 | 0 | 0
+subject02 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject03 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject04 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject05 | Sí | 11 | 11 | 11 | 0 | 0 | 0 | 0 | 0
+subject06 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject07 | Sí | 11 | 11 | 8 | 0 | 1 | 0 | 0 | 0
+subject08 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject09 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject10 | Sí | 11 | 11 | 11 | 0 | 0 | 0 | 0 | 0
+subject11 | Sí | 11 | 11 | 11 | 0 | 0 | 0 | 0 | 0
+subject12 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject13 | Sí | 11 | 11 | 11 | 0 | 0 | 0 | 0 | 0
+subject14 | Sí | 11 | 11 | 10 | 0 | 1 | 0 | 0 | 0
+subject15 | Sí | 11 | 11 | 11 | 0 | 0 | 0 | 0 | 0
+subject16 | No | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0
+subject17 | No | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0
+subject18 | No | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0
+subject19 | Sí | 28 | 28 | 28 | 0 | 0 | 0 | 1 | 1
+
+DATOS QUE FALTAN
+subject01: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject02: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject03: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject04: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject05: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject06: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject07: 8 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject08: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject09: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject10: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject11: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject12: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject13: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject14: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject15: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+subject19: 28 imágenes válidas, 28 con sesión documentada; sesiones 1/4, grupos independientes 1/4. Capture al menos 3 sesiones nuevas y reúna 8 imágenes válidas con procedencia.
+
+CONFUSIONES DEL MODELO ANTERIOR (PARTICIONES NO VÁLIDAS)
+subject02 → subject09: pendiente de nuevas sesiones y evaluación; no se reasignaron etiquetas.
+subject04 → subject03: pendiente de nuevas sesiones y evaluación; no se reasignaron etiquetas.
+subject06 → subject10: pendiente de nuevas sesiones y evaluación; no se reasignaron etiquetas.
+No se puede confirmar una etiqueta humana ni una carpeta mezclada solo por similitud visual.
+No se encontraron conflictos de contenido entre las fuentes válidas de las clases revisadas: 0.
+
+MAPPING GUARDADO
+{
+  "indice_a_subject": {
+    "0": "subject01",
+    "1": "subject02",
+    "2": "subject03",
+    "3": "subject04",
+    "4": "subject05",
+    "5": "subject06",
+    "6": "subject07",
+    "7": "subject08",
+    "8": "subject09",
+    "9": "subject10",
+    "10": "subject11",
+    "11": "subject12",
+    "12": "subject13",
+    "13": "subject14",
+    "14": "subject15",
+    "15": "subject19"
+  },
+  "salidas": 16,
+  "indices_consecutivos": true,
+  "clases_sql_coinciden": true,
+  "etiquetas_unicas": true,
+  "modelo_sha256": "d57341272d9d352e5880e12e54db2cabe5cb1560c74af5392aff3eccdd2ebd02",
+  "etiquetas_sha256": "cef7e2835e01d368539ffa748250be51be78a68deaba12b5ed30c34f46622b6e"
+}
+
+PROTOCOLO
+Mínimo 4 sesiones documentadas, cada una con al menos 4 imágenes válidas, y 4 grupos sin fuga por clase activa.
+Se reserva una sesión/grupo completo para validación, otro para calibración y otro para evaluación final.
+Los grupos restantes se usan para entrenamiento. Con cuatro sesiones queda una por conjunto.
+El conjunto final no selecciona el modelo ni ajusta threshold o margin.
+Capturar sesiones → Validar dataset → Entrenar desde cero → Evaluar → Calibrar → Activar.
+No se entrenó en esta revisión. Accuracy final, falsos positivos finales, threshold y margin: pendientes.
+No se acreditaron personas desconocidas independientes para medir falsos positivos fuera de las clases.
+Motivos de exclusión en clases inactivas: {"ROSTRO_MUY_PEQUENO": 87, "Se requiere un rostro; detectados: 0.": 3}
+El conteo de borrosas refleja el motivo detectado; no certifica nitidez en imágenes rechazadas por otro motivo.
+
+IMÁGENES EXCLUIDAS
+subject02 | subject02.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject02.noglasses.gif
+subject03 | subject03.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject03.noglasses.gif
+subject04 | subject04.sad.gif.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject04.normal.gif
+subject06 | subject06.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject06.noglasses.gif
+subject07 | subject07.leftlight.gif | ILUMINACION_DEFICIENTE
+subject07 | subject07.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject07.noglasses.gif
+subject07 | subject07.rightlight.gif | ILUMINACION_DEFICIENTE
+subject08 | subject08.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject08.glasses.gif
+subject09 | subject09.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject09.noglasses.gif
+subject12 | subject12.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject12.noglasses.gif
+subject14 | subject14.normal.gif | Imagen duplicada de C:\Users\rpere\OneDrive\Desktop\Proyecto IA - copia sin AWS\Clasificacion\rostros\DataSet01\data\subject14.noglasses.gif
+subject16 | subject16.capture001.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture002.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture003.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture004.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture005.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture006.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture007.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture008.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture009.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture010.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture011.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture012.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture013.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture014.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture015.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture016.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture017.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture018.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture019.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture020.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture021.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture022.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture023.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture024.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture025.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture026.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture027.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture028.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture029.png | ROSTRO_MUY_PEQUENO
+subject16 | subject16.capture030.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture001.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture002.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture003.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture004.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture005.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture006.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture007.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture008.png | Se requiere un rostro; detectados: 0.
+subject17 | subject17.capture009.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture010.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture011.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture012.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture013.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture014.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture015.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture016.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture017.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture018.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture019.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture020.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture021.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture022.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture023.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture024.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture025.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture026.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture027.png | ROSTRO_MUY_PEQUENO
+subject17 | subject17.capture028.png | Se requiere un rostro; detectados: 0.
+subject17 | subject17.capture029.png | Se requiere un rostro; detectados: 0.
+subject17 | subject17.capture030.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture001.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture002.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture003.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture004.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture005.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture006.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture007.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture008.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture009.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture010.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture011.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture012.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture013.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture014.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture015.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture016.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture017.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture018.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture019.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture020.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture021.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture022.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture023.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture024.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture025.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture026.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture027.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture028.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture029.png | ROSTRO_MUY_PEQUENO
+subject18 | subject18.capture030.png | ROSTRO_MUY_PEQUENO

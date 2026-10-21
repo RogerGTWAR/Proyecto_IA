@@ -1,0 +1,9 @@
+{
+  "threshold": 0.6406927704811096,
+  "margin": 0.45710137486457825,
+  "protocolo": "cnn-dataset-actual-estratificado-provisional-v1",
+  "provisional": true,
+  "modelo_sha256": "954a122a61c01cd2b71002fde62adbfe6c4cb6beaa52fc3c39f8683dfa4e3430",
+  "preprocesamiento": "yunet-align-sface-gris-100x100-float32-0-1-v2",
+  "nota": "Evaluación provisional por imágenes, sin sesiones independientes. La validación también selecciona pesos y umbrales; sus resultados pueden ser optimistas. No mide rechazo de personas desconocidas."
+}

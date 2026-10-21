@@ -1,0 +1,191 @@
+0001 [Ttulo1] FASE 1. COMPRENSIÓN DEL NEGOCIO
+0002 [Ttulo2] Definición del problema del negocio
+0003 [] La gestión del inventario es una actividad fundamental para el funcionamiento de un almacén, ya que permite conocer los productos disponibles, controlar las entradas y salidas y mantener organizada la información relacionada con las existencias. En un almacén asociado a un taller de mecánica, esta necesidad comprende repuestos, herramientas, lubricantes, aceites, filtros y otros materiales utilizados en actividades de mantenimiento y reparación.
+0004 [] Cuando el inventario se administra mediante registros manuales o herramientas que no se encuentran integradas, se dificulta conocer con rapidez las existencias disponibles, localizar determinados productos y mantener actualizada la información. Esta situación puede generar diferencias entre las cantidades registradas y las cantidades físicamente almacenadas, además de aumentar el tiempo requerido para consultar o localizar un artículo.
+0005 [] También existe una necesidad relacionada con la trazabilidad de las operaciones. Cada entrada o salida debe poder relacionarse con la persona que realizó el movimiento. Si la operación no queda asociada claramente con un empleado, resulta más difícil revisar el historial, aclarar diferencias en las existencias y determinar el origen de una operación.
+0006 [] A lo anterior se suma que los movimientos del inventario generan información que puede aprovecharse para identificar patrones de consumo, productos con riesgo de agotamiento y operaciones que se alejan del comportamiento habitual. Analizar manualmente esta información requiere tiempo y puede dificultar la detección oportuna de situaciones importantes.
+0007 [] Esta situación evidencia la necesidad de mejorar la gestión, trazabilidad y análisis de la información generada por las operaciones del inventario. Actualmente, las dificultades relacionadas con el control de existencias, la identificación de los responsables de los movimientos y el análisis de los registros pueden limitar la disponibilidad de información oportuna para la supervisión del almacén. Por tanto, el problema del negocio se centra en la necesidad de contar con mecanismos que permitan gestionar de manera organizada la información del inventario y aprovechar los datos generados para facilitar su control, seguimiento y análisis.
+0012 [Ttulo2] Antecedentes y justificación del proyecto
+0013 [] El control de inventarios se ha realizado tradicionalmente mediante registros manuales, tarjetas de existencias y hojas de cálculo. Estos mecanismos permiten almacenar información básica, pero dependen de una actualización constante y pueden volverse difíciles de manejar cuando aumenta la cantidad de productos y movimientos.
+0014 [] La incorporación de sistemas informáticos y bases de datos permite centralizar los registros de productos, existencias, entradas, salidas y movimientos. Sin embargo, almacenar información no aprovecha por sí solo los patrones contenidos en los registros históricos. La Inteligencia Artificial permite ampliar estas capacidades mediante modelos capaces de analizar datos, reconocer patrones, realizar clasificaciones y detectar comportamientos inusuales.
+0015 [] A partir de los enfoques descritos, se considera pertinente integrar herramientas de Inteligencia Artificial en la gestión del inventario del almacén. En este contexto, el proyecto busca aprovechar estas tecnologías para fortalecer la trazabilidad de las operaciones, facilitar el acceso a la información y analizar los registros históricos del inventario.
+0016 [] El desarrollo del sistema resulta importante porque reúne en una misma solución la gestión operativa del inventario y diferentes componentes de Inteligencia Artificial. Esto permite mejorar la organización de la información, fortalecer la trazabilidad y aprovechar los registros históricos como apoyo para el análisis y la toma de decisiones.
+0026 [Ttulo2] Objetivo general y objetivos específicos
+0027 [Ttulo3] Objetivo general
+0028 [] Desarrollar un Sistema Inteligente para la Gestión y Análisis de Inventario en Almacenes mediante Inteligencia Artificial. 
+0029 [Ttulo3] Objetivos específicos
+0030 [] Diseñar un sistema que permita gestionar y controlar las entradas, salidas, existencias y movimientos de los productos dentro del almacén.
+0031 [] Integrar un mecanismo de reconocimiento facial que permita identificar a los empleados autorizados y relacionarlos con los movimientos realizados en el inventario.
+0032 [] Desarrollar un agente inteligente capaz de interpretar consultas en lenguaje natural y proporcionar información sobre los productos, sus existencias, ubicaciones y movimientos del almacén.
+0033 [] Aplicar técnicas de Machine Learning, mediante aprendizaje supervisado y no supervisado, para analizar el comportamiento del inventario, predecir posibles agotamientos de stock y detectar movimientos anormales. 
+0044 [Ttulo2] Alcance del proyecto
+0045 [Ttulo3] Aspectos incluidos
+0046 [] El proyecto incluye:
+0047 [Prrafodelista] Registro y gestión de productos del almacén.
+0048 [Prrafodelista] Control de entradas y salidas de productos.
+0049 [Prrafodelista] Actualización y consulta de existencias.
+0050 [Prrafodelista] Registro de las ubicaciones de los productos.
+0051 [Prrafodelista] Historial de movimientos del inventario.
+0052 [Prrafodelista] Registro e identificación de empleados autorizados.
+0053 [Prrafodelista] Reconocimiento facial para relacionar empleados con movimientos.
+0054 [Prrafodelista] Agente inteligente para consultas sobre productos, existencias, ubicaciones y movimientos.
+0055 [Prrafodelista] Predicción básica de posibles agotamientos de stock.
+0056 [Prrafodelista] Detección de movimientos anormales.
+0057 [Prrafodelista] Generación de alertas relacionadas con el inventario.
+0058 [Prrafodelista] Visualización de estadísticas básicas.
+0059 [] Estas funcionalidades corresponden al alcance funcional planteado para la solución. 
+0060 [Ttulo3] Aspectos fuera del alcance
+0061 [] El proyecto no contempla la automatización física completa del almacén mediante robots o maquinaria industrial, ni pretende sustituir la supervisión humana en decisiones relacionadas con movimientos, alertas o predicciones.
+0062 [] Tampoco comprende procesos administrativos ajenos al inventario, como facturación, contabilidad o nómina. Los resultados obtenidos mediante los modelos de Inteligencia Artificial serán utilizados como apoyo y no como decisiones automáticas e irreversibles.
+0063 [Ttulo2] Identificación de los interesados (stakeholders)
+0064 [] Interesado
+0065 [] Participación o beneficio
+0066 [] Responsable del almacén
+0067 [] Supervisa productos, existencias, movimientos, alertas y resultados del análisis.
+0068 [] Empleados del taller
+0069 [] Realizan operaciones de inventario y pueden ser identificados mediante reconocimiento facial.
+0070 [] Administrador del sistema
+0071 [] Gestiona la información, usuarios y funcionamiento general del sistema.
+0072 [] Personal de supervisión
+0073 [] Revisa alertas, predicciones y movimientos identificados como inusuales.
+0074 [] Equipo desarrollador
+0075 [] Analiza, diseña, implementa, entrena, integra y prueba los componentes del sistema y de IA.
+0077 [Ttulo2] Recursos humanos, tecnológicos y financieros
+0078 [Ttulo3] Recursos humanos
+0079 [] Los recursos humanos necesarios comprenden al equipo encargado del desarrollo del proyecto, el responsable del almacén, los empleados autorizados para realizar movimientos y el personal encargado de supervisar las operaciones y los resultados generados por el sistema.
+0080 [Ttulo3] Recursos tecnológicos
+0081 [] Entre los principales recursos tecnológicos se encuentran:
+0082 [] Computadora o laptop para desarrollo, entrenamiento y ejecución.
+0083 [] Webcam o cámara para captura de imágenes faciales.
+0084 [] Python como lenguaje principal.
+0085 [] OpenCV para captura y procesamiento de imágenes.
+0086 [] Scikit-learn para algoritmos de Machine Learning.
+0087 [] TensorFlow será utilizado para el desarrollo de los componentes que requieran modelos basados en redes neuronales, de acuerdo con las necesidades técnicas identificadas durante la etapa de modelado.
+0088 [] Pandas y NumPy para organización y análisis de datos.
+0089 [] SQL Server para almacenamiento de información.
+0090 [] Bibliotecas relacionadas con procesamiento de voz y lenguaje natural.
+0091 [] La propuesta tecnológica del proyecto contempla el uso de Python, OpenCV, Scikit-learn, Pandas, herramientas para NLP y un sistema gestor de base de datos. 
+0092 [Ttulo3] Recursos financieros
+0093 [] No se ha establecido un presupuesto monetario definitivo. El desarrollo académico se apoya principalmente en los equipos y herramientas disponibles. Los costos adicionales dependerán de la adquisición de hardware, infraestructura o materiales que se decidan incorporar posteriormente.
+0094 [Ttulo2] Requisitos y restricciones
+0095 [Ttulo3] Requisitos
+0096 [] El sistema deberá permitir gestionar productos y ubicaciones, registrar entradas y salidas, actualizar las existencias, conservar el historial de movimientos, registrar e identificar empleados autorizados y asociar las operaciones con el empleado responsable.
+0097 [] También deberá permitir consultas mediante lenguaje natural, analizar datos históricos del inventario, apoyar la identificación de posibles agotamientos y detectar movimientos que presenten características diferentes al comportamiento habitual.
+0098 [Ttulo3] Restricciones
+0099 [] Entre las principales restricciones se encuentran:
+0100 [] La cantidad y calidad de los datos disponibles condicionan el desempeño de los modelos.
+0101 [] El reconocimiento facial depende de la calidad de las imágenes y de las condiciones de captura.
+0102 [] La capacidad del equipo disponible puede limitar la complejidad de los modelos.
+0103 [] El desarrollo debe ajustarse al período académico establecido.
+0104 [] No existe un presupuesto definitivo para infraestructura especializada.
+0105 [] Las predicciones y detecciones requieren supervisión humana.
+0106 [] El proyecto se limita a las funcionalidades establecidas dentro de su alcance.
+0107 [Ttulo2] Análisis de riesgos y estrategias de mitigación
+0108 [] Riesgo
+0109 [] Posible impacto
+0110 [] Estrategia de mitigación
+0111 [] Datos históricos insuficientes
+0112 [] Dificultad para identificar patrones y entrenar modelos.
+0113 [] Ampliar los registros disponibles y verificar su cantidad antes del entrenamiento.
+0114 [] Registros incompletos o incorrectos
+0115 [] Resultados poco confiables.
+0116 [] Validar y limpiar los datos antes del modelado.
+0117 [] Pocas imágenes por empleado
+0118 [] Menor capacidad de reconocimiento.
+0119 [] Aumentar la cantidad de muestras por persona.
+0120 [] Imágenes de baja calidad
+0121 [] Errores de identificación.
+0122 [] Controlar iluminación, resolución y posición del rostro.
+0123 [] Desbalance entre clases
+0124 [] El modelo puede favorecer determinadas personas.
+0125 [] Revisar y equilibrar las muestras durante la preparación.
+0126 [] Movimientos incorrectamente registrados
+0127 [] Alteración del historial y del stock.
+0128 [] Aplicar validaciones al registrar operaciones.
+0129 [] Falsas anomalías
+0130 [] Generación de alertas innecesarias.
+0131 [] Ajustar el modelo y validar sus resultados.
+0132 [] Predicciones imprecisas
+0133 [] Estimaciones incorrectas de agotamiento.
+0134 [] Evaluar el modelo mediante métricas antes de utilizar sus resultados.
+0135 [] Limitaciones de hardware
+0136 [] Entrenamiento lento o dificultad para ejecutar modelos complejos.
+0137 [] Seleccionar modelos compatibles con los recursos disponibles.
+0139 [Ttulo2] Criterios de éxito del negocio
+0140 [] Los criterios de éxito permitirán comprobar el cumplimiento de las necesidades identificadas para cada componente del proyecto. En esta etapa se establecen los indicadores que serán utilizados para la evaluación. Los valores meta o criterios de aceptación específicos se definirán una vez obtenidos y analizados los resultados experimentales correspondientes.
+0141 [] Criterio
+0142 [] Indicador
+0143 [] Gestión del inventario
+0144 [] Registro correcto de productos, entradas, salidas, existencias y movimientos.
+0145 [] Trazabilidad
+0146 [] Porcentaje de movimientos asociados con un empleado identificado.
+0147 [] Reconocimiento facial
+0148 [] Exactitud, precisión, recall, F1-score y matriz de confusión.
+0149 [] Consultas de información
+0150 [] Capacidad del agente para responder consultas válidas sobre stock, ubicación y movimientos.
+0151 [] Predicción de stock
+0152 [] Error obtenido por el modelo sobre los datos de evaluación.
+0153 [] Detección de anomalías
+0154 [] Capacidad para identificar movimientos diferentes al patrón habitual y cantidad de falsos positivos.
+0155 [] Calidad de datos
+0156 [] Cantidad de registros válidos después de identificar nulos, duplicados e inconsistencias.
+0157 [] Utilidad operativa
+0158 [] Disponibilidad de información para revisar inventario, alertas y movimientos.
+0159 [Ttulo2] Objetivos de minería de datos
+0160 [] Los objetivos de minería de datos se derivan de las necesidades identificadas en la comprensión del negocio y se relacionan con los principales componentes de Inteligencia Artificial considerados en el proyecto. Cada objetivo define la necesidad que se busca atender, los datos requeridos y el tipo de tarea de minería correspondiente.
+0161 [] Objetivo técnico
+0162 [] Necesidad
+0163 [] Datos principales
+0164 [] Tipo de tarea
+0165 [] Reconocer empleados
+0166 [] Fortalecer la trazabilidad
+0167 [] Imágenes faciales e identidad
+0168 [] Clasificación supervisada
+0169 [] Analizar patrones
+0170 [] Comprender el comportamiento del inventario
+0171 [] Frecuencia y cantidades
+0172 [] Clustering/análisis no supervisado
+0173 [] Predecir posibles agotamientos de stock
+0174 [] Anticipar posibles agotamientos de stock
+0175 [] Historial, consumo y stock
+0176 [] Predicción
+0177 [] Detectar anomalías
+0178 [] Identificar operaciones que requieren revisión
+0179 [] Cantidad, frecuencia, producto, fecha y hora
+0180 [] Aprendizaje no supervisado
+0182 [] Estos objetivos técnicos servirán como base para las siguientes fases de CRISP-DM, particularmente para la preparación de los datos, selección de técnicas de modelado y evaluación de los resultados obtenidos.
+0183 [Ttulo2] 1.11 Cronograma o plan inicial del proyecto
+0184 [] Fase
+0185 [] Actividades
+0186 [] Responsable
+0187 [] Tiempo estimado
+0188 [] Comprensión del negocio
+0189 [] Problema, objetivos, alcance, requisitos y riesgos
+0190 [] Equipo desarrollador
+0191 [] 1 semana
+0192 [] Comprensión de los datos
+0193 [] Recolección, descripción, exploración y calidad
+0194 [] Equipo desarrollador
+0195 [] 1–2 semanas
+0196 [] Preparación de los datos
+0197 [] Limpieza, selección y transformación
+0198 [] Equipo desarrollador
+0199 [] 1–2 semanas
+0200 [] Modelado
+0201 [] Entrenamiento y ajuste de modelos
+0202 [] Equipo desarrollador
+0203 [] 2–3 semanas
+0204 [] Evaluación
+0205 [] Métricas, pruebas y comparación
+0206 [] Equipo desarrollador
+0207 [] 1–2 semanas
+0208 [] Despliegue
+0209 [] Integración de los componentes con el sistema
+0210 [] Equipo desarrollador
+0211 [] 1–2 semanas
+0213 [] Los tiempos son estimaciones iniciales y pueden ajustarse conforme avance el desarrollo.
+0214 [Ttulo2] Documento de requerimientos del negocio
+0215 [] Como resultado de la comprensión del negocio, se determina que el sistema debe centralizar la información del inventario y permitir gestionar productos, existencias, entradas, salidas, ubicaciones e historial de movimientos.
+0216 [] La solución debe fortalecer la trazabilidad mediante la identificación de empleados, facilitar el acceso a la información mediante lenguaje natural y aprovechar los registros históricos para analizar el comportamiento del inventario.
+0217 [] Los requerimientos del negocio se concentran en cuatro necesidades principales: gestión del inventario, trazabilidad de las operaciones, acceso inteligente a la información y análisis del comportamiento del inventario mediante Inteligencia Artificial.
+0218 [] Estas necesidades constituyen la base para definir los requerimientos funcionales y los objetivos técnicos que serán desarrollados durante las siguientes fases de CRISP-DM. La gestión del inventario y la trazabilidad corresponden a las necesidades operativas principales, mientras que el acceso mediante lenguaje natural y el análisis mediante Inteligencia Artificial corresponden a las necesidades relacionadas con el aprovechamiento de los datos.

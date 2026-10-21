@@ -1,0 +1,845 @@
+{
+  "pantallas": [
+    {
+      "modulo": "Dashboard",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Productos",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Movimientos",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Historial",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Alertas",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Empleados",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Análisis IA",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "JARVIS",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Mapa",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Predicción",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Conteo de inventario",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Anomalías",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Reportes",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Estado",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Configuración",
+      "solicitado": [
+        1366,
+        768
+      ],
+      "real": [
+        1366,
+        768
+      ]
+    },
+    {
+      "modulo": "Dashboard",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Productos",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Movimientos",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Historial",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Alertas",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Empleados",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Análisis IA",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "JARVIS",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Mapa",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Predicción",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Conteo de inventario",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Anomalías",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Reportes",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Estado",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Configuración",
+      "solicitado": [
+        1920,
+        1080
+      ],
+      "real": [
+        1920,
+        1061
+      ]
+    },
+    {
+      "modulo": "Dashboard",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Productos",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Movimientos",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Historial",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Alertas",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Empleados",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Análisis IA",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "JARVIS",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Mapa",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Predicción",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Conteo de inventario",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Anomalías",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Reportes",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Estado",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    },
+    {
+      "modulo": "Configuración",
+      "solicitado": [
+        1100,
+        650
+      ],
+      "real": [
+        1100,
+        650
+      ]
+    }
+  ],
+  "modales": [
+    {
+      "accion": "Nuevo producto",
+      "titulo": "Nuevo producto",
+      "tamano": [
+        700,
+        700
+      ]
+    },
+    {
+      "accion": "Registrar entrada",
+      "titulo": "Entrada de inventario",
+      "tamano": [
+        850,
+        740
+      ]
+    },
+    {
+      "accion": "Registrar salida",
+      "titulo": "Salida de inventario",
+      "tamano": [
+        850,
+        740
+      ]
+    },
+    {
+      "accion": "+ Nuevo producto",
+      "titulo": "Nuevo producto",
+      "tamano": [
+        700,
+        700
+      ]
+    },
+    {
+      "accion": "Editar",
+      "titulo": "Editar producto",
+      "tamano": [
+        700,
+        700
+      ]
+    },
+    {
+      "accion": "Ficha",
+      "titulo": "Ficha · DEMO-ACE-01",
+      "tamano": [
+        950,
+        740
+      ]
+    },
+    {
+      "accion": "Categorías",
+      "titulo": "Categorías",
+      "tamano": [
+        850,
+        650
+      ]
+    },
+    {
+      "accion": "Unidades",
+      "titulo": "Unidades",
+      "tamano": [
+        850,
+        650
+      ]
+    },
+    {
+      "accion": "Ubicaciones",
+      "titulo": "Ubicaciones",
+      "tamano": [
+        850,
+        650
+      ]
+    },
+    {
+      "accion": "Motivos",
+      "titulo": "Motivos",
+      "tamano": [
+        850,
+        650
+      ]
+    },
+    {
+      "accion": "Análisis de rotación",
+      "titulo": "Consumo y baja rotación",
+      "tamano": [
+        900,
+        680
+      ]
+    },
+    {
+      "accion": "Registrar entrada",
+      "titulo": "Entrada de inventario",
+      "tamano": [
+        850,
+        740
+      ]
+    },
+    {
+      "accion": "Registrar salida",
+      "titulo": "Salida de inventario",
+      "tamano": [
+        850,
+        740
+      ]
+    },
+    {
+      "accion": "Transferir producto",
+      "titulo": "Transferencia de inventario",
+      "tamano": [
+        850,
+        740
+      ]
+    },
+    {
+      "accion": "Ajuste de inventario",
+      "titulo": "Ajuste de inventario",
+      "tamano": [
+        850,
+        740
+      ]
+    },
+    {
+      "accion": "Nuevo empleado",
+      "titulo": "Nuevo empleado",
+      "tamano": [
+        520,
+        430
+      ]
+    },
+    {
+      "accion": "Editar",
+      "titulo": "Editar empleado",
+      "tamano": [
+        520,
+        430
+      ]
+    }
+  ],
+  "errores": [],
+  "controles_recortados": [],
+  "dashboard": {
+    "kpi": {
+      "productos": "24",
+      "stock": "1,712",
+      "bajo": "6",
+      "agotados": "1",
+      "alertas": "19",
+      "empleados": "16",
+      "reconocidos": "0",
+      "movimientos": "98",
+      "anomalias": "3",
+      "valor": "C$ 18,323.50",
+      "movimientos_dia": "0"
+    },
+    "base": "Conectada"
+  },
+  "jarvis_consulta_real": true,
+  "jarvis_respuesta": "Motor eléctrico: 15 Unidad disponibles.",
+  "tablas": [
+    {
+      "filas": 8,
+      "columnas": [
+        "fecha_movimiento",
+        "tipo_movimiento",
+        "producto",
+        "empleado",
+        "cantidad"
+      ]
+    },
+    {
+      "filas": 7,
+      "columnas": [
+        "codigo",
+        "nombre",
+        "stock_actual",
+        "stock_minimo",
+        "estado_stock"
+      ]
+    },
+    {
+      "filas": 8,
+      "columnas": [
+        "codigo",
+        "nombre",
+        "stock_actual",
+        "stock_minimo",
+        "estado_stock"
+      ]
+    },
+    {
+      "filas": 4,
+      "columnas": [
+        "fecha_movimiento",
+        "producto",
+        "cantidad",
+        "ubicacion_destino"
+      ]
+    },
+    {
+      "filas": 8,
+      "columnas": [
+        "fecha_movimiento",
+        "producto",
+        "cantidad",
+        "ubicacion_origen"
+      ]
+    },
+    {
+      "filas": 8,
+      "columnas": [
+        "fecha_generacion",
+        "tipo",
+        "nivel",
+        "mensaje",
+        "estado"
+      ]
+    },
+    {
+      "filas": 8,
+      "columnas": [
+        "fecha",
+        "nombre",
+        "codigo",
+        "estado"
+      ]
+    },
+    {
+      "filas": 24,
+      "columnas": [
+        "codigo",
+        "nombre",
+        "categoria",
+        "unidad",
+        "stock_actual",
+        "stock_minimo",
+        "estado_inventario",
+        "precio",
+        "valor_stock"
+      ]
+    },
+    {
+      "filas": 244,
+      "columnas": [
+        "fecha_movimiento",
+        "tipo_movimiento",
+        "empleado",
+        "codigo_producto",
+        "producto",
+        "cantidad",
+        "ubicacion_origen",
+        "ubicacion_destino",
+        "motivo",
+        "referencia",
+        "stock_anterior",
+        "stock_nuevo",
+        "observacion"
+      ]
+    },
+    {
+      "filas": 19,
+      "columnas": [
+        "fecha_generacion",
+        "tipo",
+        "nivel",
+        "producto",
+        "mensaje",
+        "estado"
+      ]
+    },
+    {
+      "filas": 16,
+      "columnas": [
+        "codigo_empleado",
+        "nombre",
+        "cargo",
+        "subject",
+        "estado_facial",
+        "estado_empleado"
+      ]
+    },
+    {
+      "filas": 0,
+      "columnas": [
+        "fecha",
+        "producto",
+        "empleado",
+        "cantidad",
+        "tipo_anomalia"
+      ]
+    },
+    {
+      "filas": 0,
+      "columnas": [
+        "codigo",
+        "nombre",
+        "cantidad",
+        "unidad"
+      ]
+    },
+    {
+      "filas": 24,
+      "columnas": [
+        "producto",
+        "stock",
+        "promedio",
+        "dias",
+        "riesgo"
+      ]
+    },
+    {
+      "filas": 0,
+      "columnas": [
+        "codigo",
+        "nombre",
+        "codigo_lote",
+        "cantidad_sistema",
+        "cantidad_fisica",
+        "diferencia"
+      ]
+    },
+    {
+      "filas": 3,
+      "columnas": [
+        "fecha",
+        "producto",
+        "tipo_movimiento",
+        "cantidad",
+        "tipo_anomalia",
+        "nivel",
+        "score",
+        "motivo",
+        "estado"
+      ]
+    },
+    {
+      "filas": 24,
+      "columnas": [
+        "codigo",
+        "nombre",
+        "categoria",
+        "unidad_medida",
+        "stock_actual",
+        "stock_minimo"
+      ]
+    }
+  ]
+}

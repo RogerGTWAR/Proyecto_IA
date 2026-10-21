@@ -1,0 +1,1035 @@
+{
+  "1366": [
+    {
+      "modulo": "Dashboard",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "tipo_movimiento",
+            "producto",
+            "empleado",
+            "cantidad"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1058,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 1275
+        },
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "stock_actual",
+            "stock_minimo",
+            "estado_stock"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1058,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 1572
+        },
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "stock_actual",
+            "stock_minimo",
+            "estado_stock"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1058,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 1869
+        },
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "producto",
+            "cantidad",
+            "ubicacion_destino"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1058,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 2166
+        },
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "producto",
+            "cantidad",
+            "ubicacion_origen"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1058,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 2463
+        },
+        {
+          "columnas": [
+            "fecha_generacion",
+            "tipo",
+            "nivel",
+            "mensaje",
+            "estado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1058,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 2760
+        },
+        {
+          "columnas": [
+            "fecha",
+            "nombre",
+            "codigo",
+            "estado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1058,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 3057
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Productos",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "categoria",
+            "unidad",
+            "stock_actual",
+            "stock_minimo",
+            "estado_inventario",
+            "precio",
+            "valor_stock"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1090,
+          "alto": 215,
+          "pixeles_visibles": 215,
+          "inicio_y": 498
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Movimientos",
+      "tablas": [
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Historial",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "tipo_movimiento",
+            "empleado",
+            "codigo_producto",
+            "producto",
+            "cantidad",
+            "ubicacion_origen",
+            "ubicacion_destino",
+            "motivo",
+            "referencia",
+            "stock_anterior",
+            "stock_nuevo",
+            "observacion"
+          ],
+          "visibles": [
+            "fecha_movimiento",
+            "tipo_movimiento",
+            "empleado",
+            "producto",
+            "cantidad",
+            "ubicacion_origen",
+            "ubicacion_destino",
+            "stock_anterior",
+            "stock_nuevo"
+          ],
+          "ancho": 1101,
+          "alto": 374,
+          "pixeles_visibles": 374,
+          "inicio_y": 334
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Alertas",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha_generacion",
+            "tipo",
+            "nivel",
+            "producto",
+            "mensaje",
+            "estado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1101,
+          "alto": 246,
+          "pixeles_visibles": 246,
+          "inicio_y": 342
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Empleados",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo_empleado",
+            "nombre",
+            "cargo",
+            "subject",
+            "estado_facial",
+            "estado_empleado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1090,
+          "alto": 215,
+          "pixeles_visibles": 20,
+          "inicio_y": 718
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Análisis IA",
+      "tablas": [
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "JARVIS",
+      "tablas": [
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Mapa",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "cantidad",
+            "unidad",
+            "posicion"
+          ],
+          "visibles": [
+            "nombre",
+            "cantidad",
+            "posicion"
+          ],
+          "ancho": 1058,
+          "alto": 107,
+          "pixeles_visibles": 0,
+          "inicio_y": 1600
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Predicción",
+      "tablas": [
+        {
+          "columnas": [
+            "producto",
+            "stock",
+            "promedio",
+            "dias",
+            "riesgo"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1101,
+          "alto": 327,
+          "pixeles_visibles": 327,
+          "inicio_y": 190
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Conteo de inventario",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "posicion",
+            "cantidad_sistema",
+            "cantidad_fisica",
+            "diferencia",
+            "estado_conteo"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1101,
+          "alto": 181,
+          "pixeles_visibles": 181,
+          "inicio_y": 379
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Vigilancia",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha",
+            "zona",
+            "track",
+            "identidad",
+            "sql",
+            "telegram"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1090,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 778
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Anomalías",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha",
+            "producto",
+            "tipo_movimiento",
+            "cantidad",
+            "tipo_anomalia",
+            "nivel",
+            "score",
+            "motivo",
+            "estado"
+          ],
+          "visibles": [
+            "fecha",
+            "producto",
+            "tipo_movimiento",
+            "cantidad",
+            "nivel",
+            "score",
+            "estado"
+          ],
+          "ancho": 1101,
+          "alto": 346,
+          "pixeles_visibles": 346,
+          "inicio_y": 362
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Reportes",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "categoria",
+            "unidad_medida",
+            "stock_actual",
+            "stock_minimo",
+            "estado_stock",
+            "ubicaciones"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1062,
+          "alto": 271,
+          "pixeles_visibles": 251,
+          "inicio_y": 487
+        },
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Estado",
+      "tablas": [
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 650,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 540
+        }
+      ]
+    },
+    {
+      "modulo": "Configuración",
+      "tablas": [
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1051,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 543
+        }
+      ]
+    }
+  ],
+  "1920": [
+    {
+      "modulo": "Dashboard",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "tipo_movimiento",
+            "producto",
+            "empleado",
+            "cantidad"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1612,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 1275
+        },
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "stock_actual",
+            "stock_minimo",
+            "estado_stock"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1612,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 1572
+        },
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "stock_actual",
+            "stock_minimo",
+            "estado_stock"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1612,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 1869
+        },
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "producto",
+            "cantidad",
+            "ubicacion_destino"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1612,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 2166
+        },
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "producto",
+            "cantidad",
+            "ubicacion_origen"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1612,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 2463
+        },
+        {
+          "columnas": [
+            "fecha_generacion",
+            "tipo",
+            "nivel",
+            "mensaje",
+            "estado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1612,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 2760
+        },
+        {
+          "columnas": [
+            "fecha",
+            "nombre",
+            "codigo",
+            "estado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1612,
+          "alto": 179,
+          "pixeles_visibles": 0,
+          "inicio_y": 3057
+        }
+      ]
+    },
+    {
+      "modulo": "Productos",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "categoria",
+            "unidad",
+            "stock_actual",
+            "stock_minimo",
+            "estado_inventario",
+            "precio",
+            "valor_stock"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1655,
+          "alto": 464,
+          "pixeles_visibles": 464,
+          "inicio_y": 498
+        }
+      ]
+    },
+    {
+      "modulo": "Movimientos",
+      "tablas": []
+    },
+    {
+      "modulo": "Historial",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha_movimiento",
+            "tipo_movimiento",
+            "empleado",
+            "codigo_producto",
+            "producto",
+            "cantidad",
+            "ubicacion_origen",
+            "ubicacion_destino",
+            "motivo",
+            "referencia",
+            "stock_anterior",
+            "stock_nuevo",
+            "observacion"
+          ],
+          "visibles": [
+            "fecha_movimiento",
+            "tipo_movimiento",
+            "empleado",
+            "producto",
+            "cantidad",
+            "ubicacion_origen",
+            "ubicacion_destino",
+            "stock_anterior",
+            "stock_nuevo"
+          ],
+          "ancho": 1655,
+          "alto": 667,
+          "pixeles_visibles": 667,
+          "inicio_y": 334
+        }
+      ]
+    },
+    {
+      "modulo": "Alertas",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha_generacion",
+            "tipo",
+            "nivel",
+            "producto",
+            "mensaje",
+            "estado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1655,
+          "alto": 539,
+          "pixeles_visibles": 539,
+          "inicio_y": 342
+        }
+      ]
+    },
+    {
+      "modulo": "Empleados",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo_empleado",
+            "nombre",
+            "cargo",
+            "subject",
+            "estado_facial",
+            "estado_empleado"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1655,
+          "alto": 236,
+          "pixeles_visibles": 236,
+          "inicio_y": 718
+        }
+      ]
+    },
+    {
+      "modulo": "Análisis IA",
+      "tablas": []
+    },
+    {
+      "modulo": "JARVIS",
+      "tablas": []
+    },
+    {
+      "modulo": "Mapa",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "cantidad",
+            "unidad",
+            "posicion"
+          ],
+          "visibles": [
+            "nombre",
+            "cantidad",
+            "posicion"
+          ],
+          "ancho": 275,
+          "alto": 206,
+          "pixeles_visibles": 206,
+          "inicio_y": 484
+        }
+      ]
+    },
+    {
+      "modulo": "Predicción",
+      "tablas": [
+        {
+          "columnas": [
+            "producto",
+            "stock",
+            "promedio",
+            "dias",
+            "riesgo"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1655,
+          "alto": 620,
+          "pixeles_visibles": 620,
+          "inicio_y": 190
+        }
+      ]
+    },
+    {
+      "modulo": "Conteo de inventario",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "posicion",
+            "cantidad_sistema",
+            "cantidad_fisica",
+            "diferencia",
+            "estado_conteo"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1655,
+          "alto": 474,
+          "pixeles_visibles": 474,
+          "inicio_y": 379
+        }
+      ]
+    },
+    {
+      "modulo": "Vigilancia",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha",
+            "zona",
+            "track",
+            "identidad",
+            "sql",
+            "telegram"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1655,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 778
+        }
+      ]
+    },
+    {
+      "modulo": "Anomalías",
+      "tablas": [
+        {
+          "columnas": [
+            "fecha",
+            "producto",
+            "tipo_movimiento",
+            "cantidad",
+            "tipo_anomalia",
+            "nivel",
+            "score",
+            "motivo",
+            "estado"
+          ],
+          "visibles": [
+            "fecha",
+            "producto",
+            "tipo_movimiento",
+            "cantidad",
+            "nivel",
+            "score",
+            "estado"
+          ],
+          "ancho": 1655,
+          "alto": 639,
+          "pixeles_visibles": 639,
+          "inicio_y": 362
+        }
+      ]
+    },
+    {
+      "modulo": "Reportes",
+      "tablas": [
+        {
+          "columnas": [
+            "codigo",
+            "nombre",
+            "categoria",
+            "unidad_medida",
+            "stock_actual",
+            "stock_minimo",
+            "estado_stock",
+            "ubicaciones"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1627,
+          "alto": 500,
+          "pixeles_visibles": 500,
+          "inicio_y": 487
+        }
+      ]
+    },
+    {
+      "modulo": "Estado",
+      "tablas": []
+    },
+    {
+      "modulo": "Configuración",
+      "tablas": [
+        {
+          "columnas": [
+            "referencia",
+            "estado",
+            "intentos",
+            "fecha"
+          ],
+          "visibles": [
+            "#all"
+          ],
+          "ancho": 1616,
+          "alto": 179,
+          "pixeles_visibles": 179,
+          "inicio_y": 543
+        }
+      ]
+    }
+  ]
+}

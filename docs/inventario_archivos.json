@@ -1,0 +1,5202 @@
+[
+  {
+    "archivo": ".env",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": ".git/",
+    "categoria": "SOPORTE",
+    "motivo": "Directorio administrado externamente; no se modifica ni se desglosa."
+  },
+  {
+    "archivo": ".gitignore",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": ".venv/",
+    "categoria": "SOPORTE",
+    "motivo": "Directorio administrado externamente; no se modifica ni se desglosa."
+  },
+  {
+    "archivo": ".vscode/settings.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/Readme.txt",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject01.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject02.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject03.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject04.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject05.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject06.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject07.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject08.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject09.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject10.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject11.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject12.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject13.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject14.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.centerlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.glasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.happy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.leftlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.noglasses.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.normal.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.rightlight.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.sad.gif.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.sleepy.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.surprised.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject15.wink.gif",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture001.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture002.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture003.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture004.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture005.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture006.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture007.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture008.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture009.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture010.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture011.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture012.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture013.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture014.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture015.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture016.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture017.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture018.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture019.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture020.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture021.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture022.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture023.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture024.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture025.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture026.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture027.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture028.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture029.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject16.capture030.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture001.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture002.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture003.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture004.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture005.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture006.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture007.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture008.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture009.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture010.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture011.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture012.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture013.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture014.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture015.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture016.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture017.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture018.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture019.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture020.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture021.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture022.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture023.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture024.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture025.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture026.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture027.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture028.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture029.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject17.capture030.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture001.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture002.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture003.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture004.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture005.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture006.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture007.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture008.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture009.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture010.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture011.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture012.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture013.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture014.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture015.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture016.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture017.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture018.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture019.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture020.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture021.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture022.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture023.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture024.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture025.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture026.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture027.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture028.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture029.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject18.capture030.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.001.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.002.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.003.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.004.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.005.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.006.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.007.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.008.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.009.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.010.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.011.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.012.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.013.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.014.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.015.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.016.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.017.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.018.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.019.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.020.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.021.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.022.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.023.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.024.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.025.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.026.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.027.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "Clasificacion/rostros/DataSet01/data/subject19.capturec2e5a535b8214231afe1ca2786c88c85.028.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "README.md",
+    "categoria": "DOCUMENTACION",
+    "motivo": "Documento conservado."
+  },
+  {
+    "archivo": "agente_inventario.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "alertas.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "anomalias_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "api_jarvis.py",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "arduino/inventario_leds.ino",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "arduino_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "asistente_voz.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/SEGURIDAD_Y_AUDITORIA.md.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/_retirar_seguridad.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/administracion_ui.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/alta_administrador_inicial.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/auditoria_service.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/auth_service.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/controles_ui.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/login_ui.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/migrar_seguridad.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/migrar_seguridad.sql.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/migrations__001_roles_permisos_auditoria.sql.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/migrations__002_alta_usuarios_solicitada.sql.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/passwords.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/probar_seguridad.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/roles_service.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/seguridad.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/session_manager.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/usuarios_service.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/verificar_esquema_seguridad.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/verificar_login_ui.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_acceso_retirado/verificar_roles_ui.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/carga_historica.md.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/carga_historica.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/consulta_historica.sql.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/esquema_historico.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/validacion_historica.py.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/version_anterior_20261012/cargar_datos_inventario.py",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/version_anterior_20261012/catalogo_inventario.json",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/version_anterior_20261012/registros_inventario.sql",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/version_anterior_20261012/resultado_carga_inventario.json",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/archivo_cargas_anteriores/version_anterior_20261012/resultado_validacion_inventario.json",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/cnn/imagenes_71b7da7163779c49177b.zip",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/documentacion/README_modelado_20261011_185510.zip",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/documentacion/markdown_20261007_232514.zip",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/documentos_privados/Usuario Y Contraseña.txt",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/inventario/inventario_20261006_165527_489415.json",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/inventario/inventario_20261006_170002_902192.json",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/limpieza/aplicar_limpieza_anterior.ps1.retirado",
+    "categoria": "OBSOLETO",
+    "motivo": "Archivo retirado conservado como historial."
+  },
+  {
+    "archivo": "backups/limpieza/estructura_20261007_230847.zip",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/limpieza/organizacion_20261016.zip",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/limpieza/plan_limpieza_anterior.json",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "backups/limpieza/respaldo_verificado.json",
+    "categoria": "SOPORTE",
+    "motivo": "Respaldo conservado; no se elimina."
+  },
+  {
+    "archivo": "base_facial.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "cache_voz/5143b66c8405283820a7811ba488b3e23968fb9f7710e9281df4c22b7d5aca16.mp3",
+    "categoria": "TEMPORAL",
+    "motivo": "Cache funcional conservada; regenerable."
+  },
+  {
+    "archivo": "cache_voz/63ad80057f6e34391f05a6cd2a12984e61290cfc47661dea3f91bc67933a4068.mp3",
+    "categoria": "TEMPORAL",
+    "motivo": "Cache funcional conservada; regenerable."
+  },
+  {
+    "archivo": "cache_voz/65b6d5f5a6add72b481bd0a49f5ef1a9b943e5b649b6642daa98eaaf216ce53c.mp3",
+    "categoria": "TEMPORAL",
+    "motivo": "Cache funcional conservada; regenerable."
+  },
+  {
+    "archivo": "cache_voz/8c9fa528129351302a133eddf1700c99e9fab0dd8cb4cc1cb01ce68b073ce071.mp3",
+    "categoria": "TEMPORAL",
+    "motivo": "Cache funcional conservada; regenerable."
+  },
+  {
+    "archivo": "cache_voz/b309d567c87e8c8f3fd3116dcc3b932fe2ccdac71111beb587ff284ba5835127.mp3",
+    "categoria": "TEMPORAL",
+    "motivo": "Cache funcional conservada; regenerable."
+  },
+  {
+    "archivo": "cache_voz/d0256eadd4714162ee6f60b44eac3390987da57d769599e34cf4989ed4b4f380.mp3",
+    "categoria": "TEMPORAL",
+    "motivo": "Cache funcional conservada; regenerable."
+  },
+  {
+    "archivo": "cache_voz/f779cdc4fc4154df03aad38fd74a64c8ac35b00b8bece5059c33ab8d99e6eea3.mp3",
+    "categoria": "TEMPORAL",
+    "motivo": "Cache funcional conservada; regenerable."
+  },
+  {
+    "archivo": "calibracion_cnn.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "camara_utils.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "captura_rostros.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "cnn_dataset.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "cnn_dataset_actual.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "config_manager.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "config_sistema.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "configuracion_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "conteo_inventario.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "dashboard.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "database.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "dataset_rostros.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "deteccion_anomalias.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "diagnostico_cnn.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "diagnostico_facial_basico.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "docs/INFORME_CRISP_DM_IMPLEMENTACION.md",
+    "categoria": "DOCUMENTACION",
+    "motivo": "Documento conservado."
+  },
+  {
+    "archivo": "docs/LIMPIEZA_PROYECTO.md",
+    "categoria": "DOCUMENTACION",
+    "motivo": "Informe de limpieza y decisiones verificadas."
+  },
+  {
+    "archivo": "docs/dependencias_proyecto.json",
+    "categoria": "RESULTADO",
+    "motivo": "Inventario o analisis estructural."
+  },
+  {
+    "archivo": "docs/entregables/Primer_Entregable_IA_Actualizado.docx",
+    "categoria": "DOCUMENTACION",
+    "motivo": "Documento conservado."
+  },
+  {
+    "archivo": "docs/entregables/Segundo Entregable corregido.docx",
+    "categoria": "DOCUMENTACION",
+    "motivo": "Documento conservado."
+  },
+  {
+    "archivo": "docs/entregables/Sistema_Inteligente_Inventario_Actualizado.docx",
+    "categoria": "DOCUMENTACION",
+    "motivo": "Documento conservado."
+  },
+  {
+    "archivo": "docs/inventario_archivos.json",
+    "categoria": "RESULTADO",
+    "motivo": "Inventario o analisis estructural."
+  },
+  {
+    "archivo": "empleados.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "entrenar_cnn_rostros.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "estado_sistema.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "estado_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "evaluacion_facial/benchmark.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/calibracion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/camara_dataset_actual.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/captura_guiada.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/dataset.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/dataset_actual.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/diagnostico_sesiones.txt",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/entrenamiento_dataset_actual.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/informe_final.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/inventario_imagenes.csv",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/matriz_confusion.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/preparacion_sesiones.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/respaldo_imagenes.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/respaldos/20261014_182904_471207/calibracion_cnn.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/respaldos/20261014_183432_662807/calibracion_cnn.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/respaldos/20261014_224930_780543/calibracion_cnn.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/respaldos/20261015_084934_323037/calibracion_cnn.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/cnn/sface.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/diagnostico_antes_correccion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/diagnostico_basico.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/diagnostico_completo.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/distribuciones_similitud.csv",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/evaluacion_separada.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/matriz_similitud.csv",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/regeneracion_actual.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/rendimiento_camara_local.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/rendimiento_cnn_actual.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/rendimiento_embeddings_actual.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_204657_856576/calibracion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_204657_856576/galeria.npz",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_205510_058547/calibracion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_205510_058547/galeria.npz",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_205739_689807/calibracion_cnn.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_234306_767835/calibracion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_234306_767835/galeria.npz",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_234310_060228/calibracion_cnn.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_234350_559641/calibracion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_234350_559641/galeria.npz",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/respaldos/20261013_234353_769508/calibracion_cnn.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "evaluacion_facial/verificacion_pipeline.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "formato_numerico.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "herramientas/actualizar_desde_exportacion_sql.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/diagnostico_modelo_rostros.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/evaluar_reconocimiento_facial.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/generar_registros_sql.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/inspeccionar_esquema.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/medir_motores_faciales.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/migrar_anomalias.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/migrar_inventario.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/normalizar_historial_inventario.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/plantilla_normalizacion_historial.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "herramientas/preparar_historial_operativo.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/reorganizar_estantes.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/retirar_acceso_sql.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/revisar_cnn.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/verificar_camara_cnn_actual.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas/verificar_inventario.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "herramientas_jarvis.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "intenciones_jarvis.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "interfaz.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "inventario_service.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "inventario_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "jarvis_personality.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "led_service.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "llm_jarvis.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "lotes_service.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "main.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "mapa_almacen.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "migrations/003_retirar_acceso_auditoria.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "migrations/004_mejoras_inventario.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "migrations/005_anomalias_funcionales.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "modelo_cnn.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "modelos/calibracion_cnn.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/cnn_dataset_actual/entrenamientos/391d02de5c1e4ad9a163635aa8a2df78/class_indices.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/cnn_dataset_actual/entrenamientos/391d02de5c1e4ad9a163635aa8a2df78/matriz_confusion.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/cnn_dataset_actual/entrenamientos/391d02de5c1e4ad9a163635aa8a2df78/metricas.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/cnn_dataset_actual/entrenamientos/391d02de5c1e4ad9a163635aa8a2df78/modelo.keras",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/cnn_dataset_actual/entrenamientos/391d02de5c1e4ad9a163635aa8a2df78/particiones.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/cnn_dataset_actual/entrenamientos/391d02de5c1e4ad9a163635aa8a2df78/politica.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/cnn_dataset_actual/vigente.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/diagnostico_calibracion_cnn.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/entrenamiento_rostros.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/etiquetas_rostros.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/base_muestras.npz",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/calibracion.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/face_detection_yunet_2023mar.onnx",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/face_recognition_sface_2021dec.onnx",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/galeria.npz",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/galeria_respaldo_20261013_010902_835057.npz",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/galeria_respaldo_20261013_040235_186247.npz",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/galeria_respaldo_20261013_204657_800510.npz",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/galeria_respaldo_20261013_234322_286964.npz",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/registro.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture001.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture002.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture003.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture004.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture005.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture006.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture007.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture008.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture009.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture010.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture011.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture012.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture013.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture014.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture015.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture016.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture017.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture018.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture019.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture020.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture021.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture022.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture023.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture024.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture025.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture026.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture027.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/facial_embeddings/muestras/subject19/c2e5a535b8214231afe1ca2786c88c85/subject19.capture028.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/matriz_confusion_rostros.png",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/metricas_modelo_rostros.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/modelo_rostros.keras",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/modelo_rostros_anterior.keras",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos/particiones_cnn.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/.gitkeep",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/README",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/am/final.mdl",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/conf/mfcc.conf",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/conf/model.conf",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/graph/Gr.fst",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/graph/HCLr.fst",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/graph/disambig_tid.int",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/graph/phones/word_boundary.int",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/ivector/final.dubm",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/ivector/final.ie",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/ivector/final.mat",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/ivector/global_cmvn.stats",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/ivector/online_cmvn.conf",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "modelos_voz/vosk-model-small-es-0.42/ivector/splice.conf",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "movimientos.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "nlp_jarvis.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "organizacion_fisica.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/Segundo Entregable corregido.docx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/consulta_lectura.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/corregir_fases.py",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/fases_completas.txt",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/original-17.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-08.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-09.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-15.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-16.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-17.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-18.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-19.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-20.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-21.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-22.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-23.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-24.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-25.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-26.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-27.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-28.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-29.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-30.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-31.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas/page-32.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/paginas_indice.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/renderizar_word.ps1",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/documentos/segundo_entregable/texto_paginas.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/actualizacion_desde_sql.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/diagnostico_historial_operativo.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/limpieza_proyecto.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/normalizacion_historial.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/plan_historial_operativo.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/reorganizacion_estantes.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/resultado_carga_inventario.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "outputs/validaciones/resultado_validacion_inventario.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "pipeline_facial.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "pipeline_facial_basico.py",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "prediccion_stock.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "prediccion_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "productos.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "pruebas/probar_agente_avanzado.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_alertas_prediccion.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_cnn_dataset_actual.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_cobertura_jarvis.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_consultas_historial.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_contexto_jarvis.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_correccion_facial.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_dashboard.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_integracion_central.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_integracion_voz.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_inventario.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_led_service.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_modulos_operativos.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_nlp_jarvis.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_optimizacion_facial.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_organizacion_fisica.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_pipeline_facial.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_reportes.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_seguridad_cnn.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_sesiones_cnn.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_tablas_presentacion.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_tts.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/probar_voz.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "pruebas/requirements.txt",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "reconocimiento_cnn.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "reconocimiento_embeddings.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "reconocimiento_facial.py",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "reconocimiento_facial_config.json",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "report_render.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "report_theme.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "reportes.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "reportes_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "requirements.txt",
+    "categoria": "SOPORTE",
+    "motivo": "Recurso, configuracion o entrada independiente conservada por compatibilidad."
+  },
+  {
+    "archivo": "rostros_empleados.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "seguridad_cnn.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "sesiones_cnn.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "sql/Base de Datos.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "sql/normalizar_historial_inventario.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "sql/registros_inventario.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "sql/reorganizar_estantes.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "sql/verificar_estantes.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "sql/verificar_historial_inventario.sql",
+    "categoria": "SOPORTE",
+    "motivo": "Esquema, migracion, carga o consulta manual conservada."
+  },
+  {
+    "archivo": "tareas_ui.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "tipos_alerta.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "ui_components.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "ui_theme.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "ventanas_camara.py",
+    "categoria": "PRODUCCION",
+    "motivo": "Importado desde main, incluyendo callbacks y ramas opcionales."
+  },
+  {
+    "archivo": "verificacion_ui/1_AUDITORÍA.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/1_ROLES_Y_PERMISOS.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/1_Usuarios.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/arduino/configuracion_1366.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/arduino/mapa_1366.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/arduino/mapa_1920.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/arduino/revision.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/callbacks.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/camara.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/chat_jarvis.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/comprobar_datos_finales.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_0.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_5.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_6.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/configuracion_inicial.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/dashboard_actividad.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/dashboard_secciones.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/datos_demo_validacion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Alertas.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Anomalías.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Análisis_IA.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Historial.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Mapa.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Predicción.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Productos.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1366_Reportes.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Alertas.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Anomalías.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Análisis_IA.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Historial.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Mapa.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Predicción.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Productos.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/1920_Reportes.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/densidad/revision.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_00.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_08.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_09.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/1366_14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/Nuevo_empleado.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/Registrar_ajuste.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/Registrar_entrada.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/Registrar_salida.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/Transferir_producto.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/_Nuevo_producto.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/panel_0.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/panel_1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/panel_2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/panel_3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/distribucion/validacion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/arquitectura.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/crear_documento.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/evidencia_actual.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/evidencia_sql.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/facial.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/integracion.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/jarvis.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/leer_referencias.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-08.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-09.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-15.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-16.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-17.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-18.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-19.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-20.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-21.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-22.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-23.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-24.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-25.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-26.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-27.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-28.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-29.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-30.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-31.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-32.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-33.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-34.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/paginas/pagina-35.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/ref1_0.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/referencia_1.txt",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/referencia_2.txt",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/renderizar_paginas.ps1",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/renderizar_word.ps1",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/resumen_documento.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/doc_word/texto_paginas.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/escaner_facial.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/esquema_demo_antes.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/jarvis_consulta_real.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/jarvis_mapa_real.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/jarvis_mensajes.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/jarvis_prediccion_contextual.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/login_local.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/mapa_estantes.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/minimo_0.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/minimo_4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/minimo_6.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_15.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_16.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_17.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_5.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_6.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_7.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_8.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modal_9.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_0.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_5.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_6.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_7.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_8.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/modulo_9.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/actualizar.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/artifact.md",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/paginas/pagina-08.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/referencia_paginas/pagina-01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/referencia_paginas/pagina-02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/referencia_paginas/pagina-03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/referencia_paginas/pagina-04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/referencia_paginas/pagina-05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/referencia_paginas/pagina-06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/referencia_paginas/pagina-07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/render_final.ps1",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/render_original.ps1",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/primer_entregable/texto_paginas.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/qa_imagen_ui.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Agotados_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Agotados_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Agotados_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Agotados_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Agotados_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Agotados_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Alertas_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Alertas_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Alertas_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Alertas_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Alertas_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Alertas_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Anomalias.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Anomalias_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Anomalias_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Anomalias_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Anomalias_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Anomalias_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Anomalias_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Empleados_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Empleados_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Empleados_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Empleados_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Empleados_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Empleados_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Entradas_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Entradas_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Entradas_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Entradas_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Entradas_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Entradas_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Historial_de_movimientos_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Historial_de_movimientos_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Historial_de_movimientos_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Historial_de_movimientos_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Historial_de_movimientos_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Historial_de_movimientos_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_actual_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_por_ubicacion_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_por_ubicacion_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_por_ubicacion_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_por_ubicacion_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_por_ubicacion_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Inventario_por_ubicacion_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Prediccion_de_stock_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Prediccion_de_stock_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Prediccion_de_stock_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Prediccion_de_stock_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Prediccion_de_stock_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Prediccion_de_stock_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Productos_por_categoria_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Productos_por_categoria_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Productos_por_categoria_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Productos_por_categoria_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Productos_por_categoria_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Productos_por_categoria_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Reconocimiento_facial_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Reconocimiento_facial_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Reconocimiento_facial_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Reconocimiento_facial_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Reconocimiento_facial_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Reconocimiento_facial_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Resumen_general_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Resumen_general_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Resumen_general_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Resumen_general_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Resumen_general_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Resumen_general_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Salidas_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Salidas_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Salidas_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Salidas_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Salidas_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Salidas_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Stock_bajo_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Stock_bajo_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Stock_bajo_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Stock_bajo_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Stock_bajo_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Stock_bajo_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Transferencias_2026-10-04.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Transferencias_2026-10-04.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Transferencias_2026-10-04_01.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Transferencias_2026-10-04_01.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Transferencias_2026-10-04_02.pdf",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/Transferencias_2026-10-04_02.xlsx",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/anomalias-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/excel.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_00-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_00-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_00-3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_00-4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_01-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_01-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_02-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_03-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_03-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_03-3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_03-4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_03-5.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_03-6.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-08.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-09.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-15.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-16.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-17.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-18.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-19.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-20.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-21.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-22.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-23.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-24.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-25.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-26.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-27.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_04-28.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_05-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_05-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-08.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-09.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-15.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-16.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-17.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-18.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-19.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-20.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-21.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-22.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-23.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-24.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-25.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-26.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-27.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-28.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-29.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-30.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-31.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-32.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-33.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_06-34.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_07-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_07-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_07-3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_07-4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_08-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_08-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_08-3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_08-4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_09-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_09-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_09-3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_09-4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_09-5.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_10-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_10-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_11-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_11-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_11-3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_11-4.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_12-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_13-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_14-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_14-2.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/final_14-3.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/generar_reales.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/inventario-1.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/node_modules/",
+    "categoria": "SOPORTE",
+    "motivo": "Directorio administrado externamente; no se modifica ni se desglosa."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/pantalla_inventario.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/pantalla_resumen.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/probar_ui.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/renderizar.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revisar_excel.mjs",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_00.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_02.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_03.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_04.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_05.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_06.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_07.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_08.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_09.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_10.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_11.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_12.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_13.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_14.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_15.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/revision_16.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/salidas-01.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes/verificacion.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/reportes_vista_previa.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/resultado.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/rol_permisos_checkboxes.png",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/roles_1.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/roles_2.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/roles_3.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/roles_4.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/seed_demo_aplicar.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/seed_demo_simular.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/seed_demo_ya_cargado.json",
+    "categoria": "RESULTADO",
+    "motivo": "Salida o evidencia conservada."
+  },
+  {
+    "archivo": "verificacion_ui/validar_arduino_simulacion.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_cnn_aislada.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_cnn_dataset_actual.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_densidad_visual.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_distribucion.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_mapa_estantes.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_prediccion_alertas.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_productos_jarvis_mapa.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_registros_sql.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/validar_tablas_presentacion.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  },
+  {
+    "archivo": "verificacion_ui/verificar_interfaz_visual.py",
+    "categoria": "DESARROLLO",
+    "motivo": "Herramienta manual o verificacion, fuera del arranque."
+  }
+]

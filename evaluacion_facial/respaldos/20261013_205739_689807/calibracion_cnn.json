@@ -1,0 +1,12 @@
+{
+  "threshold": 0.9660459160804749,
+  "modelo_sha256": "8b687a56c110a70c102ff5a1bfbaf6a9956589adf00176d069a461e773d9c173",
+  "etiquetas_sha256": "7a0b5b3569572374d6460cb3e9f31e5a82e39a472a827322d40c28bac96a0821",
+  "preprocesamiento": "gris-100x100-float32-0-1",
+  "imagenes": 39,
+  "correctas": 36,
+  "aceptadas_correctas": 30,
+  "incorrectas_aceptadas": 0,
+  "inferencia_lote_ms_por_imagen": 0.6340487179487243,
+  "nota": "Medición cerrada con partición reproducible. No valida desconocidos ni sesiones nuevas de cámara."
+}

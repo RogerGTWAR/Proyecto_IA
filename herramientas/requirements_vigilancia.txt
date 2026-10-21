@@ -1,0 +1,5 @@
+# Instalar con --no-deps, después de PyTorch CPU y los auxiliares del README.
+# Ultralytics declara opencv-python; el proyecto utiliza opencv-contrib-python.
+ultralytics==8.3.228
+ultralytics-thop==2.0.18
+lap==0.5.12

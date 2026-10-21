@@ -1,0 +1,113 @@
+{
+  "threshold": 0.48851728439331055,
+  "margen": 0.2550157308578491,
+  "min_rostro": 80,
+  "calibrada": true,
+  "pipeline": "yunet-sface-bgr-align-v1-top3",
+  "galeria_sha256": "ccbe64c82196b12a4c25123d8b079dddeb9d283c8168703c0a2a8928c4160b85",
+  "config_sha256": "2c00c0e16ab98b18229f2a188859f11f878eceb2523b7058843488ba9df73653",
+  "alcance": "registro_calibracion_evaluacion_imagenes_separadas",
+  "validacion_desconocidos": "pendiente",
+  "particiones": {
+    "subject01": {
+      "registro": 8,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject02": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject03": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject04": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject05": {
+      "registro": 8,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject06": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject07": {
+      "registro": 5,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject08": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject09": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject10": {
+      "registro": 8,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject11": {
+      "registro": 8,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject12": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject13": {
+      "registro": 8,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject14": {
+      "registro": 7,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject15": {
+      "registro": 8,
+      "calibracion": 1,
+      "evaluacion": 2
+    },
+    "subject19": {
+      "registro": 15,
+      "calibracion": 6,
+      "evaluacion": 7
+    }
+  },
+  "intra_min": 0.6620216369628906,
+  "inter_max": 0.31501293182373047,
+  "intra": {
+    "cantidad": 21,
+    "minimo": 0.6620216369628906,
+    "promedio": 0.8250072229476202,
+    "maximo": 0.9256507754325867
+  },
+  "inter": {
+    "cantidad": 21,
+    "minimo": 0.10388803482055664,
+    "promedio": 0.21262743501436143,
+    "maximo": 0.31501293182373047
+  },
+  "evaluacion": {
+    "imagenes": 37,
+    "correctas_aceptadas": 37,
+    "identidades_incorrectas_aceptadas": 0
+  },
+  "nota": "Imágenes separadas; las capturas de una misma sesión siguen correlacionadas. Falta evaluación con desconocidos y sesiones nuevas."
+}

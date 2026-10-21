@@ -1,0 +1,3 @@
+-r ../requirements.txt
+# Lectura y comprobación de paginación de los PDF exportados.
+pypdf>=6,<7

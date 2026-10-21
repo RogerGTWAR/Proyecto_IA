@@ -1,0 +1,152 @@
+{
+  "telegram": {
+    "habilitado": true,
+    "bot_habilitado": true,
+    "inventario": true,
+    "alertas": true,
+    "prediccion": true,
+    "anomalias": true,
+    "vigilancia": true,
+    "facial": true,
+    "sistema": true,
+    "nivel_minimo": "TODAS"
+  },
+  "vigilancia": {
+    "yolo_model": "modelos/vigilancia/yolov8n.pt",
+    "confidence_threshold": 0.45,
+    "camera_source": 0,
+    "camera_name": "Cámara principal",
+    "intrusion_enabled": true,
+    "telegram_enabled": true,
+    "cooldown_seconds": 45.0,
+    "zone_name": "Zona restringida",
+    "zone_polygon": [
+      [
+        0.06373056994818653,
+        0.11970534069981584
+      ],
+      [
+        0.06994818652849741,
+        0.8987108655616943
+      ],
+      [
+        0.6668393782383419,
+        0.8360957642725598
+      ],
+      [
+        0.7238341968911917,
+        0.7274401473296501
+      ],
+      [
+        0.7725388601036269,
+        0.6206261510128913
+      ],
+      [
+        0.8129533678756476,
+        0.425414364640884
+      ]
+    ],
+    "clip_before_seconds": 3.0,
+    "clip_after_seconds": 5.0,
+    "clip_fps": 8,
+    "image_size": 640,
+    "confirm_frames": 3,
+    "track_ttl_seconds": 2.0,
+    "camera_source_intrusion": 0,
+    "camera_source_employees": 1,
+    "camera_name_employees": "Sala de personal",
+    "room_name": "Habitación de empleados",
+    "presence_confidence": 0.45,
+    "presence_image_size": 480,
+    "presence_fps_limit": 8,
+    "presence_confirm_frames": 3,
+    "presence_exit_timeout": 3.0,
+    "presence_face_interval": 0.6,
+    "presence_revalidate_seconds": 60.0,
+    "presence_unknown_frames": 3,
+    "presence_notify_unknown": true,
+    "presence_notify_entries": false,
+    "presence_notify_exits": false,
+    "presence_notify_errors": true
+  },
+  "arduino": {
+    "habilitado": false,
+    "modo": "simulacion",
+    "puerto": "",
+    "baudrate": 9600,
+    "timeout": 2.0
+  },
+  "general": {
+    "nombre": "Sistema Inteligente de Inventario",
+    "idioma": "Español",
+    "tema": "flatly",
+    "ventana": "1366x768",
+    "inicio": "Dashboard"
+  },
+  "inventario": {
+    "stock_minimo": 0,
+    "formato_fecha": "%Y-%m-%d"
+  },
+  "jarvis": {
+    "microfono": -1,
+    "volumen": 0.8,
+    "voz": "es-MX-JorgeNeural",
+    "velocidad": 165,
+    "modelo_vosk": "modelos_voz/vosk-model-small-es-0.42",
+    "respuesta_hablada": true,
+    "activacion": false,
+    "tts_habilitado": true,
+    "tts_provider_preferido": "auto",
+    "tts_rate_edge": "+10%"
+  },
+  "prediccion": {
+    "periodo": 30,
+    "minimo_historial": 5,
+    "horizonte": 30
+  },
+  "anomalias": {
+    "periodo": 90,
+    "minimo_historial": 10,
+    "sensibilidad": 3.0,
+    "metodo": "Estadística por producto y tipo"
+  },
+  "reportes": {
+    "carpeta": "reportes_exportados",
+    "formato": "PDF",
+    "encabezado": "Estado real del almacén"
+  },
+  "facial": {
+    "motor": "embeddings",
+    "fuente_video": 0,
+    "resolucion": [
+      1920,
+      1080
+    ],
+    "backend": "cpu",
+    "debug": false,
+    "roi": null,
+    "detectar_cada": 3,
+    "cnn_interval_frames": 3,
+    "detector_score": 0.9,
+    "detector_nms": 0.3,
+    "intervalo_deteccion_s": 0.25,
+    "lado_deteccion": 960,
+    "tile": 640,
+    "max_rostros": 16,
+    "min_rostro": 80,
+    "blur_min": 100.00601255122483,
+    "blur_lado": 160,
+    "blur_rechazo": 13.309093958158202,
+    "iluminacion_min": 45,
+    "iluminacion_max": 210,
+    "roll_max": 35,
+    "yaw_max": 0.65,
+    "muestras_temporales": 4,
+    "ventana_temporal": 7,
+    "fraccion_consenso": 0.8,
+    "ttl_evidencia_s": 2,
+    "ttl_identidad_s": 0.75,
+    "timeout_track_s": 1,
+    "modo_basico": false
+  }
+}

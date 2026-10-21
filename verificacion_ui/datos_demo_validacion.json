@@ -1,0 +1,61 @@
+{
+  "movimientos": 244,
+  "dashboard": {
+    "productos": 24,
+    "stock": 1712.0,
+    "bajo": 6,
+    "agotados": 1,
+    "alertas": 19,
+    "empleados": 16,
+    "movimientos": 98,
+    "anomalias": 3,
+    "valor": "18323.50000",
+    "movimientos_dia": 0
+  },
+  "graficos": {
+    "Salida": 836.0,
+    "Entrada": 200.0
+  },
+  "estados_stock_demo": {
+    "NORMAL": 13,
+    "BAJO": 4,
+    "CRÍTICO": 2,
+    "AGOTADO": 1
+  },
+  "productos_varias_ubicaciones": {
+    "DEMO-ACE-01": 2,
+    "DEMO-ARA-01": 2,
+    "DEMO-FIL-01": 2,
+    "DEMO-GRA-01": 2,
+    "DEMO-TOR-01": 2
+  },
+  "filas_reportes": {
+    "Inventario actual": 24,
+    "Stock bajo": 7,
+    "Agotados": 1,
+    "Entradas": 26,
+    "Salidas": 211,
+    "Transferencias": 6,
+    "Historial de movimientos": 244,
+    "Inventario por ubicación": 29,
+    "Productos por categoría": 24,
+    "Predicción de stock": 24,
+    "Anomalías": 3,
+    "Alertas": 43,
+    "Empleados": 16,
+    "Reconocimiento facial": 0,
+    "Resumen general": 4
+  },
+  "consultas_jarvis": {
+    "¿Cuántos tornillos quedan?": "Encontré varios productos: Tornillo 1/2, Tornillo 3/8, Tornillo hexagonal 1/2. ¿Cuál deseas consultar?",
+    "¿Dónde están los filtros?": "Encontré varios productos: Filtro de aceite, Filtro de aire. ¿Cuál deseas consultar?",
+    "¿Qué productos están agotados?": "Actualmente están agotados:\n\n- Bujía",
+    "¿Qué productos tienen stock bajo?": "Actualmente hay 6 productos con stock bajo:\n\n- Aceite hidráulico: 18.000 unidades, mínimo 25.000.\n- Broca para metal: 6.000 unidades, mínimo 10.000.\n- Correa automotriz: 8.000 unidades, mínimo 12.000.\n- Filtro de aire: 3.000 unidades, mínimo 10.000.\n- Fusible: 2.000 unidades, mínimo 10.000.\n- Tornillo 3/8: 15.000 unidades, mínimo 20.000.",
+    "¿Cuál tiene menor stock?": "El menor stock es de 0.000 unidades y corresponde a: Bujía.",
+    "¿Qué producto podría agotarse primero?": "Productos ordenados por agotamiento estimado (primero el más próximo):\n\n- Bujía: 0.0 días (Próximo a agotarse).\n- Fusible: 2.1 días (Próximo a agotarse).\n- Tornillo 3/8: 5.8 días (Próximo a agotarse).\n- Filtro de aire: 6.5 días (Próximo a agotarse).\n- Aceite hidráulico: 6.6 días (Próximo a agotarse).\n- Filtro de aceite: 8.0 días (Sin riesgo próximo).\n- Broca para metal: 17.3 días (Sin riesgo próximo).\n- Aceite 20W50: 20.8 días (Sin riesgo próximo).\n- Tornillo hexagonal 1/2: 23.2 días (Sin riesgo próximo).\n- Cable eléctrico: 39.0 días (Sin riesgo próximo).\n- Arandela plana: 222.2 días (Sin riesgo próximo).\n- Tuerca 1/2: 265.3 días (Sin riesgo próximo).",
+    "¿Qué movimientos fueron anómalos?": "Hay 3 anomalías; 3 de nivel alto o crítico. La mayor corresponde a Cable eléctrico, movimiento #2008.",
+    "¿Qué productos hay en Zona A?": "Llave combinada: 12 Unidad en DEMO-A-P01-E01-N01.\nTornillo hexagonal 1/2: 170 Unidad en DEMO-A-P01-E01-N01.\nBroca para metal: 6 Unidad en DEMO-A-P01-E02-N01.\nTornillo 3/8: 15 Unidad en DEMO-A-P01-E02-N01.\nCable eléctrico: 180 Metro en DEMO-A-P02-E03-N02.\nTuerca 1/2: 500 Unidad en DEMO-A-P02-E03-N02.\nArandela plana: 300 Unidad en DEMO-A-P02-E04-N01.\nFusible: 2 Unidad en DEMO-A-P02-E04-N01.",
+    "¿Cuántos DEMO-TOR-01 quedan?": "Tornillo hexagonal 1/2: 240 Unidad disponibles.",
+    "¿Dónde están los tornillos hexagonales 1/2?": "Encontré varios productos: Tornillo 1/2, Tornillo 3/8, Tornillo hexagonal 1/2, Tuerca 1/2. ¿Cuál deseas consultar?"
+  }
+}

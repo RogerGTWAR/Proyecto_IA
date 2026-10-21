@@ -1,0 +1,772 @@
+{
+  "punto_entrada": "main.py",
+  "produccion": [
+    "agente_inventario",
+    "alertas",
+    "anomalias_ui",
+    "arduino_ui",
+    "asistente_voz",
+    "base_facial",
+    "calibracion_cnn",
+    "camara_utils",
+    "captura_rostros",
+    "cnn_dataset",
+    "cnn_dataset_actual",
+    "config_manager",
+    "configuracion_ui",
+    "conteo_inventario",
+    "dashboard",
+    "database",
+    "dataset_rostros",
+    "deteccion_anomalias",
+    "diagnostico_cnn",
+    "diagnostico_facial_basico",
+    "empleados",
+    "entrenar_cnn_rostros",
+    "estado_sistema",
+    "estado_ui",
+    "formato_numerico",
+    "herramientas_jarvis",
+    "interfaz",
+    "inventario_service",
+    "inventario_ui",
+    "jarvis_personality",
+    "led_service",
+    "llm_jarvis",
+    "lotes_service",
+    "main",
+    "mapa_almacen",
+    "modelo_cnn",
+    "movimientos",
+    "nlp_jarvis",
+    "organizacion_fisica",
+    "pipeline_facial",
+    "prediccion_stock",
+    "prediccion_ui",
+    "productos",
+    "reconocimiento_cnn",
+    "reconocimiento_embeddings",
+    "report_render",
+    "report_theme",
+    "reportes",
+    "reportes_ui",
+    "rostros_empleados",
+    "seguridad_cnn",
+    "sesiones_cnn",
+    "tareas_ui",
+    "tipos_alerta",
+    "ui_components",
+    "ui_theme",
+    "ventanas_camara"
+  ],
+  "grafo": {
+    "agente_inventario": [
+      "alertas",
+      "database",
+      "deteccion_anomalias",
+      "herramientas_jarvis",
+      "inventario_service",
+      "jarvis_personality",
+      "led_service",
+      "llm_jarvis",
+      "mapa_almacen",
+      "movimientos",
+      "nlp_jarvis",
+      "prediccion_stock",
+      "productos",
+      "rostros_empleados"
+    ],
+    "alertas": [
+      "database",
+      "lotes_service",
+      "tipos_alerta"
+    ],
+    "anomalias_ui": [
+      "deteccion_anomalias",
+      "formato_numerico",
+      "inventario_service",
+      "tareas_ui",
+      "ui_components",
+      "ui_theme"
+    ],
+    "api_jarvis": [
+      "agente_inventario"
+    ],
+    "arduino_ui": [
+      "led_service",
+      "tareas_ui"
+    ],
+    "asistente_voz": [
+      "config_manager"
+    ],
+    "base_facial": [
+      "dataset_rostros",
+      "pipeline_facial",
+      "rostros_empleados"
+    ],
+    "calibracion_cnn": [
+      "base_facial",
+      "cnn_dataset",
+      "dataset_rostros",
+      "pipeline_facial",
+      "reconocimiento_cnn",
+      "rostros_empleados",
+      "seguridad_cnn"
+    ],
+    "camara_utils": [],
+    "captura_rostros": [
+      "camara_utils",
+      "cnn_dataset",
+      "dataset_rostros",
+      "pipeline_facial",
+      "reconocimiento_cnn",
+      "reconocimiento_embeddings",
+      "rostros_empleados",
+      "sesiones_cnn"
+    ],
+    "cnn_dataset": [
+      "base_facial",
+      "dataset_rostros",
+      "pipeline_facial",
+      "rostros_empleados",
+      "seguridad_cnn"
+    ],
+    "cnn_dataset_actual": [
+      "base_facial",
+      "cnn_dataset",
+      "dataset_rostros",
+      "modelo_cnn",
+      "pipeline_facial",
+      "reconocimiento_cnn",
+      "seguridad_cnn"
+    ],
+    "configuracion_ui": [
+      "arduino_ui",
+      "asistente_voz",
+      "config_manager",
+      "tareas_ui",
+      "ui_theme"
+    ],
+    "config_manager": [],
+    "conteo_inventario": [
+      "inventario_service",
+      "movimientos"
+    ],
+    "dashboard": [
+      "alertas",
+      "database",
+      "deteccion_anomalias",
+      "empleados",
+      "formato_numerico",
+      "movimientos",
+      "productos",
+      "ui_components",
+      "ui_theme"
+    ],
+    "database": [],
+    "dataset_rostros": [
+      "cnn_dataset"
+    ],
+    "deteccion_anomalias": [
+      "config_manager",
+      "database",
+      "formato_numerico",
+      "inventario_service",
+      "tipos_alerta"
+    ],
+    "diagnostico_cnn": [],
+    "diagnostico_facial_basico": [
+      "base_facial",
+      "calibracion_cnn",
+      "dataset_rostros",
+      "pipeline_facial",
+      "rostros_empleados"
+    ],
+    "empleados": [
+      "database"
+    ],
+    "entrenar_cnn_rostros": [
+      "base_facial",
+      "cnn_dataset",
+      "dataset_rostros",
+      "formato_numerico",
+      "modelo_cnn",
+      "pipeline_facial",
+      "seguridad_cnn"
+    ],
+    "estado_sistema": [
+      "agente_inventario",
+      "asistente_voz",
+      "camara_utils",
+      "config_manager",
+      "database",
+      "deteccion_anomalias",
+      "formato_numerico",
+      "inventario_service",
+      "led_service",
+      "pipeline_facial",
+      "prediccion_stock",
+      "reconocimiento_cnn"
+    ],
+    "estado_ui": [
+      "estado_sistema",
+      "led_service",
+      "tareas_ui",
+      "ui_theme"
+    ],
+    "formato_numerico": [],
+    "herramientas_jarvis": [
+      "deteccion_anomalias",
+      "inventario_service",
+      "mapa_almacen",
+      "movimientos",
+      "organizacion_fisica",
+      "prediccion_stock"
+    ],
+    "interfaz": [
+      "agente_inventario",
+      "alertas",
+      "anomalias_ui",
+      "asistente_voz",
+      "base_facial",
+      "captura_rostros",
+      "cnn_dataset",
+      "cnn_dataset_actual",
+      "config_manager",
+      "configuracion_ui",
+      "dashboard",
+      "dataset_rostros",
+      "deteccion_anomalias",
+      "diagnostico_cnn",
+      "diagnostico_facial_basico",
+      "empleados",
+      "entrenar_cnn_rostros",
+      "estado_ui",
+      "formato_numerico",
+      "inventario_ui",
+      "jarvis_personality",
+      "led_service",
+      "mapa_almacen",
+      "movimientos",
+      "pipeline_facial",
+      "prediccion_stock",
+      "prediccion_ui",
+      "productos",
+      "reconocimiento_cnn",
+      "reportes_ui",
+      "rostros_empleados",
+      "sesiones_cnn",
+      "tareas_ui",
+      "ui_components",
+      "ui_theme",
+      "ventanas_camara"
+    ],
+    "inventario_service": [
+      "alertas",
+      "database",
+      "prediccion_stock",
+      "tipos_alerta"
+    ],
+    "inventario_ui": [
+      "config_manager",
+      "conteo_inventario",
+      "database",
+      "formato_numerico",
+      "inventario_service",
+      "mapa_almacen",
+      "movimientos",
+      "organizacion_fisica",
+      "productos",
+      "ui_components",
+      "ui_theme"
+    ],
+    "jarvis_personality": [
+      "formato_numerico"
+    ],
+    "led_service": [
+      "config_manager",
+      "inventario_service",
+      "mapa_almacen",
+      "organizacion_fisica"
+    ],
+    "llm_jarvis": [
+      "herramientas_jarvis"
+    ],
+    "lotes_service": [
+      "database",
+      "movimientos",
+      "tipos_alerta"
+    ],
+    "main": [
+      "interfaz"
+    ],
+    "mapa_almacen": [
+      "formato_numerico",
+      "inventario_service",
+      "led_service",
+      "nlp_jarvis",
+      "organizacion_fisica",
+      "tareas_ui",
+      "ui_components",
+      "ui_theme"
+    ],
+    "modelo_cnn": [
+      "dataset_rostros"
+    ],
+    "movimientos": [
+      "alertas",
+      "database",
+      "deteccion_anomalias",
+      "inventario_service",
+      "lotes_service",
+      "organizacion_fisica"
+    ],
+    "nlp_jarvis": [],
+    "organizacion_fisica": [],
+    "pipeline_facial": [
+      "config_manager"
+    ],
+    "pipeline_facial_basico": [
+      "formato_numerico",
+      "pipeline_facial"
+    ],
+    "prediccion_stock": [
+      "config_manager",
+      "database",
+      "formato_numerico",
+      "inventario_service",
+      "tipos_alerta"
+    ],
+    "prediccion_ui": [
+      "config_manager",
+      "formato_numerico",
+      "inventario_service",
+      "prediccion_stock",
+      "ui_components",
+      "ui_theme"
+    ],
+    "productos": [
+      "database",
+      "inventario_service",
+      "organizacion_fisica"
+    ],
+    "reconocimiento_cnn": [
+      "alertas",
+      "base_facial",
+      "camara_utils",
+      "cnn_dataset",
+      "cnn_dataset_actual",
+      "dataset_rostros",
+      "formato_numerico",
+      "pipeline_facial",
+      "reconocimiento_embeddings",
+      "rostros_empleados",
+      "seguridad_cnn"
+    ],
+    "reconocimiento_embeddings": [
+      "camara_utils",
+      "captura_rostros",
+      "dataset_rostros",
+      "formato_numerico",
+      "pipeline_facial",
+      "reconocimiento_cnn",
+      "rostros_empleados",
+      "ventanas_camara"
+    ],
+    "reconocimiento_facial": [
+      "database",
+      "pipeline_facial",
+      "reconocimiento_cnn",
+      "reconocimiento_embeddings"
+    ],
+    "reportes": [
+      "config_manager",
+      "deteccion_anomalias",
+      "empleados",
+      "estado_sistema",
+      "formato_numerico",
+      "inventario_service",
+      "mapa_almacen",
+      "movimientos",
+      "prediccion_stock",
+      "report_render"
+    ],
+    "reportes_ui": [
+      "config_manager",
+      "inventario_service",
+      "productos",
+      "reportes",
+      "tareas_ui",
+      "ui_components",
+      "ui_theme"
+    ],
+    "report_render": [
+      "config_manager",
+      "formato_numerico",
+      "report_theme",
+      "reportes"
+    ],
+    "report_theme": [
+      "ui_theme"
+    ],
+    "rostros_empleados": [
+      "database",
+      "pipeline_facial"
+    ],
+    "seguridad_cnn": [],
+    "sesiones_cnn": [
+      "dataset_rostros",
+      "pipeline_facial",
+      "ventanas_camara"
+    ],
+    "tareas_ui": [],
+    "tipos_alerta": [
+      "database"
+    ],
+    "ui_components": [
+      "formato_numerico",
+      "ui_theme"
+    ],
+    "ui_theme": [],
+    "ventanas_camara": [
+      "ui_theme"
+    ],
+    "herramientas.actualizar_desde_exportacion_sql": [
+      "database"
+    ],
+    "herramientas.diagnostico_modelo_rostros": [
+      "dataset_rostros",
+      "reconocimiento_cnn"
+    ],
+    "herramientas.evaluar_reconocimiento_facial": [
+      "camara_utils",
+      "pipeline_facial",
+      "reconocimiento_embeddings",
+      "ventanas_camara"
+    ],
+    "herramientas.generar_registros_sql": [
+      "database"
+    ],
+    "herramientas.inspeccionar_esquema": [
+      "database"
+    ],
+    "herramientas.medir_motores_faciales": [
+      "pipeline_facial",
+      "reconocimiento_cnn",
+      "ui_theme",
+      "ventanas_camara"
+    ],
+    "herramientas.migrar_anomalias": [
+      "database"
+    ],
+    "herramientas.migrar_inventario": [
+      "database"
+    ],
+    "herramientas.normalizar_historial_inventario": [
+      "alertas",
+      "database",
+      "deteccion_anomalias",
+      "herramientas.actualizar_desde_exportacion_sql",
+      "herramientas.verificar_inventario",
+      "prediccion_stock",
+      "tipos_alerta"
+    ],
+    "herramientas.preparar_historial_operativo": [
+      "config_manager",
+      "database",
+      "deteccion_anomalias",
+      "herramientas.generar_registros_sql",
+      "tipos_alerta"
+    ],
+    "herramientas.reorganizar_estantes": [
+      "database"
+    ],
+    "herramientas.retirar_acceso_sql": [
+      "database"
+    ],
+    "herramientas.revisar_cnn": [
+      "calibracion_cnn",
+      "dataset_rostros",
+      "diagnostico_cnn"
+    ],
+    "herramientas.verificar_camara_cnn_actual": [
+      "reconocimiento_cnn"
+    ],
+    "herramientas.verificar_inventario": [
+      "agente_inventario",
+      "dashboard",
+      "database",
+      "prediccion_stock",
+      "reportes"
+    ],
+    "outputs.documentos.segundo_entregable.corregir_fases": [],
+    "pruebas.probar_agente_avanzado": [
+      "agente_inventario",
+      "api_jarvis",
+      "llm_jarvis"
+    ],
+    "pruebas.probar_alertas_prediccion": [
+      "database",
+      "prediccion_stock",
+      "tipos_alerta"
+    ],
+    "pruebas.probar_cnn_dataset_actual": [
+      "cnn_dataset",
+      "cnn_dataset_actual",
+      "reconocimiento_cnn",
+      "rostros_empleados",
+      "seguridad_cnn"
+    ],
+    "pruebas.probar_cobertura_jarvis": [
+      "agente_inventario"
+    ],
+    "pruebas.probar_consultas_historial": [
+      "nlp_jarvis"
+    ],
+    "pruebas.probar_contexto_jarvis": [
+      "agente_inventario",
+      "herramientas_jarvis",
+      "nlp_jarvis"
+    ],
+    "pruebas.probar_correccion_facial": [
+      "base_facial",
+      "pipeline_facial",
+      "reconocimiento_cnn"
+    ],
+    "pruebas.probar_dashboard": [
+      "dashboard"
+    ],
+    "pruebas.probar_integracion_central": [
+      "agente_inventario",
+      "mapa_almacen",
+      "movimientos",
+      "prediccion_stock"
+    ],
+    "pruebas.probar_integracion_voz": [
+      "agente_inventario",
+      "asistente_voz",
+      "ui_theme"
+    ],
+    "pruebas.probar_inventario": [
+      "agente_inventario",
+      "alertas",
+      "conteo_inventario",
+      "database",
+      "inventario_service",
+      "lotes_service",
+      "movimientos",
+      "prediccion_stock",
+      "productos"
+    ],
+    "pruebas.probar_led_service": [
+      "agente_inventario",
+      "config_manager",
+      "herramientas_jarvis",
+      "led_service",
+      "organizacion_fisica"
+    ],
+    "pruebas.probar_modulos_operativos": [
+      "config_manager",
+      "deteccion_anomalias",
+      "estado_sistema",
+      "movimientos",
+      "reconocimiento_cnn",
+      "reportes"
+    ],
+    "pruebas.probar_nlp_jarvis": [
+      "nlp_jarvis"
+    ],
+    "pruebas.probar_optimizacion_facial": [
+      "formato_numerico",
+      "pipeline_facial",
+      "reconocimiento_embeddings"
+    ],
+    "pruebas.probar_organizacion_fisica": [
+      "database",
+      "movimientos",
+      "organizacion_fisica"
+    ],
+    "pruebas.probar_pipeline_facial": [
+      "camara_utils",
+      "entrenar_cnn_rostros",
+      "herramientas.evaluar_reconocimiento_facial",
+      "pipeline_facial",
+      "reconocimiento_cnn",
+      "reconocimiento_embeddings",
+      "reconocimiento_facial"
+    ],
+    "pruebas.probar_reportes": [
+      "report_theme",
+      "reportes"
+    ],
+    "pruebas.probar_seguridad_cnn": [
+      "captura_rostros",
+      "cnn_dataset",
+      "reconocimiento_cnn",
+      "seguridad_cnn"
+    ],
+    "pruebas.probar_sesiones_cnn": [
+      "captura_rostros",
+      "cnn_dataset",
+      "sesiones_cnn"
+    ],
+    "pruebas.probar_tablas_presentacion": [
+      "formato_numerico",
+      "ui_components",
+      "ui_theme"
+    ],
+    "pruebas.probar_tts": [],
+    "pruebas.probar_voz": [
+      "agente_inventario",
+      "asistente_voz"
+    ],
+    "verificacion_ui.comprobar_datos_finales": [
+      "database"
+    ],
+    "verificacion_ui.qa_imagen_ui": [],
+    "verificacion_ui.validar_arduino_simulacion": [
+      "agente_inventario",
+      "config_manager",
+      "configuracion_ui",
+      "interfaz",
+      "inventario_service",
+      "led_service",
+      "mapa_almacen",
+      "ui_theme"
+    ],
+    "verificacion_ui.validar_cnn_aislada": [
+      "deteccion_anomalias",
+      "diagnostico_cnn",
+      "diagnostico_facial_basico",
+      "interfaz",
+      "sesiones_cnn",
+      "verificacion_ui.validar_tablas_presentacion"
+    ],
+    "verificacion_ui.validar_cnn_dataset_actual": [
+      "cnn_dataset_actual",
+      "deteccion_anomalias",
+      "interfaz",
+      "verificacion_ui.validar_tablas_presentacion"
+    ],
+    "verificacion_ui.validar_densidad_visual": [
+      "anomalias_ui",
+      "deteccion_anomalias",
+      "interfaz",
+      "inventario_ui",
+      "mapa_almacen",
+      "prediccion_ui",
+      "reportes_ui",
+      "verificacion_ui.validar_tablas_presentacion"
+    ],
+    "verificacion_ui.validar_distribucion": [
+      "interfaz",
+      "verificacion_ui.qa_imagen_ui"
+    ],
+    "verificacion_ui.validar_mapa_estantes": [
+      "interfaz",
+      "mapa_almacen",
+      "ui_theme",
+      "verificacion_ui.qa_imagen_ui"
+    ],
+    "verificacion_ui.validar_prediccion_alertas": [
+      "database",
+      "deteccion_anomalias",
+      "interfaz",
+      "prediccion_stock"
+    ],
+    "verificacion_ui.validar_productos_jarvis_mapa": [
+      "agente_inventario",
+      "deteccion_anomalias",
+      "interfaz",
+      "inventario_ui",
+      "verificacion_ui.validar_tablas_presentacion"
+    ],
+    "verificacion_ui.validar_registros_sql": [
+      "database"
+    ],
+    "verificacion_ui.validar_tablas_presentacion": [
+      "deteccion_anomalias",
+      "interfaz",
+      "inventario_ui",
+      "prediccion_ui"
+    ],
+    "verificacion_ui.verificar_interfaz_visual": [
+      "interfaz",
+      "mapa_almacen",
+      "ui_theme",
+      "ventanas_camara"
+    ],
+    "verificacion_ui.doc_word.crear_documento": [],
+    "verificacion_ui.doc_word.evidencia_actual": [
+      "database"
+    ],
+    "verificacion_ui.doc_word.leer_referencias": [],
+    "verificacion_ui.primer_entregable.actualizar": [],
+    "verificacion_ui.reportes.generar_reales": [
+      "reportes"
+    ],
+    "verificacion_ui.reportes.probar_ui": [
+      "reportes_ui",
+      "ui_theme",
+      "verificacion_ui.qa_imagen_ui"
+    ],
+    "verificacion_ui.reportes.renderizar": []
+  },
+  "llamadas_dinamicas": [
+    {
+      "archivo": "base_facial.py",
+      "linea": 97,
+      "llamada": "__import__('hashlib').sha256(leer_bgr(ruta).tobytes()).hexdigest()"
+    },
+    {
+      "archivo": "base_facial.py",
+      "linea": 97,
+      "llamada": "__import__('hashlib').sha256(leer_bgr(ruta).tobytes())"
+    },
+    {
+      "archivo": "base_facial.py",
+      "linea": 97,
+      "llamada": "__import__('hashlib')"
+    },
+    {
+      "archivo": "verificacion_ui/validar_cnn_aislada.py",
+      "linea": 87,
+      "llamada": "runpy.run_path('main.py', run_name='__main__')"
+    },
+    {
+      "archivo": "verificacion_ui/validar_cnn_dataset_actual.py",
+      "linea": 63,
+      "llamada": "runpy.run_path('main.py', run_name='__main__')"
+    },
+    {
+      "archivo": "verificacion_ui/validar_densidad_visual.py",
+      "linea": 93,
+      "llamada": "runpy.run_path('main.py', run_name='__main__')"
+    },
+    {
+      "archivo": "verificacion_ui/validar_prediccion_alertas.py",
+      "linea": 53,
+      "llamada": "runpy.run_path('main.py', run_name='__main__')"
+    },
+    {
+      "archivo": "verificacion_ui/validar_productos_jarvis_mapa.py",
+      "linea": 74,
+      "llamada": "runpy.run_path('main.py', run_name='__main__')"
+    },
+    {
+      "archivo": "verificacion_ui/validar_tablas_presentacion.py",
+      "linea": 91,
+      "llamada": "runpy.run_path('main.py', run_name='__main__')"
+    },
+    {
+      "archivo": "verificacion_ui/reportes/renderizar.py",
+      "linea": 10,
+      "llamada": "subprocess.run([exe, '-scale-to', '1150', '-png', str(base / r['pdf']), str(prefix)], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)"
+    }
+  ],
+  "recursos_raiz_conservados": [
+    "config_sistema.json",
+    "intenciones_jarvis.json",
+    "reconocimiento_facial_config.json"
+  ]
+}

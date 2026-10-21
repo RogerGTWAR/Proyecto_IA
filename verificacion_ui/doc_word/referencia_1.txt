@@ -1,0 +1,79 @@
+0001 [] Sistema Inteligente para la Gestión y Análisis de Inventario en Almacenes mediante Inteligencia Artificial.Sistema Inteligente para la Gestión y Análisis de Inventario en Almacenes mediante Inteligencia Artificial.
+0002 [] Sistema Inteligente para la Gestión y Análisis de Inventario en Almacenes mediante Inteligencia Artificial.
+0003 [] Sistema Inteligente para la Gestión y Análisis de Inventario en Almacenes mediante Inteligencia Artificial.
+0011 [] Proyecto de Curso de Inteligencia Artificial.Proyecto de Curso de Inteligencia Artificial.
+0012 [] Proyecto de Curso de Inteligencia Artificial.
+0013 [] Proyecto de Curso de Inteligencia Artificial.
+0018 [APASEPTIMA] Asignatura: Asignatura: Inteligencia Artificial.Inteligencia Artificial.
+0019 [] Asignatura: 
+0020 [] Asignatura: 
+0021 [] Inteligencia Artificial.
+0022 [] Inteligencia Artificial.
+0024 [APASEPTIMA] Grupo: Grupo: 
+0025 [] Grupo: 
+0026 [] Grupo: 
+0027 [APASEPTIMA] 4T4-SIS-S4T4-SIS-S
+0028 [] 4T4-SIS-S
+0029 [] 4T4-SIS-S
+0032 [APASEPTIMA] Elaborado por:Elaborado por:
+0033 [] Elaborado por:
+0034 [] Elaborado por:
+0035 [APASEPTIMA] Docente:Docente:
+0036 [] Docente:
+0037 [] Docente:
+0038 [APASEPTIMA] PhD. Denis Eduardo Hernández García.PhD. Denis Eduardo Hernández García.
+0039 [] PhD. Denis Eduardo Hernández García.
+0041 [] PhD. Denis Eduardo Hernández García.
+0043 [APASEPTIMA] Br. Alexander Josué Lorio Paizano.Br. Alexander Josué Lorio Paizano.Br. Andrea Sofia Ramírez Centeno.Br. Andrea Sofia Ramírez Centeno.
+0044 [] Br. Alexander Josué Lorio Paizano.
+0046 [] Br. Alexander Josué Lorio Paizano.
+0048 [] Br. Andrea Sofia Ramírez Centeno.
+0050 [] Br. Andrea Sofia Ramírez Centeno.
+0055 [APASEPTIMA] Br. Roger Martin Pérez Castillo.Br. Roger Martin Pérez Castillo.Br. Guadalupe del Carmen Tellez Palacio.Br. Guadalupe del Carmen Tellez Palacio.
+0056 [] Br. Roger Martin Pérez Castillo.
+0058 [] Br. Roger Martin Pérez Castillo.
+0060 [] Br. Guadalupe del Carmen Tellez Palacio.
+0062 [] Br. Guadalupe del Carmen Tellez Palacio.
+0071 [APASEPTIMA] 04 de septiembre de 2026Managua, Nicaragua04 de septiembre de 2026Managua, Nicaragua
+0072 [] 04 de septiembre de 2026
+0073 [] Managua, Nicaragua
+0074 [] 04 de septiembre de 2026
+0075 [] Managua, Nicaragua
+0076 [APASEPTIMA] Índice
+0077 [TDC1] 1.Introducción1
+0078 [TDC1] 2.Antecedentes2
+0079 [TDC1] 3.Planteamiento del problema3
+0080 [TDC1] 4.Objetivos4
+0081 [TDC2] 4.1.Objetivo general4
+0082 [TDC2] 4.2.Objetivos específicos4
+0083 [TDC1] 5.Justificación5
+0086 [Ttulo1] Introducción
+0087 [] La gestión de inventario constituye una actividad fundamental para el funcionamiento de un almacén, debido a que permite mantener organizada la información relacionada con los productos, sus existencias, ubicaciones y movimientos. En el caso de un almacén perteneciente a un taller de mecánica, esta gestión adquiere especial importancia por la diversidad de repuestos, herramientas, materiales y suministros que deben encontrarse disponibles para apoyar las actividades que se realizan diariamente.
+0089 [] El avance de las tecnologías de información y de la Inteligencia Artificial ha permitido ampliar las posibilidades de los sistemas de inventario. Actualmente, además de registrar y consultar información, es posible aprovechar los datos generados durante las operaciones para identificar comportamientos relevantes y proporcionar información que apoye el seguimiento del inventario y la toma de decisiones.
+0091 [] En este contexto se plantea el desarrollo del proyecto Sistema Inteligente para la Gestión y Análisis de Inventario en Almacenes mediante Inteligencia Artificial, orientado al almacén de un taller de mecánica. La propuesta busca integrar la gestión de la información del inventario con capacidades inteligentes que permitan mejorar el control de los productos, fortalecer la trazabilidad de los movimientos y aprovechar los datos históricos generados durante las operaciones.
+0093 [] Para el desarrollo del proyecto se utilizará la metodología CRISP-DM, la cual permitirá organizar el proceso desde la comprensión de las necesidades del almacén y el análisis de los datos disponibles hasta las etapas posteriores de preparación, modelado, evaluación y despliegue. De esta manera, se pretende desarrollar una solución que combine la gestión del inventario con el análisis inteligente de la información, manteniendo como finalidad principal apoyar las actividades de control y seguimiento dentro del almacén del taller de mecánica.
+0098 [Ttulo1] Antecedentes
+0099 [] La gestión de inventarios ha evolucionado conforme han aumentado las necesidades de control y organización dentro de los almacenes. Inicialmente, los registros de productos, entradas y salidas se realizaban de forma manual mediante cuadernos, tarjetas de control y otros medios físicos. Aunque estos métodos permitían llevar un seguimiento básico de las existencias, su efectividad dependía en gran medida de la actualización constante de la información y de la revisión realizada por el personal encargado.
+0101 [] Posteriormente, la incorporación de herramientas informáticas permitió trasladar estos registros a hojas de cálculo y sistemas de almacenamiento digital. Este cambio facilitó la organización de la información, la realización de búsquedas y la actualización de las existencias. Con el uso de sistemas gestores de bases de datos, fue posible centralizar grandes cantidades de información y mantener registros históricos de productos y movimientos, permitiendo un acceso más rápido y estructurado a los datos.
+0103 [] Con el avance de las tecnologías de información, los sistemas de inventario han dejado de centrarse únicamente en el registro y consulta de datos. El desarrollo de técnicas de Inteligencia Artificial y Machine Learning ha permitido analizar información histórica para identificar patrones de comportamiento, tendencias de consumo y situaciones que pueden requerir atención. De esta manera, los datos generados diariamente dentro de un almacén pueden utilizarse como una fuente de información para apoyar la planificación y el control de las existencias.
+0105 [] La visión artificial también ha experimentado avances importantes, especialmente en tareas relacionadas con la detección y reconocimiento de personas mediante imágenes. Estas técnicas han permitido desarrollar mecanismos de identificación que pueden utilizarse para fortalecer la trazabilidad de determinadas operaciones dentro de distintos sistemas informáticos. De forma similar, el procesamiento del lenguaje natural ha facilitado el desarrollo de herramientas capaces de interpretar consultas realizadas por los usuarios mediante expresiones cotidianas.
+0107 [] Estos avances tecnológicos muestran una transición desde sistemas orientados principalmente al almacenamiento de información hacia soluciones capaces de analizar los datos y facilitar su consulta. En el ámbito de la gestión de inventarios, la integración progresiva de bases de datos, análisis de información e Inteligencia Artificial representa una oportunidad para mejorar el aprovechamiento de los registros generados durante las operaciones de un almacén.
+0108 [Ttulo1] Planteamiento del problema
+0109 [] En el almacén de un taller de mecánica se manejan diferentes repuestos, herramientas, materiales y suministros que requieren un control constante de sus entradas, salidas y existencias. Cuando la información del inventario no se encuentra integrada y actualizada oportunamente, se dificulta conocer la disponibilidad real de los productos y dar seguimiento a los movimientos realizados.
+0111 [] Otra dificultad se relaciona con la trazabilidad de las operaciones. Para mantener un control adecuado es necesario conocer qué producto fue retirado o ingresado, en qué cantidad, cuándo se realizó el movimiento y qué empleado fue responsable. La falta de esta información dificulta la revisión del historial y el seguimiento de las operaciones del almacén. Esta necesidad de asociar los movimientos con los empleados responsables resulta fundamental para mantener una adecuada trazabilidad de las operaciones realizadas en el almacén.
+0113 [] Además, los movimientos del inventario generan datos que pueden ser utilizados para conocer el comportamiento de los productos. Sin embargo, si estos registros se utilizan únicamente para almacenar información, se limita la posibilidad de identificar patrones de consumo, posibles agotamientos o movimientos que se alejen del comportamiento habitual. 
+0115 [] Por lo tanto, existe la necesidad de contar con una herramienta que, además de gestionar la información del inventario, permita aprovechar los datos generados para mejorar su control, trazabilidad y análisis dentro del almacén del taller de mecánica.
+0125 [Ttulo1] Objetivos 
+0126 [Ttulo2] Objetivo general
+0127 [] Desarrollar un Sistema Inteligente para la Gestión y Análisis de Inventario en Almacenes mediante Inteligencia Artificial.
+0129 [Ttulo2] 4.2 Objetivos específicos 
+0130 [Prrafodelista] Diseñar un sistema que permita gestionar y controlar las entradas, salidas, existencias y movimientos de los productos dentro del almacén.
+0131 [Prrafodelista] Integrar un mecanismo de reconocimiento facial que permita identificar a los empleados autorizados y relacionarlos con los movimientos realizados en el inventario.
+0132 [Prrafodelista] Incorporar un agente inteligente para procesar consultas en lenguaje natural sobre productos, existencias, ubicaciones y movimientos registrados en el inventario.
+0133 [Prrafodelista] Evaluar técnicas de Machine Learning, mediante aprendizaje supervisado y no supervisado, para analizar el comportamiento del inventario, predecir posibles agotamientos de stock y detectar movimientos que se aparten del comportamiento habitual.
+0151 [Ttulo1] Justificación
+0152 [] El desarrollo del proyecto se justifica por la necesidad de mejorar la organización, el control y el aprovechamiento de la información generada en el almacén de un taller de mecánica. La gestión de productos, existencias, ubicaciones y movimientos requiere información actualizada y ordenada que facilite las actividades cotidianas y reduzca las dificultades en la búsqueda, verificación y seguimiento de los registros. En este sentido, una solución integrada puede contribuir a centralizar la información y facilitar el control de las operaciones del inventario.
+0153 [] La trazabilidad constituye otro aspecto relevante, debido a la necesidad de contar con información que permita dar seguimiento a los movimientos realizados en el almacén. Asociar las operaciones con los empleados responsables aporta claridad sobre las actividades efectuadas y facilita la revisión de los registros ante diferencias o situaciones que requieran verificación. De esta manera, el sistema funcionará como apoyo para el control del inventario, sin sustituir la supervisión del responsable del almacén.
+0154 [] Asimismo, el proyecto busca mejorar el acceso y aprovechamiento de la información almacenada. La incorporación de un agente inteligente capaz de procesar consultas en lenguaje natural puede facilitar la consulta de los datos del inventario y reducir las dificultades para localizar información específica. Esto representa un aporte para el personal encargado, al favorecer un acceso más directo a la información necesaria para la gestión y el control del inventario.
+0155 [] El análisis de los registros históricos representa una oportunidad para obtener información útil sobre el comportamiento del inventario. El uso de técnicas de Machine Learning puede contribuir a identificar patrones, anticipar posibles agotamientos de stock y señalar movimientos que se aparten del comportamiento habitual y que requieran revisión. Estos resultados pueden servir como apoyo para la toma de decisiones y una gestión más preventiva del inventario, manteniendo la intervención del personal responsable en la validación de los resultados.
+0156 [] Desde el punto de vista académico, el proyecto permite integrar conocimientos de programación, bases de datos, visión artificial, procesamiento de lenguaje natural y Machine Learning en una problemática concreta. Su desarrollo permite aplicar técnicas de Inteligencia Artificial de manera articulada, considerando las necesidades del sistema y las características de los datos disponibles. Por ello, representa una oportunidad para demostrar la aplicación práctica de conocimientos de Ingeniería de Sistemas y analizar el aporte de la Inteligencia Artificial en la gestión de inventarios.

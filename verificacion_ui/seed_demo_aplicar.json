@@ -1,0 +1,646 @@
+{
+  "productos": [
+    {
+      "codigo": "DEMO-ACE-01",
+      "nombre": "Aceite 20W50",
+      "categoria": "Lubricantes",
+      "unidad_medida": "Litro",
+      "stock_actual": "40.000",
+      "stock_minimo": "20.000"
+    },
+    {
+      "codigo": "DEMO-ACE-02",
+      "nombre": "Aceite hidráulico",
+      "categoria": "Lubricantes",
+      "unidad_medida": "Litro",
+      "stock_actual": "18.000",
+      "stock_minimo": "25.000"
+    },
+    {
+      "codigo": "DEMO-ARA-01",
+      "nombre": "Arandela plana",
+      "categoria": "Tornillería",
+      "unidad_medida": "Unidad",
+      "stock_actual": "400.000",
+      "stock_minimo": "50.000"
+    },
+    {
+      "codigo": "DEMO-BRO-01",
+      "nombre": "Broca para metal",
+      "categoria": "Herramientas",
+      "unidad_medida": "Unidad",
+      "stock_actual": "6.000",
+      "stock_minimo": "10.000"
+    },
+    {
+      "codigo": "DEMO-BUJ-01",
+      "nombre": "Bujía",
+      "categoria": "Repuestos",
+      "unidad_medida": "Unidad",
+      "stock_actual": "0.000",
+      "stock_minimo": "10.000"
+    },
+    {
+      "codigo": "DEMO-CAB-01",
+      "nombre": "Cable eléctrico",
+      "categoria": "Materiales eléctricos",
+      "unidad_medida": "Metro",
+      "stock_actual": "180.000",
+      "stock_minimo": "50.000"
+    },
+    {
+      "codigo": "DEMO-COR-01",
+      "nombre": "Correa automotriz",
+      "categoria": "Repuestos",
+      "unidad_medida": "Unidad",
+      "stock_actual": "8.000",
+      "stock_minimo": "12.000"
+    },
+    {
+      "codigo": "DEMO-FIL-01",
+      "nombre": "Filtro de aceite",
+      "categoria": "Filtros",
+      "unidad_medida": "Unidad",
+      "stock_actual": "12.000",
+      "stock_minimo": "10.000"
+    },
+    {
+      "codigo": "DEMO-FIL-02",
+      "nombre": "Filtro de aire",
+      "categoria": "Filtros",
+      "unidad_medida": "Unidad",
+      "stock_actual": "3.000",
+      "stock_minimo": "10.000"
+    },
+    {
+      "codigo": "DEMO-FUS-01",
+      "nombre": "Fusible",
+      "categoria": "Materiales eléctricos",
+      "unidad_medida": "Unidad",
+      "stock_actual": "2.000",
+      "stock_minimo": "10.000"
+    },
+    {
+      "codigo": "DEMO-GRA-01",
+      "nombre": "Grasa multipropósito",
+      "categoria": "Lubricantes",
+      "unidad_medida": "Kilogramo",
+      "stock_actual": "20.000",
+      "stock_minimo": "5.000"
+    },
+    {
+      "codigo": "DEMO-GUA-01",
+      "nombre": "Guante de trabajo",
+      "categoria": "Seguridad",
+      "unidad_medida": "Paquete",
+      "stock_actual": "30.000",
+      "stock_minimo": "10.000"
+    },
+    {
+      "codigo": "DEMO-HER-01",
+      "nombre": "Llave combinada",
+      "categoria": "Herramientas",
+      "unidad_medida": "Unidad",
+      "stock_actual": "12.000",
+      "stock_minimo": "3.000"
+    },
+    {
+      "codigo": "DEMO-LIM-01",
+      "nombre": "Limpiador de contactos",
+      "categoria": "Consumibles",
+      "unidad_medida": "Unidad",
+      "stock_actual": "15.000",
+      "stock_minimo": "5.000"
+    },
+    {
+      "codigo": "DEMO-MOT-01",
+      "nombre": "Motor eléctrico de repuesto",
+      "categoria": "Equipos",
+      "unidad_medida": "Unidad",
+      "stock_actual": "4.000",
+      "stock_minimo": "1.000"
+    },
+    {
+      "codigo": "DEMO-ROD-01",
+      "nombre": "Rodamiento industrial",
+      "categoria": "Repuestos",
+      "unidad_medida": "Unidad",
+      "stock_actual": "30.000",
+      "stock_minimo": "10.000"
+    },
+    {
+      "codigo": "DEMO-SIL-01",
+      "nombre": "Silicón industrial",
+      "categoria": "Consumibles",
+      "unidad_medida": "Unidad",
+      "stock_actual": "24.000",
+      "stock_minimo": "5.000"
+    },
+    {
+      "codigo": "DEMO-TOR-01",
+      "nombre": "Tornillo hexagonal 1/2",
+      "categoria": "Tornillería",
+      "unidad_medida": "Unidad",
+      "stock_actual": "240.000",
+      "stock_minimo": "60.000"
+    },
+    {
+      "codigo": "DEMO-TOR-02",
+      "nombre": "Tornillo 3/8",
+      "categoria": "Tornillería",
+      "unidad_medida": "Unidad",
+      "stock_actual": "15.000",
+      "stock_minimo": "20.000"
+    },
+    {
+      "codigo": "DEMO-TUE-01",
+      "nombre": "Tuerca 1/2",
+      "categoria": "Tornillería",
+      "unidad_medida": "Unidad",
+      "stock_actual": "500.000",
+      "stock_minimo": "50.000"
+    }
+  ],
+  "movimientos": [
+    {
+      "tipo": "Ajuste salida",
+      "cantidad": 1,
+      "desde": "2026-10-02 17:00:00",
+      "hasta": "2026-10-02 17:00:00"
+    },
+    {
+      "tipo": "Entrada",
+      "cantidad": 26,
+      "desde": "2026-07-10 08:00:00",
+      "hasta": "2026-09-19 08:00:00"
+    },
+    {
+      "tipo": "Salida",
+      "cantidad": 211,
+      "desde": "2026-07-16 09:00:00",
+      "hasta": "2026-10-02 14:00:00"
+    },
+    {
+      "tipo": "Transferencia",
+      "cantidad": 6,
+      "desde": "2026-10-01 16:00:00",
+      "hasta": "2026-10-02 16:00:00"
+    }
+  ],
+  "ubicaciones": [
+    {
+      "codigo_ubicacion": "DEMO-A-P01-E01-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "A",
+      "pasillo": "01",
+      "estante": "E01",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-A-P01-E02-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "A",
+      "pasillo": "01",
+      "estante": "E02",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-A-P02-E03-N02",
+      "almacen": "Almacén de demostración",
+      "zona": "A",
+      "pasillo": "02",
+      "estante": "E03",
+      "nivel": "02"
+    },
+    {
+      "codigo_ubicacion": "DEMO-A-P02-E04-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "A",
+      "pasillo": "02",
+      "estante": "E04",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-B-P01-E01-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "B",
+      "pasillo": "01",
+      "estante": "E01",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-B-P01-E02-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "B",
+      "pasillo": "01",
+      "estante": "E02",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-B-P02-E03-N02",
+      "almacen": "Almacén de demostración",
+      "zona": "B",
+      "pasillo": "02",
+      "estante": "E03",
+      "nivel": "02"
+    },
+    {
+      "codigo_ubicacion": "DEMO-B-P02-E04-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "B",
+      "pasillo": "02",
+      "estante": "E04",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-C-P01-E01-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "C",
+      "pasillo": "01",
+      "estante": "E01",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-C-P01-E02-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "C",
+      "pasillo": "01",
+      "estante": "E02",
+      "nivel": "01"
+    },
+    {
+      "codigo_ubicacion": "DEMO-C-P02-E03-N02",
+      "almacen": "Almacén de demostración",
+      "zona": "C",
+      "pasillo": "02",
+      "estante": "E03",
+      "nivel": "02"
+    },
+    {
+      "codigo_ubicacion": "DEMO-C-P02-E04-N01",
+      "almacen": "Almacén de demostración",
+      "zona": "C",
+      "pasillo": "02",
+      "estante": "E04",
+      "nivel": "01"
+    }
+  ],
+  "lotes": [
+    {
+      "codigo": "DEMO-ACE-01",
+      "codigo_lote": "DEMO-ACE-01-VIGENTE",
+      "fecha_ingreso": "2026-07-10 08:12:00",
+      "fecha_vencimiento": "2027-01-31",
+      "stock": "40.000"
+    },
+    {
+      "codigo": "DEMO-GRA-01",
+      "codigo_lote": "DEMO-GRA-01-PROXIMO",
+      "fecha_ingreso": "2026-07-10 10:00:00",
+      "fecha_vencimiento": "2026-10-10",
+      "stock": "2.000"
+    },
+    {
+      "codigo": "DEMO-GRA-01",
+      "codigo_lote": "DEMO-GRA-01-VENCIDO",
+      "fecha_ingreso": "2026-07-10 10:06:00",
+      "fecha_vencimiento": "2026-09-23",
+      "stock": "3.000"
+    },
+    {
+      "codigo": "DEMO-GRA-01",
+      "codigo_lote": "DEMO-GRA-01-VIGENTE",
+      "fecha_ingreso": "2026-07-10 08:16:00",
+      "fecha_vencimiento": "2027-01-31",
+      "stock": "15.000"
+    },
+    {
+      "codigo": "DEMO-LIM-01",
+      "codigo_lote": "DEMO-LIM-01-VIGENTE",
+      "fecha_ingreso": "2026-07-10 08:36:00",
+      "fecha_vencimiento": "2026-10-13",
+      "stock": "15.000"
+    },
+    {
+      "codigo": "DEMO-SIL-01",
+      "codigo_lote": "DEMO-SIL-01-VIGENTE",
+      "fecha_ingreso": "2026-07-10 08:38:00",
+      "fecha_vencimiento": "2027-01-31",
+      "stock": "24.000"
+    }
+  ],
+  "anomalias": [
+    {
+      "referencia": "DEMO-V1-0220",
+      "codigo": "DEMO-CAB-01",
+      "cantidad": "80.000",
+      "score": 97.48846085563153,
+      "nivel": "CRÍTICA",
+      "motivo": "Salida de 80; promedio previo 8.000, desviación 0.739, 11 movimientos del mismo producto y tipo. Desviaciones estándar sobre el promedio: 97.488."
+    },
+    {
+      "referencia": "DEMO-V1-0218",
+      "codigo": "DEMO-FIL-01",
+      "cantidad": "25.000",
+      "score": 28.799999999999997,
+      "nivel": "CRÍTICA",
+      "motivo": "Salida de 25; promedio previo 2.846, desviación 0.769, 13 movimientos del mismo producto y tipo. Desviaciones estándar sobre el promedio: 28.800."
+    },
+    {
+      "referencia": "DEMO-V1-0217",
+      "codigo": "DEMO-TOR-01",
+      "cantidad": "150.000",
+      "score": 90.83576655968994,
+      "nivel": "CRÍTICA",
+      "motivo": "Salida de 150; promedio previo 19.947, desviación 1.432, 19 movimientos del mismo producto y tipo. Desviaciones estándar sobre el promedio: 90.836."
+    }
+  ],
+  "responsables": [
+    {
+      "codigo_empleado": "EMP-001",
+      "nombre": "Carlos Lopez",
+      "movimientos": 31
+    },
+    {
+      "codigo_empleado": "EMP-002",
+      "nombre": "Ana Martinez",
+      "movimientos": 31
+    },
+    {
+      "codigo_empleado": "EMP-003",
+      "nombre": "Luis Ramirez",
+      "movimientos": 31
+    },
+    {
+      "codigo_empleado": "EMP-004",
+      "nombre": "Maria Hernandez",
+      "movimientos": 31
+    },
+    {
+      "codigo_empleado": "EMP-005",
+      "nombre": "Jose Gonzalez",
+      "movimientos": 30
+    },
+    {
+      "codigo_empleado": "EMP-006",
+      "nombre": "Daniela Perez",
+      "movimientos": 30
+    },
+    {
+      "codigo_empleado": "EMP-007",
+      "nombre": "Miguel Torres",
+      "movimientos": 30
+    },
+    {
+      "codigo_empleado": "EMP-008",
+      "nombre": "Andrea Castillo",
+      "movimientos": 30
+    }
+  ],
+  "alertas": [
+    {
+      "tipo": "Lote próximo a vencer",
+      "nivel": "Alta",
+      "cantidad": 2
+    },
+    {
+      "tipo": "Stock bajo",
+      "nivel": "Alta",
+      "cantidad": 4
+    },
+    {
+      "tipo": "Cantidad inusual",
+      "nivel": "Critica",
+      "cantidad": 3
+    },
+    {
+      "tipo": "Lote vencido",
+      "nivel": "Critica",
+      "cantidad": 1
+    },
+    {
+      "tipo": "Producto agotado",
+      "nivel": "Critica",
+      "cantidad": 1
+    },
+    {
+      "tipo": "Stock bajo",
+      "nivel": "Critica",
+      "cantidad": 2
+    }
+  ],
+  "riesgos_calculados": {
+    "MEDIO": 3,
+    "ALTO": 3,
+    "BAJO": 3,
+    "CRÍTICO": 3,
+    "SIN DATOS": 8
+  },
+  "predicciones": [
+    {
+      "producto": "Tornillo hexagonal 1/2",
+      "stock_actual": "240.000",
+      "consumo_promedio_diario": 10.357142857142858,
+      "dias_restantes_promedio": 23.17241379310345,
+      "riesgo": "MEDIO",
+      "datos_suficientes": true,
+      "tendencia": "AUMENTANDO"
+    },
+    {
+      "producto": "Tornillo 3/8",
+      "stock_actual": "15.000",
+      "consumo_promedio_diario": 2.576923076923077,
+      "dias_restantes_promedio": 5.820895522388059,
+      "riesgo": "ALTO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Tuerca 1/2",
+      "stock_actual": "500.000",
+      "consumo_promedio_diario": 1.8846153846153846,
+      "dias_restantes_promedio": 265.3061224489796,
+      "riesgo": "BAJO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Arandela plana",
+      "stock_actual": "400.000",
+      "consumo_promedio_diario": 1.8,
+      "dias_restantes_promedio": 222.22222222222223,
+      "riesgo": "BAJO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Filtro de aceite",
+      "stock_actual": "12.000",
+      "consumo_promedio_diario": 1.5,
+      "dias_restantes_promedio": 8.0,
+      "riesgo": "MEDIO",
+      "datos_suficientes": true,
+      "tendencia": "AUMENTANDO"
+    },
+    {
+      "producto": "Filtro de aire",
+      "stock_actual": "3.000",
+      "consumo_promedio_diario": 0.46153846153846156,
+      "dias_restantes_promedio": 6.5,
+      "riesgo": "CRÍTICO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Aceite 20W50",
+      "stock_actual": "40.000",
+      "consumo_promedio_diario": 1.9230769230769231,
+      "dias_restantes_promedio": 20.8,
+      "riesgo": "MEDIO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Aceite hidráulico",
+      "stock_actual": "18.000",
+      "consumo_promedio_diario": 2.730769230769231,
+      "dias_restantes_promedio": 6.591549295774648,
+      "riesgo": "ALTO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Grasa multipropósito",
+      "stock_actual": "20.000",
+      "consumo_promedio_diario": 0.23076923076923078,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    },
+    {
+      "producto": "Bujía",
+      "stock_actual": "0.000",
+      "consumo_promedio_diario": 0.7692307692307693,
+      "dias_restantes_promedio": 0.0,
+      "riesgo": "CRÍTICO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Correa automotriz",
+      "stock_actual": "8.000",
+      "consumo_promedio_diario": 0.18181818181818182,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    },
+    {
+      "producto": "Rodamiento industrial",
+      "stock_actual": "30.000",
+      "consumo_promedio_diario": 0.15384615384615385,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    },
+    {
+      "producto": "Llave combinada",
+      "stock_actual": "12.000",
+      "consumo_promedio_diario": 0.1,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    },
+    {
+      "producto": "Broca para metal",
+      "stock_actual": "6.000",
+      "consumo_promedio_diario": 0.34615384615384615,
+      "dias_restantes_promedio": 17.333333333333332,
+      "riesgo": "ALTO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Cable eléctrico",
+      "stock_actual": "180.000",
+      "consumo_promedio_diario": 4.615384615384615,
+      "dias_restantes_promedio": 39.0,
+      "riesgo": "BAJO",
+      "datos_suficientes": true,
+      "tendencia": "AUMENTANDO"
+    },
+    {
+      "producto": "Fusible",
+      "stock_actual": "2.000",
+      "consumo_promedio_diario": 0.9615384615384616,
+      "dias_restantes_promedio": 2.08,
+      "riesgo": "CRÍTICO",
+      "datos_suficientes": true,
+      "tendencia": "DISMINUYENDO"
+    },
+    {
+      "producto": "Motor eléctrico de repuesto",
+      "stock_actual": "4.000",
+      "consumo_promedio_diario": 0.07692307692307693,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    },
+    {
+      "producto": "Guante de trabajo",
+      "stock_actual": "30.000",
+      "consumo_promedio_diario": 0.23076923076923078,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    },
+    {
+      "producto": "Limpiador de contactos",
+      "stock_actual": "15.000",
+      "consumo_promedio_diario": 0.18181818181818182,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    },
+    {
+      "producto": "Silicón industrial",
+      "stock_actual": "24.000",
+      "consumo_promedio_diario": 0.15384615384615385,
+      "dias_restantes_promedio": null,
+      "riesgo": "SIN DATOS",
+      "datos_suficientes": false,
+      "tendencia": "SIN DATOS"
+    }
+  ],
+  "fecha_base": "2026-10-03",
+  "total_movimientos": 244,
+  "agregados_por_tabla": {
+    "anomalias_inventario": 3,
+    "categorias": 4,
+    "ubicaciones": 12,
+    "empleados": 0,
+    "productos": 20,
+    "inventario_migraciones": 0,
+    "unidades_medida": 0,
+    "existencias": 25,
+    "tipos_movimiento": 0,
+    "motivos_movimiento": 0,
+    "movimientos": 244,
+    "lotes": 6,
+    "detalle_movimientos": 244,
+    "existencias_lotes": 8,
+    "tipos_alerta": 0,
+    "detalle_movimiento_lotes": 46,
+    "alertas": 34,
+    "conteos_inventario": 1,
+    "detalle_conteos": 1,
+    "rostros_empleados": 0
+  },
+  "estado": "CARGADO Y CONFIRMADO"
+}

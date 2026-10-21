@@ -1,0 +1,2675 @@
+{
+  "modelo_sha256": "d57341272d9d352e5880e12e54db2cabe5cb1560c74af5392aff3eccdd2ebd02",
+  "protocolo_valido": false,
+  "errores_protocolo": [
+    "Confusiones aceptadas en evaluación: subject02 → subject09, subject04 → subject03, subject06 → subject10",
+    "Conjunto ausente o vacío: validacion",
+    "Faltan clases activas en validacion",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.normal.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.normal.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.normal.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.normal.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.normal.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.normal.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.wink.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.centerlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.glasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.happy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.leftlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.noglasses.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.normal.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.rightlight.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.sad.gif.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.sleepy.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.surprised.gif",
+    "Imagen sin sesión documentada: C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.wink.gif",
+    "La evaluación no acredita al menos un acierto aceptado para cada clase activa.",
+    "Misma sesión en calibracion y evaluacion: ('subject01', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject02', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject03', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject04', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject05', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject06', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject07', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject08', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject09', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject10', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject11', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject12', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject13', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject14', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject15', None)",
+    "Misma sesión en calibracion y evaluacion: ('subject19', 'c2e5a535b8214231afe1ca2786c88c85')",
+    "Misma sesión en entrenamiento y calibracion: ('subject01', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject02', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject03', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject04', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject05', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject06', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject07', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject08', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject09', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject10', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject11', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject12', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject13', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject14', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject15', None)",
+    "Misma sesión en entrenamiento y calibracion: ('subject19', 'c2e5a535b8214231afe1ca2786c88c85')",
+    "Misma sesión o grupo en calibracion y evaluacion: subject01:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject02:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject03:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject04:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject05:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject06:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject07:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject08:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject09:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject10:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject11:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject12:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject13:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject14:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject15:historico_sin_sesion",
+    "Misma sesión o grupo en calibracion y evaluacion: subject19:captura:c2e5a535b8214231afe1ca2786c88c85",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject01:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject02:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject03:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject04:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject05:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject06:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject07:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject08:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject09:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject10:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject11:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject12:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject13:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject14:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject15:historico_sin_sesion",
+    "Misma sesión o grupo en entrenamiento y calibracion: subject19:captura:c2e5a535b8214231afe1ca2786c88c85",
+    "Partición anterior sin separación de validación y calibración ni grupos de captura.",
+    "Sesión con menos de cuatro imágenes válidas: ('subject01', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject02', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject03', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject04', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject05', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject06', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject07', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject08', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject09', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject10', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject11', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject12', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject13', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject14', None)",
+    "Sesión con menos de cuatro imágenes válidas: ('subject15', None)",
+    "subject01: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject02: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject03: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject04: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject05: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject06: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject07: 8 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject08: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject09: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject10: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject11: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject12: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject13: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject14: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject15: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+    "subject19: 28 imágenes válidas, 28 con sesión documentada; sesiones 1/4, grupos independientes 1/4. Capture al menos 3 sesiones nuevas y reúna 8 imágenes válidas con procedencia."
+  ],
+  "candidato_calibracion": {
+    "threshold": 0.4504130184650421,
+    "margin": 0.14773115515708923
+  },
+  "calibracion": [
+    {
+      "best_class": "subject01",
+      "best_score": 0.46806079149246216,
+      "second_class": "subject14",
+      "second_score": 0.3203296363353729,
+      "margin": 0.14773115515708923,
+      "real": "subject01",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.centerlight.gif",
+      "inferencia_ms": 8.4282999999985
+    },
+    {
+      "best_class": "subject01",
+      "best_score": 0.9907675385475159,
+      "second_class": "subject03",
+      "second_score": 0.008321909233927727,
+      "margin": 0.9824456293135881,
+      "real": "subject01",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.wink.gif",
+      "inferencia_ms": 7.338200000006623
+    },
+    {
+      "best_class": "subject02",
+      "best_score": 0.997841477394104,
+      "second_class": "subject09",
+      "second_score": 0.0010519889183342457,
+      "margin": 0.9967894884757698,
+      "real": "subject02",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.happy.gif",
+      "inferencia_ms": 6.923399999998026
+    },
+    {
+      "best_class": "subject02",
+      "best_score": 0.998478353023529,
+      "second_class": "subject09",
+      "second_score": 0.0009031564695760608,
+      "margin": 0.997575196553953,
+      "real": "subject02",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.sad.gif.gif",
+      "inferencia_ms": 6.61399999999901
+    },
+    {
+      "best_class": "subject03",
+      "best_score": 0.5684901475906372,
+      "second_class": "subject14",
+      "second_score": 0.3461715877056122,
+      "margin": 0.22231855988502502,
+      "real": "subject03",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.surprised.gif",
+      "inferencia_ms": 6.951000000000818
+    },
+    {
+      "best_class": "subject03",
+      "best_score": 0.9947636127471924,
+      "second_class": "subject14",
+      "second_score": 0.0034424117766320705,
+      "margin": 0.9913212009705603,
+      "real": "subject03",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.noglasses.gif",
+      "inferencia_ms": 6.390400000000795
+    },
+    {
+      "best_class": "subject04",
+      "best_score": 0.8061344623565674,
+      "second_class": "subject14",
+      "second_score": 0.10731087625026703,
+      "margin": 0.6988235861063004,
+      "real": "subject04",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.happy.gif",
+      "inferencia_ms": 6.947300000000212
+    },
+    {
+      "best_class": "subject04",
+      "best_score": 0.5690501928329468,
+      "second_class": "subject14",
+      "second_score": 0.3221818506717682,
+      "margin": 0.2468683421611786,
+      "real": "subject04",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.sleepy.gif",
+      "inferencia_ms": 7.38659999999669
+    },
+    {
+      "best_class": "subject05",
+      "best_score": 0.9839221239089966,
+      "second_class": "subject12",
+      "second_score": 0.01564478874206543,
+      "margin": 0.9682773351669312,
+      "real": "subject05",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.wink.gif",
+      "inferencia_ms": 6.575099999999168
+    },
+    {
+      "best_class": "subject05",
+      "best_score": 0.9603396058082581,
+      "second_class": "subject12",
+      "second_score": 0.03891635313630104,
+      "margin": 0.921423252671957,
+      "real": "subject05",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.happy.gif",
+      "inferencia_ms": 6.714899999998636
+    },
+    {
+      "best_class": "subject06",
+      "best_score": 0.9802055358886719,
+      "second_class": "subject10",
+      "second_score": 0.008912632241845131,
+      "margin": 0.9712929036468267,
+      "real": "subject06",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.wink.gif",
+      "inferencia_ms": 6.2697000000042635
+    },
+    {
+      "best_class": "subject06",
+      "best_score": 0.7836163640022278,
+      "second_class": "subject10",
+      "second_score": 0.13361044228076935,
+      "margin": 0.6500059217214584,
+      "real": "subject06",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.sad.gif.gif",
+      "inferencia_ms": 6.833700000001386
+    },
+    {
+      "best_class": "subject07",
+      "best_score": 0.9284536242485046,
+      "second_class": "subject13",
+      "second_score": 0.0667794793844223,
+      "margin": 0.8616741448640823,
+      "real": "subject07",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.surprised.gif",
+      "inferencia_ms": 6.771100000001695
+    },
+    {
+      "best_class": "subject08",
+      "best_score": 0.7804881930351257,
+      "second_class": "subject04",
+      "second_score": 0.17422352731227875,
+      "margin": 0.606264665722847,
+      "real": "subject08",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.centerlight.gif",
+      "inferencia_ms": 6.917500000000132
+    },
+    {
+      "best_class": "subject08",
+      "best_score": 0.937260091304779,
+      "second_class": "subject04",
+      "second_score": 0.03244014456868172,
+      "margin": 0.9048199467360973,
+      "real": "subject08",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.happy.gif",
+      "inferencia_ms": 6.781399999994164
+    },
+    {
+      "best_class": "subject09",
+      "best_score": 0.9917303919792175,
+      "second_class": "subject15",
+      "second_score": 0.003856286872178316,
+      "margin": 0.9878741051070392,
+      "real": "subject09",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.noglasses.gif",
+      "inferencia_ms": 6.934099999995169
+    },
+    {
+      "best_class": "subject09",
+      "best_score": 0.9461417198181152,
+      "second_class": "subject15",
+      "second_score": 0.03025582991540432,
+      "margin": 0.9158858899027109,
+      "real": "subject09",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.happy.gif",
+      "inferencia_ms": 6.582900000005054
+    },
+    {
+      "best_class": "subject10",
+      "best_score": 0.9872669577598572,
+      "second_class": "subject06",
+      "second_score": 0.004629155620932579,
+      "margin": 0.9826378021389246,
+      "real": "subject10",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.happy.gif",
+      "inferencia_ms": 6.802499999999156
+    },
+    {
+      "best_class": "subject10",
+      "best_score": 0.818831205368042,
+      "second_class": "subject06",
+      "second_score": 0.09208613634109497,
+      "margin": 0.726745069026947,
+      "real": "subject10",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.centerlight.gif",
+      "inferencia_ms": 6.457599999997399
+    },
+    {
+      "best_class": "subject11",
+      "best_score": 0.999956488609314,
+      "second_class": "subject19",
+      "second_score": 4.2424122511874884e-05,
+      "margin": 0.9999140644868021,
+      "real": "subject11",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.wink.gif",
+      "inferencia_ms": 6.964299999999923
+    },
+    {
+      "best_class": "subject11",
+      "best_score": 0.9999984502792358,
+      "second_class": "subject19",
+      "second_score": 1.572673568261962e-06,
+      "margin": 0.9999968776056676,
+      "real": "subject11",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.noglasses.gif",
+      "inferencia_ms": 6.745800000004465
+    },
+    {
+      "best_class": "subject12",
+      "best_score": 0.9389306306838989,
+      "second_class": "subject05",
+      "second_score": 0.05246361717581749,
+      "margin": 0.8864670135080814,
+      "real": "subject12",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.leftlight.gif",
+      "inferencia_ms": 7.401100000002714
+    },
+    {
+      "best_class": "subject12",
+      "best_score": 0.9432633519172668,
+      "second_class": "subject01",
+      "second_score": 0.017404042184352875,
+      "margin": 0.925859309732914,
+      "real": "subject12",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.rightlight.gif",
+      "inferencia_ms": 7.467699999999411
+    },
+    {
+      "best_class": "subject13",
+      "best_score": 0.8798121809959412,
+      "second_class": "subject03",
+      "second_score": 0.04567314684391022,
+      "margin": 0.834139034152031,
+      "real": "subject13",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.rightlight.gif",
+      "inferencia_ms": 7.102199999998504
+    },
+    {
+      "best_class": "subject13",
+      "best_score": 0.9981562495231628,
+      "second_class": "subject03",
+      "second_score": 0.000669708417262882,
+      "margin": 0.9974865411059,
+      "real": "subject13",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.glasses.gif",
+      "inferencia_ms": 6.772000000005107
+    },
+    {
+      "best_class": "subject14",
+      "best_score": 0.8638784885406494,
+      "second_class": "subject04",
+      "second_score": 0.08070288598537445,
+      "margin": 0.783175602555275,
+      "real": "subject14",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.wink.gif",
+      "inferencia_ms": 6.896599999997477
+    },
+    {
+      "best_class": "subject14",
+      "best_score": 0.4504130184650421,
+      "second_class": "subject03",
+      "second_score": 0.18122412264347076,
+      "margin": 0.26918889582157135,
+      "real": "subject14",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.rightlight.gif",
+      "inferencia_ms": 7.069100000002493
+    },
+    {
+      "best_class": "subject15",
+      "best_score": 0.9491168856620789,
+      "second_class": "subject02",
+      "second_score": 0.014931902289390564,
+      "margin": 0.9341849833726883,
+      "real": "subject15",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.rightlight.gif",
+      "inferencia_ms": 6.914100000003032
+    },
+    {
+      "best_class": "subject15",
+      "best_score": 0.7786417603492737,
+      "second_class": "subject13",
+      "second_score": 0.0747511237859726,
+      "margin": 0.7038906365633011,
+      "real": "subject15",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.centerlight.gif",
+      "inferencia_ms": 7.7414000000004535
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9996815919876099,
+      "second_class": "subject01",
+      "second_score": 0.00018873662338592112,
+      "margin": 0.9994928553642239,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture016.png",
+      "inferencia_ms": 6.49209999999556
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9999085664749146,
+      "second_class": "subject11",
+      "second_score": 3.729879972524941e-05,
+      "margin": 0.9998712676751893,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture025.png",
+      "inferencia_ms": 6.617799999993679
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9996618032455444,
+      "second_class": "subject01",
+      "second_score": 0.00020730702090077102,
+      "margin": 0.9994544962246437,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture014.png",
+      "inferencia_ms": 6.757100000001515
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9997971653938293,
+      "second_class": "subject03",
+      "second_score": 7.977260975167155e-05,
+      "margin": 0.9997173927840777,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture006.png",
+      "inferencia_ms": 7.417000000003782
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9996334314346313,
+      "second_class": "subject11",
+      "second_score": 0.00026211742078885436,
+      "margin": 0.9993713140138425,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture011.png",
+      "inferencia_ms": 7.405199999993783
+    }
+  ],
+  "evaluacion": [
+    {
+      "best_class": "subject03",
+      "best_score": 0.360343337059021,
+      "second_class": "subject01",
+      "second_score": 0.233303502202034,
+      "margin": 0.127039834856987,
+      "real": "subject01",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+      "inferencia_ms": 6.684800000002156
+    },
+    {
+      "best_class": "subject01",
+      "best_score": 0.9995538592338562,
+      "second_class": "subject03",
+      "second_score": 0.0002239520981675014,
+      "margin": 0.9993299071356887,
+      "real": "subject01",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.sad.gif.gif",
+      "inferencia_ms": 7.1020999999973355
+    },
+    {
+      "best_class": "subject02",
+      "best_score": 0.9961875081062317,
+      "second_class": "subject09",
+      "second_score": 0.0014079316752031446,
+      "margin": 0.9947795764310285,
+      "real": "subject02",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.noglasses.gif",
+      "inferencia_ms": 6.922799999998119
+    },
+    {
+      "best_class": "subject09",
+      "best_score": 0.5967941880226135,
+      "second_class": "subject02",
+      "second_score": 0.3891009986400604,
+      "margin": 0.2076931893825531,
+      "real": "subject02",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+      "inferencia_ms": 6.556199999998569
+    },
+    {
+      "best_class": "subject03",
+      "best_score": 0.550788402557373,
+      "second_class": "subject14",
+      "second_score": 0.26635071635246277,
+      "margin": 0.2844376862049103,
+      "real": "subject03",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.centerlight.gif",
+      "inferencia_ms": 6.620699999999147
+    },
+    {
+      "best_class": "subject03",
+      "best_score": 0.9958428740501404,
+      "second_class": "subject14",
+      "second_score": 0.0021691059228032827,
+      "margin": 0.9936737681273371,
+      "real": "subject03",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.wink.gif",
+      "inferencia_ms": 6.912399999997376
+    },
+    {
+      "best_class": "subject03",
+      "best_score": 0.5430489778518677,
+      "second_class": "subject14",
+      "second_score": 0.16298741102218628,
+      "margin": 0.3800615668296814,
+      "real": "subject04",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+      "inferencia_ms": 6.593500000001029
+    },
+    {
+      "best_class": "subject04",
+      "best_score": 0.512637734413147,
+      "second_class": "subject08",
+      "second_score": 0.23903852701187134,
+      "margin": 0.27359920740127563,
+      "real": "subject04",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.glasses.gif",
+      "inferencia_ms": 6.811399999996581
+    },
+    {
+      "best_class": "subject05",
+      "best_score": 0.35501185059547424,
+      "second_class": "subject12",
+      "second_score": 0.3510182499885559,
+      "margin": 0.003993600606918335,
+      "real": "subject05",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.rightlight.gif",
+      "inferencia_ms": 6.714500000001067
+    },
+    {
+      "best_class": "subject05",
+      "best_score": 0.4473022520542145,
+      "second_class": "subject19",
+      "second_score": 0.25943896174430847,
+      "margin": 0.187863290309906,
+      "real": "subject05",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.leftlight.gif",
+      "inferencia_ms": 6.5524000000038995
+    },
+    {
+      "best_class": "subject10",
+      "best_score": 0.7611644268035889,
+      "second_class": "subject14",
+      "second_score": 0.11596225202083588,
+      "margin": 0.645202174782753,
+      "real": "subject06",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+      "inferencia_ms": 7.479199999998798
+    },
+    {
+      "best_class": "subject06",
+      "best_score": 0.9785199761390686,
+      "second_class": "subject10",
+      "second_score": 0.010164567269384861,
+      "margin": 0.9683554088696837,
+      "real": "subject06",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.noglasses.gif",
+      "inferencia_ms": 7.360299999994879
+    },
+    {
+      "best_class": "subject07",
+      "best_score": 0.9992904663085938,
+      "second_class": "subject15",
+      "second_score": 0.0004691100912168622,
+      "margin": 0.9988213562173769,
+      "real": "subject07",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.happy.gif",
+      "inferencia_ms": 7.33120000000298
+    },
+    {
+      "best_class": "subject07",
+      "best_score": 0.9334185123443604,
+      "second_class": "subject10",
+      "second_score": 0.0453232116997242,
+      "margin": 0.8880953006446362,
+      "real": "subject07",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.centerlight.gif",
+      "inferencia_ms": 6.7203999999989605
+    },
+    {
+      "best_class": "subject08",
+      "best_score": 0.9798787832260132,
+      "second_class": "subject10",
+      "second_score": 0.011842249892652035,
+      "margin": 0.9680365333333611,
+      "real": "subject08",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.wink.gif",
+      "inferencia_ms": 7.32500000000158
+    },
+    {
+      "best_class": "subject03",
+      "best_score": 0.42473000288009644,
+      "second_class": "subject15",
+      "second_score": 0.10802973806858063,
+      "margin": 0.3167002648115158,
+      "real": "subject08",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+      "inferencia_ms": 7.5356000000041945
+    },
+    {
+      "best_class": "subject09",
+      "best_score": 0.9615840315818787,
+      "second_class": "subject02",
+      "second_score": 0.02333679609000683,
+      "margin": 0.9382472354918718,
+      "real": "subject09",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.sleepy.gif",
+      "inferencia_ms": 7.2499999999990905
+    },
+    {
+      "best_class": "subject09",
+      "best_score": 0.8386168479919434,
+      "second_class": "subject15",
+      "second_score": 0.03881731256842613,
+      "margin": 0.7997995354235172,
+      "real": "subject09",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.leftlight.gif",
+      "inferencia_ms": 7.004899999998315
+    },
+    {
+      "best_class": "subject10",
+      "best_score": 0.9975482821464539,
+      "second_class": "subject14",
+      "second_score": 0.001269049709662795,
+      "margin": 0.9962792324367911,
+      "real": "subject10",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.noglasses.gif",
+      "inferencia_ms": 7.367099999996185
+    },
+    {
+      "best_class": "subject10",
+      "best_score": 0.7765768766403198,
+      "second_class": "subject13",
+      "second_score": 0.13047219812870026,
+      "margin": 0.6461046785116196,
+      "real": "subject10",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.rightlight.gif",
+      "inferencia_ms": 7.8835999999995465
+    },
+    {
+      "best_class": "subject11",
+      "best_score": 0.9999988079071045,
+      "second_class": "subject19",
+      "second_score": 1.1376750990166329e-06,
+      "margin": 0.9999976702320055,
+      "real": "subject11",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.glasses.gif",
+      "inferencia_ms": 6.8608999999995035
+    },
+    {
+      "best_class": "subject11",
+      "best_score": 0.9999973773956299,
+      "second_class": "subject19",
+      "second_score": 2.5488261599093676e-06,
+      "margin": 0.99999482856947,
+      "real": "subject11",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.centerlight.gif",
+      "inferencia_ms": 6.97579999999931
+    },
+    {
+      "best_class": "subject12",
+      "best_score": 0.5860486030578613,
+      "second_class": "subject01",
+      "second_score": 0.1781427413225174,
+      "margin": 0.40790586173534393,
+      "real": "subject12",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.centerlight.gif",
+      "inferencia_ms": 7.859899999999698
+    },
+    {
+      "best_class": "subject12",
+      "best_score": 0.9981920123100281,
+      "second_class": "subject05",
+      "second_score": 0.00136891461443156,
+      "margin": 0.9968230976955965,
+      "real": "subject12",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.happy.gif",
+      "inferencia_ms": 9.115500000000054
+    },
+    {
+      "best_class": "subject13",
+      "best_score": 0.9954442977905273,
+      "second_class": "subject08",
+      "second_score": 0.0022498401813209057,
+      "margin": 0.9931944576092064,
+      "real": "subject13",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.surprised.gif",
+      "inferencia_ms": 7.967299999997124
+    },
+    {
+      "best_class": "subject13",
+      "best_score": 0.9936321377754211,
+      "second_class": "subject07",
+      "second_score": 0.004495431203395128,
+      "margin": 0.989136706572026,
+      "real": "subject13",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.happy.gif",
+      "inferencia_ms": 7.294099999995751
+    },
+    {
+      "best_class": "subject14",
+      "best_score": 0.924077033996582,
+      "second_class": "subject04",
+      "second_score": 0.04318606108427048,
+      "margin": 0.8808909729123116,
+      "real": "subject14",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.noglasses.gif",
+      "inferencia_ms": 6.738699999999653
+    },
+    {
+      "best_class": "subject14",
+      "best_score": 0.9046509861946106,
+      "second_class": "subject04",
+      "second_score": 0.048855818808078766,
+      "margin": 0.8557951673865318,
+      "real": "subject14",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.centerlight.gif",
+      "inferencia_ms": 6.6017000000044845
+    },
+    {
+      "best_class": "subject15",
+      "best_score": 0.9983553290367126,
+      "second_class": "subject09",
+      "second_score": 0.0012082570465281606,
+      "margin": 0.9971470719901845,
+      "real": "subject15",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.surprised.gif",
+      "inferencia_ms": 6.645499999997639
+    },
+    {
+      "best_class": "subject15",
+      "best_score": 0.9998722076416016,
+      "second_class": "subject09",
+      "second_score": 8.159870776580647e-05,
+      "margin": 0.9997906089338358,
+      "real": "subject15",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.noglasses.gif",
+      "inferencia_ms": 6.938599999998019
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9998038411140442,
+      "second_class": "subject11",
+      "second_score": 0.00015727709978818893,
+      "margin": 0.999646564014256,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture008.png",
+      "inferencia_ms": 6.954600000000255
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9999499320983887,
+      "second_class": "subject03",
+      "second_score": 2.6264426196576096e-05,
+      "margin": 0.9999236676721921,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture022.png",
+      "inferencia_ms": 6.761799999999596
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.9992784857749939,
+      "second_class": "subject01",
+      "second_score": 0.0005160510772839189,
+      "margin": 0.99876243469771,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture015.png",
+      "inferencia_ms": 6.711500000001536
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.999607503414154,
+      "second_class": "subject11",
+      "second_score": 0.00011300858750473708,
+      "margin": 0.9994944948266493,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture007.png",
+      "inferencia_ms": 7.034199999999657
+    },
+    {
+      "best_class": "subject19",
+      "best_score": 0.999666690826416,
+      "second_class": "subject11",
+      "second_score": 0.00018323579570278525,
+      "margin": 0.9994834550307132,
+      "real": "subject19",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture012.png",
+      "inferencia_ms": 6.61980000000284
+    }
+  ],
+  "metricas_candidato": {
+    "muestras": 35,
+    "correctas_argmax": 30,
+    "correctas_aceptadas": 28,
+    "incorrectas_aceptadas": 3,
+    "rechazadas": 4,
+    "por_clase": {
+      "subject01": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 1
+      },
+      "subject02": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject03": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject04": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject05": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject06": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject07": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject08": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 1
+      },
+      "subject09": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject10": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject11": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject12": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject13": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject14": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject15": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject19": {
+        "muestras": 5,
+        "correctas_aceptadas": 5,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      }
+    },
+    "confusiones": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+        "real": "subject01",
+        "best_class": "subject03",
+        "best_score": 0.360343337059021,
+        "second_class": "subject01",
+        "second_score": 0.233303502202034,
+        "margin": 0.127039834856987,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+        "real": "subject02",
+        "best_class": "subject09",
+        "best_score": 0.5967941880226135,
+        "second_class": "subject02",
+        "second_score": 0.3891009986400604,
+        "margin": 0.2076931893825531,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+        "real": "subject04",
+        "best_class": "subject03",
+        "best_score": 0.5430489778518677,
+        "second_class": "subject14",
+        "second_score": 0.16298741102218628,
+        "margin": 0.3800615668296814,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+        "real": "subject06",
+        "best_class": "subject10",
+        "best_score": 0.7611644268035889,
+        "second_class": "subject14",
+        "second_score": 0.11596225202083588,
+        "margin": 0.645202174782753,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+        "real": "subject08",
+        "best_class": "subject03",
+        "best_score": 0.42473000288009644,
+        "second_class": "subject15",
+        "second_score": 0.10802973806858063,
+        "margin": 0.3167002648115158,
+        "aceptada": false
+      }
+    ],
+    "accuracy_argmax": 0.8571428571428571,
+    "protocolo_valido": false
+  },
+  "referencia_anterior_solo_score": {
+    "muestras": 35,
+    "correctas_argmax": 30,
+    "correctas_aceptadas": 28,
+    "incorrectas_aceptadas": 3,
+    "rechazadas": 4,
+    "por_clase": {
+      "subject01": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 1
+      },
+      "subject02": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject03": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject04": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject05": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject06": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 1,
+        "rechazadas": 0
+      },
+      "subject07": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject08": {
+        "muestras": 2,
+        "correctas_aceptadas": 1,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 1
+      },
+      "subject09": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject10": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject11": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject12": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject13": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject14": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject15": {
+        "muestras": 2,
+        "correctas_aceptadas": 2,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      },
+      "subject19": {
+        "muestras": 5,
+        "correctas_aceptadas": 5,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 0
+      }
+    },
+    "confusiones": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+        "real": "subject01",
+        "best_class": "subject03",
+        "best_score": 0.360343337059021,
+        "second_class": "subject01",
+        "second_score": 0.233303502202034,
+        "margin": 0.127039834856987,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+        "real": "subject02",
+        "best_class": "subject09",
+        "best_score": 0.5967941880226135,
+        "second_class": "subject02",
+        "second_score": 0.3891009986400604,
+        "margin": 0.2076931893825531,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+        "real": "subject04",
+        "best_class": "subject03",
+        "best_score": 0.5430489778518677,
+        "second_class": "subject14",
+        "second_score": 0.16298741102218628,
+        "margin": 0.3800615668296814,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+        "real": "subject06",
+        "best_class": "subject10",
+        "best_score": 0.7611644268035889,
+        "second_class": "subject14",
+        "second_score": 0.11596225202083588,
+        "margin": 0.645202174782753,
+        "aceptada": true
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+        "real": "subject08",
+        "best_class": "subject03",
+        "best_score": 0.42473000288009644,
+        "second_class": "subject15",
+        "second_score": 0.10802973806858063,
+        "margin": 0.3167002648115158,
+        "aceptada": false
+      }
+    ],
+    "accuracy_argmax": 0.8571428571428571
+  },
+  "decision_vigente": {
+    "muestras": 35,
+    "correctas_argmax": 30,
+    "correctas_aceptadas": 0,
+    "incorrectas_aceptadas": 0,
+    "rechazadas": 35,
+    "por_clase": {
+      "subject01": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject02": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject03": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject04": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject05": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject06": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject07": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject08": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject09": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject10": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject11": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject12": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject13": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject14": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject15": {
+        "muestras": 2,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 2
+      },
+      "subject19": {
+        "muestras": 5,
+        "correctas_aceptadas": 0,
+        "incorrectas_aceptadas": 0,
+        "rechazadas": 5
+      }
+    },
+    "confusiones": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+        "real": "subject01",
+        "best_class": "subject03",
+        "best_score": 0.360343337059021,
+        "second_class": "subject01",
+        "second_score": 0.233303502202034,
+        "margin": 0.127039834856987,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+        "real": "subject02",
+        "best_class": "subject09",
+        "best_score": 0.5967941880226135,
+        "second_class": "subject02",
+        "second_score": 0.3891009986400604,
+        "margin": 0.2076931893825531,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+        "real": "subject04",
+        "best_class": "subject03",
+        "best_score": 0.5430489778518677,
+        "second_class": "subject14",
+        "second_score": 0.16298741102218628,
+        "margin": 0.3800615668296814,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+        "real": "subject06",
+        "best_class": "subject10",
+        "best_score": 0.7611644268035889,
+        "second_class": "subject14",
+        "second_score": 0.11596225202083588,
+        "margin": 0.645202174782753,
+        "aceptada": false
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+        "real": "subject08",
+        "best_class": "subject03",
+        "best_score": 0.42473000288009644,
+        "second_class": "subject15",
+        "second_score": 0.10802973806858063,
+        "margin": 0.3167002648115158,
+        "aceptada": false
+      }
+    ],
+    "accuracy_argmax": 0.8571428571428571
+  },
+  "etiquetas_matriz": [
+    "subject01",
+    "subject02",
+    "subject03",
+    "subject04",
+    "subject05",
+    "subject06",
+    "subject07",
+    "subject08",
+    "subject09",
+    "subject10",
+    "subject11",
+    "subject12",
+    "subject13",
+    "subject14",
+    "subject15",
+    "subject19"
+  ],
+  "matriz_confusion": [
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ]
+  ],
+  "dataset": {
+    "preprocesamiento": "yunet-align-sface-gris-100x100-float32-0-1-v2",
+    "protocolo": "cnn-sesiones-documentadas-validacion-calibracion-evaluacion-v2",
+    "resumen_sesiones": {
+      "listo": false,
+      "subjects": 16,
+      "sesiones_completas": 1,
+      "sesiones_requeridas": 64,
+      "clases_incompletas": 16,
+      "fugas_entre_sesiones": 0
+    },
+    "archivos_por_subject": {
+      "subject01": 11,
+      "subject02": 11,
+      "subject03": 11,
+      "subject04": 11,
+      "subject05": 11,
+      "subject06": 11,
+      "subject07": 11,
+      "subject08": 11,
+      "subject09": 11,
+      "subject10": 11,
+      "subject11": 11,
+      "subject12": 11,
+      "subject13": 11,
+      "subject14": 11,
+      "subject15": 11,
+      "subject16": 30,
+      "subject17": 30,
+      "subject18": 30,
+      "subject19": 28
+    },
+    "subjects_activos_sql": [
+      "subject01",
+      "subject02",
+      "subject03",
+      "subject04",
+      "subject05",
+      "subject06",
+      "subject07",
+      "subject08",
+      "subject09",
+      "subject10",
+      "subject11",
+      "subject12",
+      "subject13",
+      "subject14",
+      "subject15",
+      "subject19"
+    ],
+    "validas_por_subject": {
+      "subject01": 11,
+      "subject02": 10,
+      "subject03": 10,
+      "subject04": 10,
+      "subject05": 11,
+      "subject06": 10,
+      "subject07": 8,
+      "subject08": 10,
+      "subject09": 10,
+      "subject10": 11,
+      "subject11": 11,
+      "subject12": 10,
+      "subject13": 11,
+      "subject14": 10,
+      "subject15": 11,
+      "subject19": 28
+    },
+    "grupos_por_subject": {
+      "subject01": 0,
+      "subject02": 0,
+      "subject03": 0,
+      "subject04": 0,
+      "subject05": 0,
+      "subject06": 0,
+      "subject07": 0,
+      "subject08": 0,
+      "subject09": 0,
+      "subject10": 0,
+      "subject11": 0,
+      "subject12": 0,
+      "subject13": 0,
+      "subject14": 0,
+      "subject15": 0,
+      "subject16": 0,
+      "subject17": 0,
+      "subject18": 0,
+      "subject19": 1
+    },
+    "rechazos": [
+      {
+        "subject": "subject02",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.noglasses.gif"
+      },
+      {
+        "subject": "subject03",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.noglasses.gif"
+      },
+      {
+        "subject": "subject04",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.sad.gif.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.normal.gif"
+      },
+      {
+        "subject": "subject06",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.noglasses.gif"
+      },
+      {
+        "subject": "subject07",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.leftlight.gif",
+        "motivo": "ILUMINACION_DEFICIENTE"
+      },
+      {
+        "subject": "subject07",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.noglasses.gif"
+      },
+      {
+        "subject": "subject07",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.rightlight.gif",
+        "motivo": "ILUMINACION_DEFICIENTE"
+      },
+      {
+        "subject": "subject08",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.glasses.gif"
+      },
+      {
+        "subject": "subject09",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.noglasses.gif"
+      },
+      {
+        "subject": "subject12",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.noglasses.gif"
+      },
+      {
+        "subject": "subject14",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.normal.gif",
+        "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.noglasses.gif"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture001.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture002.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture003.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture004.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture005.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture006.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture007.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture008.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture009.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture010.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture011.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture012.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture013.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture014.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture015.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture016.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture017.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture018.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture019.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture020.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture021.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture022.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture023.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture024.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture025.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture026.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture027.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture028.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture029.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject16",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture030.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture001.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture002.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture003.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture004.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture005.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture006.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture007.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture008.png",
+        "motivo": "Se requiere un rostro; detectados: 0."
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture009.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture010.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture011.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture012.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture013.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture014.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture015.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture016.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture017.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture018.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture019.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture020.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture021.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture022.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture023.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture024.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture025.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture026.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture027.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture028.png",
+        "motivo": "Se requiere un rostro; detectados: 0."
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture029.png",
+        "motivo": "Se requiere un rostro; detectados: 0."
+      },
+      {
+        "subject": "subject17",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture030.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture001.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture002.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture003.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture004.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture005.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture006.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture007.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture008.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture009.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture010.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture011.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture012.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture013.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture014.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture015.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture016.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture017.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture018.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture019.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture020.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture021.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture022.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture023.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture024.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture025.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture026.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture027.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture028.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture029.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      },
+      {
+        "subject": "subject18",
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture030.png",
+        "motivo": "ROSTRO_MUY_PEQUENO"
+      }
+    ],
+    "problemas_particion": [
+      "subject01: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject02: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject03: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject04: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject05: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject06: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject07: 8 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject08: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject09: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject10: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject11: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject12: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject13: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject14: 10 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject15: 11 imágenes válidas, 0 con sesión documentada; sesiones 0/4, grupos independientes 0/4. Capture al menos 4 sesiones nuevas y reúna 8 imágenes válidas con procedencia.",
+      "subject19: 28 imágenes válidas, 28 con sesión documentada; sesiones 1/4, grupos independientes 1/4. Capture al menos 3 sesiones nuevas y reúna 8 imágenes válidas con procedencia."
+    ],
+    "sesiones_por_subject": {
+      "subject01": 0,
+      "subject02": 0,
+      "subject03": 0,
+      "subject04": 0,
+      "subject05": 0,
+      "subject06": 0,
+      "subject07": 0,
+      "subject08": 0,
+      "subject09": 0,
+      "subject10": 0,
+      "subject11": 0,
+      "subject12": 0,
+      "subject13": 0,
+      "subject14": 0,
+      "subject15": 0,
+      "subject16": 0,
+      "subject17": 0,
+      "subject18": 0,
+      "subject19": 1
+    },
+    "por_subject": {
+      "subject01": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 11,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 0,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 11
+      },
+      "subject02": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject03": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject04": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject05": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 11,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 0,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 11
+      },
+      "subject06": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject07": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 8,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 3,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 8
+      },
+      "subject08": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject09": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject10": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 11,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 0,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 11
+      },
+      "subject11": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 11,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 0,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 11
+      },
+      "subject12": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject13": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 11,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 0,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 11
+      },
+      "subject14": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 10,
+        "borrosas": 0,
+        "duplicadas": 1,
+        "casi_duplicadas": 0,
+        "rechazadas": 1,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 10
+      },
+      "subject15": {
+        "activo_sql": true,
+        "archivos_dataset": 11,
+        "fuentes_canonicas": 11,
+        "validas": 11,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 0,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 11
+      },
+      "subject16": {
+        "activo_sql": false,
+        "archivos_dataset": 30,
+        "fuentes_canonicas": 30,
+        "validas": 0,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 30,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 0
+      },
+      "subject17": {
+        "activo_sql": false,
+        "archivos_dataset": 30,
+        "fuentes_canonicas": 30,
+        "validas": 0,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 30,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 0
+      },
+      "subject18": {
+        "activo_sql": false,
+        "archivos_dataset": 30,
+        "fuentes_canonicas": 30,
+        "validas": 0,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 30,
+        "sesiones": 0,
+        "grupos": 0,
+        "imagenes_con_sesion": 0,
+        "sin_sesion": 0
+      },
+      "subject19": {
+        "activo_sql": true,
+        "archivos_dataset": 28,
+        "fuentes_canonicas": 28,
+        "validas": 28,
+        "borrosas": 0,
+        "duplicadas": 0,
+        "casi_duplicadas": 0,
+        "rechazadas": 0,
+        "sesiones": 1,
+        "grupos": 1,
+        "imagenes_con_sesion": 28,
+        "sin_sesion": 0
+      }
+    },
+    "conflictos_contenido": [],
+    "sesiones_externas_verificadas": false,
+    "nota": "Los archivos históricos sin sesión documentada se conservan en un grupo no acreditado y no participan en particiones. Los grupos indicados cuentan solo sesiones documentadas, fusionadas si hay contenido casi duplicado. Ninguna imagen se borró ni se reasignó a otra persona.",
+    "mapping_modelo_actual": {
+      "indice_a_subject": {
+        "0": "subject01",
+        "1": "subject02",
+        "2": "subject03",
+        "3": "subject04",
+        "4": "subject05",
+        "5": "subject06",
+        "6": "subject07",
+        "7": "subject08",
+        "8": "subject09",
+        "9": "subject10",
+        "10": "subject11",
+        "11": "subject12",
+        "12": "subject13",
+        "13": "subject14",
+        "14": "subject15",
+        "15": "subject19"
+      },
+      "salidas": 16,
+      "indices_consecutivos": true,
+      "clases_sql_coinciden": true,
+      "etiquetas_unicas": true,
+      "modelo_sha256": "d57341272d9d352e5880e12e54db2cabe5cb1560c74af5392aff3eccdd2ebd02",
+      "etiquetas_sha256": "cef7e2835e01d368539ffa748250be51be78a68deaba12b5ed30c34f46622b6e"
+    }
+  },
+  "nota": "Si protocolo_valido es falso, los resultados son diagnóstico del modelo anterior; no una nueva evaluación independiente. La cámara anterior ya bloqueaba identidades CNN."
+}

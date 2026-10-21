@@ -1,0 +1,29 @@
+{
+  "motor": "embeddings",
+  "fuente_video": 0,
+  "resolucion": [
+    1920,
+    1080
+  ],
+  "backend": "cpu",
+  "debug": true,
+  "roi": null,
+  "detectar_cada": 3,
+  "intervalo_deteccion_s": 0.25,
+  "lado_deteccion": 960,
+  "tile": 640,
+  "max_rostros": 16,
+  "min_rostro": 80,
+  "blur_min": 45,
+  "iluminacion_min": 45,
+  "iluminacion_max": 210,
+  "roll_max": 35,
+  "yaw_max": 0.65,
+  "muestras_temporales": 4,
+  "ventana_temporal": 7,
+  "fraccion_consenso": 0.8,
+  "ttl_evidencia_s": 2,
+  "ttl_identidad_s": 0.75,
+  "timeout_track_s": 1,
+  "modo_basico": false
+}

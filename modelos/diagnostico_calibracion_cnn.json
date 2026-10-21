@@ -1,0 +1,1106 @@
+{
+  "threshold_candidato": 0.4504131078720093,
+  "modelo_sha256": "d57341272d9d352e5880e12e54db2cabe5cb1560c74af5392aff3eccdd2ebd02",
+  "calibracion_scores": [
+    0.4680611193180084,
+    0.9907675385475159,
+    0.997841477394104,
+    0.998478353023529,
+    0.5684903860092163,
+    0.9947636127471924,
+    0.8061344623565674,
+    0.5690499544143677,
+    0.9839221239089966,
+    0.9603397250175476,
+    0.9802055358886719,
+    0.7836166024208069,
+    0.9284536838531494,
+    0.7804880738258362,
+    0.937260091304779,
+    0.9917303919792175,
+    0.9461416006088257,
+    0.9872669577598572,
+    0.8188315033912659,
+    0.999956488609314,
+    0.9999984502792358,
+    0.9389306306838989,
+    0.9432632327079773,
+    0.8798121809959412,
+    0.9981562495231628,
+    0.8638784885406494,
+    0.4504131078720093,
+    0.9491168856620789,
+    0.7786417603492737,
+    0.9996815919876099,
+    0.9999085664749146,
+    0.9996618032455444,
+    0.9997971653938293,
+    0.9996334314346313
+  ],
+  "calibracion_correctas": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "evaluacion_scores": [
+    0.3603435158729553,
+    0.9995538592338562,
+    0.9961875081062317,
+    0.5967931747436523,
+    0.5507880449295044,
+    0.9958428740501404,
+    0.5430490374565125,
+    0.5126378536224365,
+    0.35501205921173096,
+    0.44730186462402344,
+    0.7611645460128784,
+    0.978519856929779,
+    0.9992904663085938,
+    0.9334185123443604,
+    0.9798787832260132,
+    0.4247300922870636,
+    0.9615840315818787,
+    0.8386173248291016,
+    0.9975482821464539,
+    0.7765768766403198,
+    0.9999988079071045,
+    0.9999973773956299,
+    0.586048424243927,
+    0.9981920123100281,
+    0.9954442977905273,
+    0.9936321377754211,
+    0.924077033996582,
+    0.9046509265899658,
+    0.9983553290367126,
+    0.9998722076416016,
+    0.9998038411140442,
+    0.9999499320983887,
+    0.9992784857749939,
+    0.999607503414154,
+    0.999666690826416
+  ],
+  "evaluacion_correctas": [
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "evaluacion_aceptadas": [
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "particiones": {
+    "entrenamiento": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.leftlight.gif",
+        "sha256": "874c9a7b0e3e9776e889106ae2b14ee537055334ed926b8530e77dd9f8faa515",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.normal.gif",
+        "sha256": "fd1472ea4fe1c5a0b9c51403c47414b0ce42e8f3b893f91cfcbff73bc8e42de2",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.happy.gif",
+        "sha256": "0502fba5333221738f7d7d686c5ec6466a90ff0f05ad8200f4b9b241cbfc6346",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.noglasses.gif",
+        "sha256": "d09a673bd0dce210fd397447eee277d55c6e42ab00893b821cb095b63a1a8b2d",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.surprised.gif",
+        "sha256": "6028a26ba747096d059d4b29c8fac4ebd7aa103e3340073345af595f8c782bcc",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.glasses.gif",
+        "sha256": "5d60ddab68d21ada78a45667b709870ac8ce576288e900c083746ebe0f526e65",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.sleepy.gif",
+        "sha256": "b8c8cad701783437e9b2e08017a484a2039fb16c78a64354aec42d00a07a2cb5",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.rightlight.gif",
+        "sha256": "b1dbc60c413fcee367727da8f2944e8b3af96bccee03195375c7a121b07f3f2b",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.wink.gif",
+        "sha256": "914a477880dcdce399370cb6729040130a2323083da2d9629d7284b16d311d89",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.sleepy.gif",
+        "sha256": "9fd992c3170b0f3e1e77ec2b72eb70bc75de5abc5fa4b77a1842201a240a88fd",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.leftlight.gif",
+        "sha256": "afc6e16b77a68df22d2be06abae7e9da9c5e716305ba509f9173f73d93545db0",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.centerlight.gif",
+        "sha256": "73ed8562f5bc8b6da11f1de07660cebcfb5142ddfd1145aebe2dcc7011faa6d4",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.glasses.gif",
+        "sha256": "54f30368dd693d52019dd61fc452c77dda61f23b32d6f9555148f330a6c4b68c",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.sleepy.gif",
+        "sha256": "14ee345ab619df25556d05115c8db86f9646e6e7d831e68a2618a416c60131cf",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.happy.gif",
+        "sha256": "6bae72bc062d1208da9272e6c36eccaa7222510561cf3d1a3fa41d775081dc86",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.leftlight.gif",
+        "sha256": "ef82d15c36b1f6415e301ad51b33bf78e43f00a309028fa65042f6b73b5a63ec",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.rightlight.gif",
+        "sha256": "42bca2022d4197a113be0097ff154d5f986c268fc7557c7771ebe582e33de6c2",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.sad.gif.gif",
+        "sha256": "f55b149764118f76debe1e8dc7b5aaf09ce632a0d946b14bef6440b0c2a35926",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.glasses.gif",
+        "sha256": "c00da46c2a86366628c419d38b07d1bf87bb01099b02be6951b3b1864c163b1f",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.wink.gif",
+        "sha256": "275b46b4f219ff00bcfe75df4e6670140101851208651286d5422f424191b5ec",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.normal.gif",
+        "sha256": "9cad4155400301d2e85d6f85a425557f06ed99457c00e5a3e7316f5bbba5ce70",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.surprised.gif",
+        "sha256": "c7dfd13785f6bbcbd6738a625a188094ff2d062f78627dcb6c297ae098709e64",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.noglasses.gif",
+        "sha256": "8d1e1d04c1585af6c294fa479d178db447993d504c3fca9c9b6c361a1b34578d",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.centerlight.gif",
+        "sha256": "4cbc20f7c9ea64a27e0056b407f0e6874f50d0582020c36037e485a705901e02",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.leftlight.gif",
+        "sha256": "656a534bc370ad7bd3fc84a07554a64fead9ac0d4a4f535682e78af9940a134e",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.sleepy.gif",
+        "sha256": "e72e8fe81a3271f819e7cf2afc21f1377e09bc0c17fb1cebca3da53c8581cbfe",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.normal.gif",
+        "sha256": "90ff3f59fe52d33277c8a540c57641c0834d9d22abe02c2daa0f9cf0efe761eb",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.glasses.gif",
+        "sha256": "d92a60eac659715de8b1b38e345aa9a314eefb7742b59138cf59736e96ad3c4c",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.noglasses.gif",
+        "sha256": "c934d42f5a73ffc2b2276642db41be630196c7d765ea70180faf320d789a4298",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.surprised.gif",
+        "sha256": "224c3a664baadd155095d5fede4047593f553709f75161a0d2fc7d6168748b3d",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.centerlight.gif",
+        "sha256": "5e6e23332455b73b3e8033ede230381c2f9f470d97b2c854153d1a1c603f333c",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.sad.gif.gif",
+        "sha256": "8f5e73fd1063b9ee8b3930f3b67e29304cfa9f2d0604d77d698202a04162e6fd",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.centerlight.gif",
+        "sha256": "9f6b700f57863f1a0cacf12016e1e3362731325e2a1ffb75819faeecc853fadf",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.sleepy.gif",
+        "sha256": "d14e48bb120002931cad11c57643a859ec707ee683a52902d423045ea2ae0225",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.surprised.gif",
+        "sha256": "732113b02629d6fbbec8b4c83991ac8a2b995dfb1ab17266fd66f7d3068253f5",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.glasses.gif",
+        "sha256": "352e6de0be19c01d3c1d103ce83dfbe32365521869a34ca0e4e2408f50f241c8",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.happy.gif",
+        "sha256": "9d76f8a737ba2859998e441413031d0bcf6c8c2234180f49ff07904855d75563",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.leftlight.gif",
+        "sha256": "26c41e92ff37e59343ba333c7fc432ba3bbbfc91331204c7e5d56f293a1efb3b",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.noglasses.gif",
+        "sha256": "96278d714aa0d1b9f92d127431c7dbb1b6c81f9f57371b19cdb0d026bc00b7a2",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.wink.gif",
+        "sha256": "cd54dbcadd0b1249f7bb70bcf57eff06f36f053f3aa654708a0f0a38e539af6e",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.sleepy.gif",
+        "sha256": "d8a8b098569052992c5125c850af62fd278d7071505b837ed4fd8ad0dc1f8c65",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.sad.gif.gif",
+        "sha256": "d273e22d5671213e0ecaa49cd72ca6bc273c3091c57330216154f58df1672b6a",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.glasses.gif",
+        "sha256": "b27b7fbc73410a32cc957c2f4c919cc1ef46d72159798c9fe40f503dcd372d34",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.surprised.gif",
+        "sha256": "cb38cfa9f652163a4d986bbf3b4900d5984219a47cb7b8c86e8d759e7a0a59dc",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.sad.gif.gif",
+        "sha256": "11eb7527cae775cccd77a96633e30b87d68059c3cdb756947062959ec95dbb4b",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.rightlight.gif",
+        "sha256": "da66eb5d6511d3ab2a92edda286dd12f38f397a0bad303e9296e0284669c157d",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.sleepy.gif",
+        "sha256": "ff6f3e19f66792f122d7c24ea475756e54cbbf3727945a258dc7136bc7b9da6d",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.noglasses.gif",
+        "sha256": "530140a5f2789cf8597e89dee16abf574d15946cca0b99d7034c25da67da0e4c",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.glasses.gif",
+        "sha256": "22432b20cae7d15ea863e8f2fd4a906b462ed5df13883f54bbf05b1e89efc3a3",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.surprised.gif",
+        "sha256": "ff24bf77e2d0783210cdaf747ab2bebb12f28e277d94ddc9efba3af41de21a4a",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.wink.gif",
+        "sha256": "d47827dbadabcbf2f1bdc1b3cee31dc1e3d607cdf69e07e634173dc229ae9318",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.glasses.gif",
+        "sha256": "53e0ba47ac52c7b32d7cbeda0cd0a8a7f35b2b8633bc9ea039a8e44b460067ea",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.centerlight.gif",
+        "sha256": "a22a09085445f852d1a7f586347841ccd7d95efad259c8701c1a7afc48b22c35",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.sad.gif.gif",
+        "sha256": "3f2c0e375cafa79246cc1360793d9c0465acf7b6f5596d6118e32a3ac1cc5f48",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.rightlight.gif",
+        "sha256": "95bcaf6a4a1134da3ca53ddbf3b6d850d35d2dfa3b70f078a9e5008fa71bb999",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.wink.gif",
+        "sha256": "e7f5b8e6a73ede6792d7609b2271e7f1b191b79bcee0c115ce6a52285e1c6cbf",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.normal.gif",
+        "sha256": "c165c935dace7c2371fdf5f803af2d8e70a61c8a78ad88a48622310b091abd59",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.surprised.gif",
+        "sha256": "7edc11e18dd9ca081f0f2326a77dead6d56bb6a8c1959654b887a5d1790a7dbe",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.sleepy.gif",
+        "sha256": "d3f4f2dff27457edf6757b1771d5bc8c7d78a9ea286e9740cad22c257bf1be96",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.glasses.gif",
+        "sha256": "2ad25e75fa951acfc2bdbd7ad29e7ead8ef73e337c27dc33cebfeea02d824f2a",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.leftlight.gif",
+        "sha256": "0a678cbe6f60f7f25d078af4001b3fc7601bdb9eb2aa3def3eab486d80cbff61",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.sad.gif.gif",
+        "sha256": "09aeff55a7e24b8017f3944dd60c8fb50f6e6379787ea6e7cf8482a774a44449",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.sleepy.gif",
+        "sha256": "6fdb97bd0e5a42d34142964ecf028b243d377fec1366bf0988ebea8c8b1732ca",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.normal.gif",
+        "sha256": "1ad5c9997151cbcc20c77bea80f5c6d231740de4b4b229a4c5f49bbaa0aa36c9",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.surprised.gif",
+        "sha256": "a506b75bd1302580b61b373dd62298fe325336d9cfa81f9d04c94b84964068d6",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.happy.gif",
+        "sha256": "a6aa5822265a50abbc7d9f8a94a595612889843e1ff399402d8484a16d7c5501",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.leftlight.gif",
+        "sha256": "a7666fb79e3c4fa35cb91470bff253c0fbfc6860fe562dc391b5fb946135fbf5",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.sad.gif.gif",
+        "sha256": "fdfc9b77d182fb428340bbe6edfc727f8dcb51c700f773cfa22b7869058eab25",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.rightlight.gif",
+        "sha256": "ef9304ae777d88f127777e89bc2ed3097e64dc4231bfb514a1b2eccd60ccc130",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.glasses.gif",
+        "sha256": "204d637c58f28d50eccb1f86a0a58d988938ce0ce2ae39996156c4e4b2061cf2",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.noglasses.gif",
+        "sha256": "66fa5851b1a050852d56e090097c27a80750bbffe05007379946759595e20e2a",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.wink.gif",
+        "sha256": "7e290e5d0bdeaa6644ccc1508b8d8c76405642c1cec3e0e290c5d6080dd7446b",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.sad.gif.gif",
+        "sha256": "48a6f89cc2c224b9331d918b24dac44a000ee0aeb268d8214ea8b677f359e7a4",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.surprised.gif",
+        "sha256": "d54eff9efae053e9949769805be27f91ff8df3c7d60b1bd6a3231ce12e7f4aca",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.sleepy.gif",
+        "sha256": "111bf31546c6e905948c242f84ef535a2aeb6b5c97f4b43694b1cec3796ab550",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.sad.gif.gif",
+        "sha256": "6a54b6b1704f77bbd511bda452315d0b82c49ec60cee6058c9132899cc7f05f4",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.noglasses.gif",
+        "sha256": "56bafdfa4877633bde9f9a32dfeb35cac0f8d4d16eea04202e1866970d1a76b6",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.leftlight.gif",
+        "sha256": "246ce340f9d3e2dc592b0b35835d653adf7da4778f2fa04e3443bb6c9f876389",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.sleepy.gif",
+        "sha256": "d59ee8eec584c86b0d6bb3502cf57fad2a58a78d6dd754597446c457b4f43c85",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.normal.gif",
+        "sha256": "9a86e91ba1dd4ed822f245e7469f7605b64f8c79d7f16e148b7c30471eddb05d",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.centerlight.gif",
+        "sha256": "c73acd5adc3b81a8bab5dbaa6adbcbc34d14110115153597621fb1a0aa25c29a",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.wink.gif",
+        "sha256": "0678e8272d0bd486e220ab0fbfa1d982bea6154c2d68dca82f674e4be0504f18",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.surprised.gif",
+        "sha256": "71a12d89121ee30a8ac617dded0e6211a9dd42c92bbe011695eabc2945858e18",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.sad.gif.gif",
+        "sha256": "10f6068ca475d1f42a9accf2dd737827584a55645b77f200bafe1ff44fdcd986",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.happy.gif",
+        "sha256": "bff7c5960d7734b07229c82e32aee661fced74196db6f7df190c84d1cbb3e065",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.sleepy.gif",
+        "sha256": "5af114770728df0b894a9b08e676b8fa8b30d9ae6811c7363810e2fd6ad0c21c",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.leftlight.gif",
+        "sha256": "3aeb3c64dd7c42c3d0b2d6887ecdce0e3b0ca98acba3aae108c6b33a8c73fdd3",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.glasses.gif",
+        "sha256": "5f8f128357d503a51d95e945fd27dcebc1fba7d41bdd2260b55ed58961c5361a",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.leftlight.gif",
+        "sha256": "a50b120088424e3fb4877abfc86622d28174e3aed3c1acd28ebb422dd60a1f00",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.glasses.gif",
+        "sha256": "0414d926557ece665ab924ae7a4fd7cf0ac140989802486703f7d9d4a52c2a60",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.sad.gif.gif",
+        "sha256": "e48a2ba43560debb4ab515fdd98272feca922c46b0e1dd2d6d72bcde8a84fafb",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.happy.gif",
+        "sha256": "97740fafc49039258fe1410c23e128409a1111f9460ac7c59743ca9d3ece8469",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.sleepy.gif",
+        "sha256": "efb63fff11480523f11c0c1c6aeaedbefcf24eb96de54a0aa35dca1a00721523",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.normal.gif",
+        "sha256": "aed9b4cc2a6e49db06c066e6579e0bf357149bc367e38c0f36f638b8b8ef07e8",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.wink.gif",
+        "sha256": "756986a8b5515935cb42b2520cdfb1837f78d6364efabc2da2d15b0cb8c18a4b",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture009.png",
+        "sha256": "ffe97032a4e704f2b234f92ab23ec28d8b032d8bf1b2625938bb17f93df85635",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture020.png",
+        "sha256": "0ef0ccbadc1e93c2739456918a490fc0a6db611f312e6ad12e11b0aaa1e08304",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture026.png",
+        "sha256": "31f3534501b1344e795aea2d2fb3be5f802d88d13234691c256c5ca56371e816",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture004.png",
+        "sha256": "35bcec2e31ffff3c556e6a9b61a25cc71c8d76b0c26e0dc25b6303e22ef9e71d",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture002.png",
+        "sha256": "6d3cb61ee989769bb06fb67224eac0525621839f11ad5ec07d8e7bbbaea802b5",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture027.png",
+        "sha256": "a14fea3b28eaa2ece47259fee146618bd47360a2c35f6a08a1a0bea1aa075d00",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture013.png",
+        "sha256": "2fcdbc3d618d63d087add13176dc1daf24c1d6f3638b6b2afe135487ffd67614",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture001.png",
+        "sha256": "66a808737819d446eb8ea6f8c54b2abc63738bc88154ff801b97ea2a1731eb69",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture005.png",
+        "sha256": "c09e7dccea35a80e0d9a8bfc5fcfc3cec781dbcf4226c429dd9c5182dd7c806d",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture018.png",
+        "sha256": "d1ebaa5ba1ff78e803e9a6077cc2ba11189aeedacfddacd46006ffce05b50fee",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture023.png",
+        "sha256": "5656c53599ccc55cd1c4810d49de72370ff0354fce508aeb097efec145af0d3f",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture028.png",
+        "sha256": "8e9fab6068c62ca73e074a1fd48e8c6f000cbc543d6935674972f5d868c1532d",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture017.png",
+        "sha256": "a01a130a173c1c4c64f4d3f31c967f0958b19f099614c811f6f583c22ab8843c",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture019.png",
+        "sha256": "c36be9dae128abb59b7a5a382600e154593ef5954dd6f3c9334e5087318fc610",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture024.png",
+        "sha256": "10e81d1854c2893f0b841d3b2d66cdeb50724a68806a07da69d627e35c3163d1",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture010.png",
+        "sha256": "70ca26d59a7f047eab07873af1484373e3cd3ad9f4e0a83132abb0b8ac43f408",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture003.png",
+        "sha256": "16fd4962644d16b53853ca7beb29a2adb9a185eb766afc6040101e823e8b98a3",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture021.png",
+        "sha256": "807acf2aa0dfac8ef45abc6c4eeaf8b847d60898fb49d3109bb1dc38effccf83",
+        "subject": "subject19"
+      }
+    ],
+    "calibracion": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.centerlight.gif",
+        "sha256": "9b9e47d8c7a1e4f18034471cb5f656dcc1126411a3d10f97283f6fa62120defe",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.wink.gif",
+        "sha256": "8a8c7b7db36ee92ca16756de773cd9f7b76ff31f0dccbcb5ef5871bd27a08d92",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.happy.gif",
+        "sha256": "f305e7f58ccb1b66e4a8b1471d0ca3a2464eed255362c1f973a967596d48c97a",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.sad.gif.gif",
+        "sha256": "6f6960e41b3f9e12c561c0d789c06493d7b7f8a1fe74505acb8604d0af9c8819",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.surprised.gif",
+        "sha256": "f6c856b7f08ec8d33a2d07a77f126546bcb891b7215d57c8a677fc4bb63cc366",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.noglasses.gif",
+        "sha256": "5e1b4e7430d869b0d64c22c0329a99fabb1b55a0c6c8cbfb2bd074767286b3ce",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.happy.gif",
+        "sha256": "6bf1077d781325759aa977a9811b92a009fabe80db8b4133262bc8655076f47f",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.sleepy.gif",
+        "sha256": "9267708362c07dc46381588d8b2fddaca345926e44350f25d89e395b527181de",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.wink.gif",
+        "sha256": "dd17b4ee5b03d67f31766779dd7cda82bacedf46f2be7c0a0c614c0c3ca7e9bb",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.happy.gif",
+        "sha256": "b004005f032570c0b0a355d4436e4899006760c999677396105983b47c14d512",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.wink.gif",
+        "sha256": "eab05fefbbd8da46ad6a37018514b998897b8940dcfa59f732ab8c32131908ab",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.sad.gif.gif",
+        "sha256": "8f7c1b8139b8f77a97e375d6d1589963c3972095979d433335a29cf77e2bd623",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.surprised.gif",
+        "sha256": "cde482bdec59903168d307e989665df0153fb55813ff8c65a665ae8e36ee7e8e",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.centerlight.gif",
+        "sha256": "8680591da003f1d185465e029c88cb6a8734c45d259f512e3263cd53b8b8c5da",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.happy.gif",
+        "sha256": "bd7c617453a7ed8788ae2ee83dc8e74294a9bd35c91c6b3f532a516f57a86ca1",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.noglasses.gif",
+        "sha256": "8783d661f3336a33ad4519ccd50f064a3a012f7364a5d42a51b382e85186c6fd",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.happy.gif",
+        "sha256": "8fdc07a2ec9795abf962b3d4adaa5fe45a6c7e1b5ad583a20eefb46300d95002",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.happy.gif",
+        "sha256": "ecfbcce41c360bdb7458676e63f2a8f7a4152904fd70a7f9b3aa78d4e106289a",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.centerlight.gif",
+        "sha256": "6ff101bbaeb76fd2149640d64bf88d55f8e837f25a5efe7a4ae9a7fb1fa61f48",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.wink.gif",
+        "sha256": "99d98ab7a519de36465f93478bbba70adc38e607df20dbebc8ebf2d31a47ce39",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.noglasses.gif",
+        "sha256": "7f43587ff80221d1e34312168e715d65da9b183a7614e72bbcd98b9adef6b9c7",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.leftlight.gif",
+        "sha256": "e946b154ad0156a9322d6549e39c36da5349e7887c592d7c23acd1219b23dc7a",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.rightlight.gif",
+        "sha256": "b64ffd362e983f2568cefc7c2e404d6e20416a104bb667f688bd0fdc267a24fc",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.rightlight.gif",
+        "sha256": "9f40bd190bf077c34e800730880c1a842c0989027a3e103a7cdc31e3847a891b",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.glasses.gif",
+        "sha256": "76fe8d128bcf646476afff0eba196523bea91d001923db98bb021c5dc0cf1fb8",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.wink.gif",
+        "sha256": "414c824c34abb3196570771c188afd82f3cbb428ce9c4c7dbf5ced5b5b5ee873",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.rightlight.gif",
+        "sha256": "d9e26c9027e91b7f45b63b115502b2996846f4161087dbefc6946ef4776d8c74",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.rightlight.gif",
+        "sha256": "d61d48cb03e6ffb01d5642cfd627d7c45645b0dd3b2af36fdd560a448d5ce0a2",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.centerlight.gif",
+        "sha256": "41eef6a0d0b4c4666c87e8e11348eaa19ba387f8f561b45467e08aa7a51b0f06",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture016.png",
+        "sha256": "dd928421878e7e6a01cbd73ef8096a31193ae7d7deb8833ef259e11e333d8009",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture025.png",
+        "sha256": "1580d5ad4bbe39406fdc1963ae66cfce4ff3571492811ca339950db0411c67ef",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture014.png",
+        "sha256": "696d01d432e7c5699d36b55af410b2a92a51b54347032daeb7ba8e9d78ff2851",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture006.png",
+        "sha256": "4b70749910f58c9ac26fd0e8cf0f5e79bfcf5bd0a14693e3572fb313e6e5ed68",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture011.png",
+        "sha256": "3d5ebf2c7c5653410b03aa9b72011dfed967a15ab3327184a54eaa0879e2488c",
+        "subject": "subject19"
+      }
+    ],
+    "evaluacion": [
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.rightlight.gif",
+        "sha256": "2baf59e28f8040a5008ed18bf57f0b244215859a256ccd89fc008ad929d397f3",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject01.sad.gif.gif",
+        "sha256": "1e5842c97a8a4d1f0a075548746741e0cbd57827fe56fb8d89a2c6be55e7bacf",
+        "subject": "subject01"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.noglasses.gif",
+        "sha256": "5245899462ce49190b721c6e627090c395ddb21d6363a031a62f17e3ddfbda5b",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.surprised.gif",
+        "sha256": "89bdb7ac956e28fcefb31c216a582121e3797fb5fd45b73a4ef8839da36caf27",
+        "subject": "subject02"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.centerlight.gif",
+        "sha256": "54eac04dd99d4b6a728d980b242a1bdc45123157421096cadccb3cdc33e91fae",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.wink.gif",
+        "sha256": "16aa85ba8afad948da2521c23c6bd12a001bb09cde1da0736180ba5f63869141",
+        "subject": "subject03"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.rightlight.gif",
+        "sha256": "baa3b4789690ebfa2e417475a088f5d507c2b968d324b83c533be757ade87caa",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.glasses.gif",
+        "sha256": "84567ca99df8ed34e8ea3eb3e56de25ccbe0519203468d6d08720557a5a06bdb",
+        "subject": "subject04"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.rightlight.gif",
+        "sha256": "c4d22c3b971e35f755ff043efb348bd3c9dc67922542272141c21e5c39c0a798",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject05.leftlight.gif",
+        "sha256": "ba29da846606b447e4aeade41504088f32968f63c109b68fd5fcda8439704f98",
+        "subject": "subject05"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.rightlight.gif",
+        "sha256": "7a7ad0e2d2e7ca0c6196afd8bbeadd6c0f14395c84a93818ab797a7307d30a7e",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.noglasses.gif",
+        "sha256": "dd4b827d6a4d2eee607e55e96cdd988aff39b1f3961abac513f5f8cfdba8ecb2",
+        "subject": "subject06"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.happy.gif",
+        "sha256": "fd92fac19dc4c5ee57c5a5f2fd835d9af45353f4c02b35682085e6ab1c46dc41",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.centerlight.gif",
+        "sha256": "f4d19a53a28233fcd058b57c4386b1cf14a4f95df8c0e2a718df5c5c5d5359aa",
+        "subject": "subject07"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.wink.gif",
+        "sha256": "b7a55b8c5ead5e42189f587d74921b960051b93db067dab29fae3011d73659b4",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.leftlight.gif",
+        "sha256": "7d80da217c5e19371d0155644b7a85c8629654a5b17f5e28f5428cac830b8e6e",
+        "subject": "subject08"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.sleepy.gif",
+        "sha256": "10b6645c5dd9ed3839cb9b8f50e146139048e43655566dbb5918b79ea70cb511",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.leftlight.gif",
+        "sha256": "aac68f93689d0ce9764333f5d07cd72fa155730974f46528f3b001c01525fea3",
+        "subject": "subject09"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.noglasses.gif",
+        "sha256": "249294142f05011696b6bc33f7f6a0cdc90b1f6a0e7a72cd868ac682996dfe60",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject10.rightlight.gif",
+        "sha256": "444285fd0099a6976e0036e853c1783940ce6d278d675e47ac74e4f9f213e273",
+        "subject": "subject10"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.glasses.gif",
+        "sha256": "f56406dcfac16902a37b65bbf04516b8effe2d9a0fb64f6e62bd849f62d8ba64",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject11.centerlight.gif",
+        "sha256": "80dbb754b308b2a2f6a86cffc5034f5651f0bbc589aaca53ba8a2bbd25d6406c",
+        "subject": "subject11"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.centerlight.gif",
+        "sha256": "691458efaaf69bec478e135198906f3ae68df358be20983f7433d7a51949af24",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.happy.gif",
+        "sha256": "4c5f2dd14851d38bb0d4e86cb334a9b66ffcd3332e32efeedcc4b9874ccbdf23",
+        "subject": "subject12"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.surprised.gif",
+        "sha256": "8bc7b61b1c947ba5f3fcea1321fbb8de677c1fcb8a06f5353327b70b0ed654b5",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject13.happy.gif",
+        "sha256": "eaebabbc6e4fbdeffdac502e0018fbb22d31d8ff77dad2ad8b88b15af0f395b3",
+        "subject": "subject13"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.noglasses.gif",
+        "sha256": "bf9fcc9b084ed8a8b560250754f1e593a413eeae4f7e7f9fe6f27f97f8864366",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.centerlight.gif",
+        "sha256": "687188a99723e53a3225e236676652c6a1d1696f8536c0b45ca3dc194aee028f",
+        "subject": "subject14"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.surprised.gif",
+        "sha256": "6a37e0d53cc8adf44dc66079864f13458b6d87643297c6cf900af4d1fcd98750",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject15.noglasses.gif",
+        "sha256": "12c6103d49bffc2bc3ec9b37e955e8b9a142662dc11d260fb63a5df5f36c7042",
+        "subject": "subject15"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture008.png",
+        "sha256": "5f7bd2d4d682463b1d176093be6c382793a2776cd3b10059006f807fe7f29877",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture022.png",
+        "sha256": "d73cd1aeb41c85cce33a4f6b780936b0373b506d3367794d7390211130c698cd",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture015.png",
+        "sha256": "ff923dbb676dcd4c4f32bbf5e1fb999a450ac2d6262ac2bfdf229a713a50047d",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture007.png",
+        "sha256": "8162e3ec1445caa537bc2856183e8ec07d7cb27b0279a261b85e6740d6028936",
+        "subject": "subject19"
+      },
+      {
+        "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\modelos\\facial_embeddings\\muestras\\subject19\\c2e5a535b8214231afe1ca2786c88c85\\subject19.capture012.png",
+        "sha256": "625ee53710e0111eff0dfcabcaf80666cc8840e8c7a120124f0b3e4c23efe698",
+        "subject": "subject19"
+      }
+    ]
+  },
+  "inferencia_lote_ms_por_imagen": 0.5329657142859949
+}

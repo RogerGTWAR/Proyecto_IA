@@ -1,0 +1,169 @@
+[
+  {
+    "tipo": "Inventario actual",
+    "filas": 24,
+    "pdf": "Inventario_actual_2026-10-04_02.pdf",
+    "xlsx": "Inventario_actual_2026-10-04_02.xlsx",
+    "paginas": 4,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Stock bajo",
+    "filas": 6,
+    "pdf": "Stock_bajo_2026-10-04_02.pdf",
+    "xlsx": "Stock_bajo_2026-10-04_02.xlsx",
+    "paginas": 2,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Agotados",
+    "filas": 1,
+    "pdf": "Agotados_2026-10-04_02.pdf",
+    "xlsx": "Agotados_2026-10-04_02.xlsx",
+    "paginas": 1,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Entradas",
+    "filas": 26,
+    "pdf": "Entradas_2026-10-04_02.pdf",
+    "xlsx": "Entradas_2026-10-04_02.xlsx",
+    "paginas": 5,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Salidas",
+    "filas": 211,
+    "pdf": "Salidas_2026-10-04_02.pdf",
+    "xlsx": "Salidas_2026-10-04_02.xlsx",
+    "paginas": 28,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Transferencias",
+    "filas": 6,
+    "pdf": "Transferencias_2026-10-04_02.pdf",
+    "xlsx": "Transferencias_2026-10-04_02.xlsx",
+    "paginas": 2,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Historial de movimientos",
+    "filas": 244,
+    "pdf": "Historial_de_movimientos_2026-10-04_02.pdf",
+    "xlsx": "Historial_de_movimientos_2026-10-04_02.xlsx",
+    "paginas": 34,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Inventario por ubicación",
+    "filas": 29,
+    "pdf": "Inventario_por_ubicacion_2026-10-04_02.pdf",
+    "xlsx": "Inventario_por_ubicacion_2026-10-04_02.xlsx",
+    "paginas": 4,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Productos por categoría",
+    "filas": 24,
+    "pdf": "Productos_por_categoria_2026-10-04_02.pdf",
+    "xlsx": "Productos_por_categoria_2026-10-04_02.xlsx",
+    "paginas": 4,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Predicción de stock",
+    "filas": 24,
+    "pdf": "Prediccion_de_stock_2026-10-04_02.pdf",
+    "xlsx": "Prediccion_de_stock_2026-10-04_02.xlsx",
+    "paginas": 5,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Anomalías",
+    "filas": 3,
+    "pdf": "Anomalias_2026-10-04_02.pdf",
+    "xlsx": "Anomalias_2026-10-04_02.xlsx",
+    "paginas": 2,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Alertas",
+    "filas": 43,
+    "pdf": "Alertas_2026-10-04_02.pdf",
+    "xlsx": "Alertas_2026-10-04_02.xlsx",
+    "paginas": 4,
+    "hojas": [
+      "RESUMEN",
+      "DETALLE"
+    ]
+  },
+  {
+    "tipo": "Empleados",
+    "filas": 16,
+    "pdf": "Empleados_2026-10-04_02.pdf",
+    "xlsx": "Empleados_2026-10-04_02.xlsx",
+    "paginas": 1,
+    "hojas": [
+      "Reporte"
+    ]
+  },
+  {
+    "tipo": "Reconocimiento facial",
+    "filas": 0,
+    "pdf": "Reconocimiento_facial_2026-10-04_02.pdf",
+    "xlsx": "Reconocimiento_facial_2026-10-04_02.xlsx",
+    "paginas": 1,
+    "hojas": [
+      "Reporte"
+    ]
+  },
+  {
+    "tipo": "Resumen general",
+    "filas": 13,
+    "pdf": "Resumen_general_2026-10-04_02.pdf",
+    "xlsx": "Resumen_general_2026-10-04_02.xlsx",
+    "paginas": 3,
+    "hojas": [
+      "RESUMEN",
+      "Actividad",
+      "Críticos",
+      "Predicción",
+      "Anomalías",
+      "Estado"
+    ]
+  }
+]

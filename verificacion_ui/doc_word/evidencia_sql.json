@@ -1,0 +1,3376 @@
+{
+  "columnas": [
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "id_alerta",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "id_tipo_alerta",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "id_producto",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "id_movimiento",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "id_empleado",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "id_ubicacion",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "mensaje",
+      "tipo": "varchar",
+      "max_length": 500,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "nivel",
+      "tipo": "varchar",
+      "max_length": 20,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "('Media')"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "atendida",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((0))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "fecha_atencion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "alertas",
+      "columna": "id_lote",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "id_anomalia",
+      "tipo": "bigint",
+      "max_length": 8,
+      "precision": 19,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "id_detalle",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "tipo_anomalia",
+      "tipo": "nvarchar",
+      "max_length": 160,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "nivel",
+      "tipo": "nvarchar",
+      "max_length": 24,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "score",
+      "tipo": "float",
+      "max_length": 8,
+      "precision": 53,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "motivo",
+      "tipo": "nvarchar",
+      "max_length": 4000,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "referencia_historica",
+      "tipo": "nvarchar",
+      "max_length": 4000,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "estado",
+      "tipo": "varchar",
+      "max_length": 12,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "('PENDIENTE')"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "anomalias_inventario",
+      "columna": "observacion",
+      "tipo": "nvarchar",
+      "max_length": 2000,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(N'')"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "categorias",
+      "columna": "id_categoria",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "categorias",
+      "columna": "nombre",
+      "tipo": "varchar",
+      "max_length": 100,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "categorias",
+      "columna": "descripcion",
+      "tipo": "varchar",
+      "max_length": 255,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "categorias",
+      "columna": "estado",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "categorias",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "categorias",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "categorias",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "conteos_inventario",
+      "columna": "id_conteo",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "conteos_inventario",
+      "columna": "id_ubicacion",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "conteos_inventario",
+      "columna": "id_empleado",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "conteos_inventario",
+      "columna": "fecha",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "conteos_inventario",
+      "columna": "estado",
+      "tipo": "varchar",
+      "max_length": 20,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "('BORRADOR')"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_conteos",
+      "columna": "id_conteo",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_conteos",
+      "columna": "id_producto",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_conteos",
+      "columna": "id_lote",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_conteos",
+      "columna": "cantidad_sistema",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_conteos",
+      "columna": "cantidad_fisica",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_conteos",
+      "columna": "id_detalle_conteo",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_conteos",
+      "columna": "id_movimiento",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimiento_lotes",
+      "columna": "id_detalle",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimiento_lotes",
+      "columna": "id_lote",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimiento_lotes",
+      "columna": "cantidad",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "id_detalle",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "id_movimiento",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "id_producto",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "cantidad",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "id_ubicacion_origen",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "id_ubicacion_destino",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "stock_anterior",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "stock_nuevo",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "detalle_movimientos",
+      "columna": "costo_unitario",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 2,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "id_empleado",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "codigo_empleado",
+      "tipo": "varchar",
+      "max_length": 30,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "nombres",
+      "tipo": "varchar",
+      "max_length": 100,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "apellidos",
+      "tipo": "varchar",
+      "max_length": 100,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "cargo",
+      "tipo": "varchar",
+      "max_length": 100,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "estado",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "empleados",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias",
+      "columna": "id_existencia",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias",
+      "columna": "id_producto",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias",
+      "columna": "id_ubicacion",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias",
+      "columna": "cantidad",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((0))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias_lotes",
+      "columna": "id_lote",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias_lotes",
+      "columna": "id_ubicacion",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "existencias_lotes",
+      "columna": "cantidad",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "inventario_migraciones",
+      "columna": "version",
+      "tipo": "varchar",
+      "max_length": 80,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "inventario_migraciones",
+      "columna": "fecha",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "lotes",
+      "columna": "id_lote",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "lotes",
+      "columna": "id_producto",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "lotes",
+      "columna": "codigo_lote",
+      "tipo": "nvarchar",
+      "max_length": 160,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "lotes",
+      "columna": "fecha_ingreso",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "lotes",
+      "columna": "fecha_vencimiento",
+      "tipo": "date",
+      "max_length": 3,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "lotes",
+      "columna": "activo",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "motivos_movimiento",
+      "columna": "id_motivo",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "motivos_movimiento",
+      "columna": "nombre",
+      "tipo": "nvarchar",
+      "max_length": 200,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "motivos_movimiento",
+      "columna": "tipo",
+      "tipo": "varchar",
+      "max_length": 30,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "motivos_movimiento",
+      "columna": "activo",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "id_movimiento",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "id_empleado",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "id_tipo_movimiento",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "fecha_movimiento",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "observacion",
+      "tipo": "varchar",
+      "max_length": 500,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "id_motivo",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "movimientos",
+      "columna": "referencia",
+      "tipo": "nvarchar",
+      "max_length": 200,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "id_producto",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "codigo",
+      "tipo": "varchar",
+      "max_length": 30,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "nombre",
+      "tipo": "varchar",
+      "max_length": 150,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "descripcion",
+      "tipo": "varchar",
+      "max_length": 500,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "id_categoria",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "unidad_medida",
+      "tipo": "nvarchar",
+      "max_length": 160,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "precio",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 12,
+      "scale": 2,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((0))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "stock_minimo",
+      "tipo": "decimal",
+      "max_length": 9,
+      "precision": 18,
+      "scale": 3,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((0))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "estado",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "id_unidad_medida",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "control_lotes",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((0))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "codigo_barras",
+      "tipo": "nvarchar",
+      "max_length": 200,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "codigo_qr",
+      "tipo": "nvarchar",
+      "max_length": 500,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "productos",
+      "columna": "imagen_producto",
+      "tipo": "nvarchar",
+      "max_length": 2000,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "rostros_empleados",
+      "columna": "id_rostro",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "rostros_empleados",
+      "columna": "id_empleado",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "rostros_empleados",
+      "columna": "etiqueta_modelo",
+      "tipo": "varchar",
+      "max_length": 30,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "rostros_empleados",
+      "columna": "estado",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "rostros_empleados",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "rostros_empleados",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "rostros_empleados",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_alerta",
+      "columna": "id_tipo_alerta",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_alerta",
+      "columna": "nombre",
+      "tipo": "varchar",
+      "max_length": 100,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_alerta",
+      "columna": "descripcion",
+      "tipo": "varchar",
+      "max_length": 500,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_alerta",
+      "columna": "estado",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_alerta",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_alerta",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_alerta",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_movimiento",
+      "columna": "id_tipo_movimiento",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_movimiento",
+      "columna": "nombre",
+      "tipo": "varchar",
+      "max_length": 50,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_movimiento",
+      "columna": "descripcion",
+      "tipo": "varchar",
+      "max_length": 255,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_movimiento",
+      "columna": "estado",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_movimiento",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_movimiento",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "tipos_movimiento",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "id_ubicacion",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "codigo_ubicacion",
+      "tipo": "varchar",
+      "max_length": 30,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "seccion",
+      "tipo": "varchar",
+      "max_length": 50,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "pasillo",
+      "tipo": "varchar",
+      "max_length": 50,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "estante",
+      "tipo": "varchar",
+      "max_length": 50,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "nivel",
+      "tipo": "varchar",
+      "max_length": 50,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "descripcion",
+      "tipo": "varchar",
+      "max_length": 255,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "estado",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "fecha_creacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "(sysdatetime())"
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "fecha_actualizacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "fecha_eliminacion",
+      "tipo": "datetime2",
+      "max_length": 8,
+      "precision": 27,
+      "scale": 7,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "almacen",
+      "tipo": "nvarchar",
+      "max_length": 160,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "ubicaciones",
+      "columna": "zona",
+      "tipo": "nvarchar",
+      "max_length": 160,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": true,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "unidades_medida",
+      "columna": "id_unidad",
+      "tipo": "int",
+      "max_length": 4,
+      "precision": 10,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": true,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "unidades_medida",
+      "columna": "nombre",
+      "tipo": "nvarchar",
+      "max_length": 160,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "unidades_medida",
+      "columna": "abreviatura",
+      "tipo": "nvarchar",
+      "max_length": 32,
+      "precision": 0,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": null
+    },
+    {
+      "esquema": "dbo",
+      "tabla": "unidades_medida",
+      "columna": "activo",
+      "tipo": "bit",
+      "max_length": 1,
+      "precision": 1,
+      "scale": 0,
+      "is_nullable": false,
+      "is_identity": false,
+      "valor_default": "((1))"
+    }
+  ],
+  "indices": [
+    {
+      "tabla": "alertas",
+      "indice": "PK__alertas__1227953E1B02F414",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_alerta",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "anomalias_inventario",
+      "indice": "PK__anomalia__19CCC6598605B330",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_anomalia",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "anomalias_inventario",
+      "indice": "UX_anomalia_detalle_tipo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "id_detalle",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "anomalias_inventario",
+      "indice": "UX_anomalia_detalle_tipo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "tipo_anomalia",
+      "key_ordinal": 2,
+      "filter_definition": null
+    },
+    {
+      "tabla": "categorias",
+      "indice": "PK__categori__CD54BC5A57842B16",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_categoria",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "categorias",
+      "indice": "UQ_categorias_nombre_activo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "nombre",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "conteos_inventario",
+      "indice": "PK__conteos___88AFD722F7381A79",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_conteo",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "detalle_conteos",
+      "indice": "PK__detalle___9AA956A1194140A0",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_detalle_conteo",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "detalle_movimiento_lotes",
+      "indice": "PK_detalle_lote",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_detalle",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "detalle_movimiento_lotes",
+      "indice": "PK_detalle_lote",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_lote",
+      "key_ordinal": 2,
+      "filter_definition": null
+    },
+    {
+      "tabla": "detalle_movimientos",
+      "indice": "PK__detalle___4F1332DE4C31DB68",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_detalle",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "empleados",
+      "indice": "PK__empleado__88B51394DBDE1F66",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_empleado",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "empleados",
+      "indice": "UQ_empleados_codigo_activo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "codigo_empleado",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "existencias",
+      "indice": "PK__existenc__C738F258862355A4",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_existencia",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "existencias",
+      "indice": "UQ_existencias_producto_ubicacion_activa",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "id_producto",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "existencias",
+      "indice": "UQ_existencias_producto_ubicacion_activa",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "id_ubicacion",
+      "key_ordinal": 2,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "existencias_lotes",
+      "indice": "PK_existencias_lotes",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_lote",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "existencias_lotes",
+      "indice": "PK_existencias_lotes",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_ubicacion",
+      "key_ordinal": 2,
+      "filter_definition": null
+    },
+    {
+      "tabla": "inventario_migraciones",
+      "indice": "PK__inventar__79B5C94C8F80C8B7",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "version",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "lotes",
+      "indice": "PK__lotes__9A000486BB5D5F35",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_lote",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "lotes",
+      "indice": "UQ_lote_producto",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "id_producto",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "lotes",
+      "indice": "UQ_lote_producto",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "codigo_lote",
+      "key_ordinal": 2,
+      "filter_definition": null
+    },
+    {
+      "tabla": "motivos_movimiento",
+      "indice": "PK__motivos___FCA2F0C89BD4EAF7",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_motivo",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "motivos_movimiento",
+      "indice": "UQ_motivo_tipo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "nombre",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "motivos_movimiento",
+      "indice": "UQ_motivo_tipo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "tipo",
+      "key_ordinal": 2,
+      "filter_definition": null
+    },
+    {
+      "tabla": "movimientos",
+      "indice": "PK__movimien__2A071C24630A92C6",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_movimiento",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "productos",
+      "indice": "PK__producto__FF341C0D8826DCD6",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_producto",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "productos",
+      "indice": "UQ_productos_codigo_activo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "codigo",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "productos",
+      "indice": "UX_productos_codigo_global",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "codigo",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "rostros_empleados",
+      "indice": "PK__rostros___7F5E5511B9630657",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_rostro",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "rostros_empleados",
+      "indice": "UQ_rostros_empleado_activo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "id_empleado",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "rostros_empleados",
+      "indice": "UQ_rostros_etiqueta_activa",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "etiqueta_modelo",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "tipos_alerta",
+      "indice": "PK__tipos_al__D32BB3312430104D",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_tipo_alerta",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "tipos_alerta",
+      "indice": "UQ_tipos_alerta_nombre_activo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "nombre",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "tipos_movimiento",
+      "indice": "PK__tipos_mo__5AA885864B32C94D",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_tipo_movimiento",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "tipos_movimiento",
+      "indice": "UQ_tipos_movimiento_nombre_activo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "nombre",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "ubicaciones",
+      "indice": "PK__ubicacio__81BAA5919107A3D4",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_ubicacion",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "ubicaciones",
+      "indice": "UQ_ubicaciones_codigo_activo",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "codigo_ubicacion",
+      "key_ordinal": 1,
+      "filter_definition": "([fecha_eliminacion] IS NULL)"
+    },
+    {
+      "tabla": "unidades_medida",
+      "indice": "PK__unidades__95D7C92BB205E8EE",
+      "is_primary_key": true,
+      "is_unique": true,
+      "columna": "id_unidad",
+      "key_ordinal": 1,
+      "filter_definition": null
+    },
+    {
+      "tabla": "unidades_medida",
+      "indice": "UQ__unidades__72AFBCC65DC94E8C",
+      "is_primary_key": false,
+      "is_unique": true,
+      "columna": "nombre",
+      "key_ordinal": 1,
+      "filter_definition": null
+    }
+  ],
+  "foraneas": [
+    {
+      "restriccion": "FK_productos_categorias",
+      "tabla": "productos",
+      "columna": "id_categoria",
+      "referencia_tabla": "categorias",
+      "referencia_columna": "id_categoria"
+    },
+    {
+      "restriccion": "FK_existencias_ubicaciones",
+      "tabla": "existencias",
+      "columna": "id_ubicacion",
+      "referencia_tabla": "ubicaciones",
+      "referencia_columna": "id_ubicacion"
+    },
+    {
+      "restriccion": "FK_detalle_ubicacion_origen",
+      "tabla": "detalle_movimientos",
+      "columna": "id_ubicacion_origen",
+      "referencia_tabla": "ubicaciones",
+      "referencia_columna": "id_ubicacion"
+    },
+    {
+      "restriccion": "FK_detalle_ubicacion_destino",
+      "tabla": "detalle_movimientos",
+      "columna": "id_ubicacion_destino",
+      "referencia_tabla": "ubicaciones",
+      "referencia_columna": "id_ubicacion"
+    },
+    {
+      "restriccion": "FK__existenci__id_ub__625A9A57",
+      "tabla": "existencias_lotes",
+      "columna": "id_ubicacion",
+      "referencia_tabla": "ubicaciones",
+      "referencia_columna": "id_ubicacion"
+    },
+    {
+      "restriccion": "FK__conteos_i__id_ub__6AEFE058",
+      "tabla": "conteos_inventario",
+      "columna": "id_ubicacion",
+      "referencia_tabla": "ubicaciones",
+      "referencia_columna": "id_ubicacion"
+    },
+    {
+      "restriccion": "FK_alertas_ubicaciones",
+      "tabla": "alertas",
+      "columna": "id_ubicacion",
+      "referencia_tabla": "ubicaciones",
+      "referencia_columna": "id_ubicacion"
+    },
+    {
+      "restriccion": "FK_movimientos_empleados",
+      "tabla": "movimientos",
+      "columna": "id_empleado",
+      "referencia_tabla": "empleados",
+      "referencia_columna": "id_empleado"
+    },
+    {
+      "restriccion": "FK__conteos_i__id_em__6BE40491",
+      "tabla": "conteos_inventario",
+      "columna": "id_empleado",
+      "referencia_tabla": "empleados",
+      "referencia_columna": "id_empleado"
+    },
+    {
+      "restriccion": "FK_alertas_empleados",
+      "tabla": "alertas",
+      "columna": "id_empleado",
+      "referencia_tabla": "empleados",
+      "referencia_columna": "id_empleado"
+    },
+    {
+      "restriccion": "FK_rostros_empleados",
+      "tabla": "rostros_empleados",
+      "columna": "id_empleado",
+      "referencia_tabla": "empleados",
+      "referencia_columna": "id_empleado"
+    },
+    {
+      "restriccion": "FK_existencias_productos",
+      "tabla": "existencias",
+      "columna": "id_producto",
+      "referencia_tabla": "productos",
+      "referencia_columna": "id_producto"
+    },
+    {
+      "restriccion": "FK__lotes__id_produc__5CA1C101",
+      "tabla": "lotes",
+      "columna": "id_producto",
+      "referencia_tabla": "productos",
+      "referencia_columna": "id_producto"
+    },
+    {
+      "restriccion": "FK_detalle_productos",
+      "tabla": "detalle_movimientos",
+      "columna": "id_producto",
+      "referencia_tabla": "productos",
+      "referencia_columna": "id_producto"
+    },
+    {
+      "restriccion": "FK_alertas_productos",
+      "tabla": "alertas",
+      "columna": "id_producto",
+      "referencia_tabla": "productos",
+      "referencia_columna": "id_producto"
+    },
+    {
+      "restriccion": "FK__detalle_c__id_pr__72910220",
+      "tabla": "detalle_conteos",
+      "columna": "id_producto",
+      "referencia_tabla": "productos",
+      "referencia_columna": "id_producto"
+    },
+    {
+      "restriccion": "FK_producto_unidad",
+      "tabla": "productos",
+      "columna": "id_unidad_medida",
+      "referencia_tabla": "unidades_medida",
+      "referencia_columna": "id_unidad"
+    },
+    {
+      "restriccion": "FK_movimientos_tipos",
+      "tabla": "movimientos",
+      "columna": "id_tipo_movimiento",
+      "referencia_tabla": "tipos_movimiento",
+      "referencia_columna": "id_tipo_movimiento"
+    },
+    {
+      "restriccion": "FK__movimient__id_mo__57DD0BE4",
+      "tabla": "movimientos",
+      "columna": "id_motivo",
+      "referencia_tabla": "motivos_movimiento",
+      "referencia_columna": "id_motivo"
+    },
+    {
+      "restriccion": "FK_detalle_movimientos",
+      "tabla": "detalle_movimientos",
+      "columna": "id_movimiento",
+      "referencia_tabla": "movimientos",
+      "referencia_columna": "id_movimiento"
+    },
+    {
+      "restriccion": "FK_alertas_movimientos",
+      "tabla": "alertas",
+      "columna": "id_movimiento",
+      "referencia_tabla": "movimientos",
+      "referencia_columna": "id_movimiento"
+    },
+    {
+      "restriccion": "FK__detalle_c__id_mo__756D6ECB",
+      "tabla": "detalle_conteos",
+      "columna": "id_movimiento",
+      "referencia_tabla": "movimientos",
+      "referencia_columna": "id_movimiento"
+    },
+    {
+      "restriccion": "FK__existenci__id_lo__6166761E",
+      "tabla": "existencias_lotes",
+      "columna": "id_lote",
+      "referencia_tabla": "lotes",
+      "referencia_columna": "id_lote"
+    },
+    {
+      "restriccion": "FK__detalle_m__id_lo__671F4F74",
+      "tabla": "detalle_movimiento_lotes",
+      "columna": "id_lote",
+      "referencia_tabla": "lotes",
+      "referencia_columna": "id_lote"
+    },
+    {
+      "restriccion": "FK__detalle_c__id_lo__73852659",
+      "tabla": "detalle_conteos",
+      "columna": "id_lote",
+      "referencia_tabla": "lotes",
+      "referencia_columna": "id_lote"
+    },
+    {
+      "restriccion": "FK__alertas__id_lote__76619304",
+      "tabla": "alertas",
+      "columna": "id_lote",
+      "referencia_tabla": "lotes",
+      "referencia_columna": "id_lote"
+    },
+    {
+      "restriccion": "FK__anomalias__id_de__10216507",
+      "tabla": "anomalias_inventario",
+      "columna": "id_detalle",
+      "referencia_tabla": "detalle_movimientos",
+      "referencia_columna": "id_detalle"
+    },
+    {
+      "restriccion": "FK__detalle_m__id_de__662B2B3B",
+      "tabla": "detalle_movimiento_lotes",
+      "columna": "id_detalle",
+      "referencia_tabla": "detalle_movimientos",
+      "referencia_columna": "id_detalle"
+    },
+    {
+      "restriccion": "FK_alertas_tipos",
+      "tabla": "alertas",
+      "columna": "id_tipo_alerta",
+      "referencia_tabla": "tipos_alerta",
+      "referencia_columna": "id_tipo_alerta"
+    },
+    {
+      "restriccion": "FK__detalle_c__id_co__719CDDE7",
+      "tabla": "detalle_conteos",
+      "columna": "id_conteo",
+      "referencia_tabla": "conteos_inventario",
+      "referencia_columna": "id_conteo"
+    }
+  ],
+  "checks": [
+    {
+      "tabla": "detalle_movimientos",
+      "name": "CK_detalle_cantidad",
+      "definition": "([cantidad]>(0))"
+    },
+    {
+      "tabla": "detalle_movimientos",
+      "name": "CK_detalle_stock_anterior",
+      "definition": "([stock_anterior] IS NULL OR [stock_anterior]>=(0))"
+    },
+    {
+      "tabla": "detalle_movimientos",
+      "name": "CK_detalle_stock_nuevo",
+      "definition": "([stock_nuevo] IS NULL OR [stock_nuevo]>=(0))"
+    },
+    {
+      "tabla": "existencias",
+      "name": "CK_existencias_cantidad",
+      "definition": "([cantidad]>=(0))"
+    },
+    {
+      "tabla": "productos",
+      "name": "CK_productos_stock_minimo",
+      "definition": "([stock_minimo]>=(0))"
+    },
+    {
+      "tabla": "anomalias_inventario",
+      "name": "CK__anomalias__nivel__11158940",
+      "definition": "([nivel]=N'CRÍTICA' OR [nivel]=N'ALTA' OR [nivel]=N'MEDIA' OR [nivel]=N'BAJA')"
+    },
+    {
+      "tabla": "anomalias_inventario",
+      "name": "CK__anomalias__estad__12FDD1B2",
+      "definition": "([estado]='JUSTIFICADA' OR [estado]='REVISADA' OR [estado]='PENDIENTE')"
+    },
+    {
+      "tabla": "productos",
+      "name": "CK_productos_precio",
+      "definition": "([precio]>=(0))"
+    },
+    {
+      "tabla": "detalle_movimientos",
+      "name": "CK__detalle_m__costo__58D1301D",
+      "definition": "([costo_unitario]>=(0))"
+    },
+    {
+      "tabla": "existencias_lotes",
+      "name": "CK__existenci__canti__634EBE90",
+      "definition": "([cantidad]>=(0))"
+    },
+    {
+      "tabla": "detalle_movimiento_lotes",
+      "name": "CK__detalle_m__canti__681373AD",
+      "definition": "([cantidad]>(0))"
+    },
+    {
+      "tabla": "conteos_inventario",
+      "name": "CK__conteos_i__estad__6EC0713C",
+      "definition": "([estado]='APLICADO' OR [estado]='BORRADOR')"
+    },
+    {
+      "tabla": "alertas",
+      "name": "CK_alertas_nivel",
+      "definition": "([nivel]='Critica' OR [nivel]='Alta' OR [nivel]='Media' OR [nivel]='Baja')"
+    },
+    {
+      "tabla": "detalle_conteos",
+      "name": "CK__detalle_c__canti__74794A92",
+      "definition": "([cantidad_fisica]>=(0))"
+    }
+  ],
+  "registros": {
+    "anomalias_inventario": 3,
+    "categorias": 9,
+    "ubicaciones": 18,
+    "empleados": 16,
+    "productos": 24,
+    "inventario_migraciones": 1,
+    "unidades_medida": 7,
+    "existencias": 30,
+    "tipos_movimiento": 5,
+    "motivos_movimiento": 8,
+    "movimientos": 244,
+    "lotes": 6,
+    "detalle_movimientos": 244,
+    "existencias_lotes": 8,
+    "tipos_alerta": 9,
+    "detalle_movimiento_lotes": 46,
+    "alertas": 43,
+    "conteos_inventario": 1,
+    "detalle_conteos": 1,
+    "rostros_empleados": 16
+  },
+  "productos": [
+    {
+      "id_producto": 537,
+      "codigo": "DEMO-ACE-01",
+      "nombre": "Aceite 20W50",
+      "stock_actual": "40.000"
+    },
+    {
+      "id_producto": 538,
+      "codigo": "DEMO-ACE-02",
+      "nombre": "Aceite hidráulico",
+      "stock_actual": "18.000"
+    },
+    {
+      "id_producto": 534,
+      "codigo": "DEMO-ARA-01",
+      "nombre": "Arandela plana",
+      "stock_actual": "400.000"
+    },
+    {
+      "id_producto": 544,
+      "codigo": "DEMO-BRO-01",
+      "nombre": "Broca para metal",
+      "stock_actual": "6.000"
+    },
+    {
+      "id_producto": 540,
+      "codigo": "DEMO-BUJ-01",
+      "nombre": "Bujía",
+      "stock_actual": "0.000"
+    },
+    {
+      "id_producto": 545,
+      "codigo": "DEMO-CAB-01",
+      "nombre": "Cable eléctrico",
+      "stock_actual": "180.000"
+    },
+    {
+      "id_producto": 541,
+      "codigo": "DEMO-COR-01",
+      "nombre": "Correa automotriz",
+      "stock_actual": "8.000"
+    },
+    {
+      "id_producto": 535,
+      "codigo": "DEMO-FIL-01",
+      "nombre": "Filtro de aceite",
+      "stock_actual": "12.000"
+    },
+    {
+      "id_producto": 536,
+      "codigo": "DEMO-FIL-02",
+      "nombre": "Filtro de aire",
+      "stock_actual": "3.000"
+    },
+    {
+      "id_producto": 546,
+      "codigo": "DEMO-FUS-01",
+      "nombre": "Fusible",
+      "stock_actual": "2.000"
+    },
+    {
+      "id_producto": 539,
+      "codigo": "DEMO-GRA-01",
+      "nombre": "Grasa multipropósito",
+      "stock_actual": "20.000"
+    },
+    {
+      "id_producto": 548,
+      "codigo": "DEMO-GUA-01",
+      "nombre": "Guante de trabajo",
+      "stock_actual": "30.000"
+    },
+    {
+      "id_producto": 549,
+      "codigo": "DEMO-LIM-01",
+      "nombre": "Limpiador de contactos",
+      "stock_actual": "15.000"
+    },
+    {
+      "id_producto": 543,
+      "codigo": "DEMO-HER-01",
+      "nombre": "Llave combinada",
+      "stock_actual": "12.000"
+    },
+    {
+      "id_producto": 1,
+      "codigo": "MOT-001",
+      "nombre": "Motor eléctrico",
+      "stock_actual": "15.000"
+    },
+    {
+      "id_producto": 547,
+      "codigo": "DEMO-MOT-01",
+      "nombre": "Motor eléctrico de repuesto",
+      "stock_actual": "4.000"
+    },
+    {
+      "id_producto": 3,
+      "codigo": "ROD-001",
+      "nombre": "Rodamiento",
+      "stock_actual": "30.000"
+    },
+    {
+      "id_producto": 542,
+      "codigo": "DEMO-ROD-01",
+      "nombre": "Rodamiento industrial",
+      "stock_actual": "30.000"
+    },
+    {
+      "id_producto": 550,
+      "codigo": "DEMO-SIL-01",
+      "nombre": "Silicón industrial",
+      "stock_actual": "24.000"
+    },
+    {
+      "id_producto": 2,
+      "codigo": "TAL-001",
+      "nombre": "Taladro",
+      "stock_actual": "8.000"
+    },
+    {
+      "id_producto": 4,
+      "codigo": "TOR-001",
+      "nombre": "Tornillo 1/2",
+      "stock_actual": "100.000"
+    },
+    {
+      "id_producto": 532,
+      "codigo": "DEMO-TOR-02",
+      "nombre": "Tornillo 3/8",
+      "stock_actual": "15.000"
+    },
+    {
+      "id_producto": 531,
+      "codigo": "DEMO-TOR-01",
+      "nombre": "Tornillo hexagonal 1/2",
+      "stock_actual": "240.000"
+    },
+    {
+      "id_producto": 533,
+      "codigo": "DEMO-TUE-01",
+      "nombre": "Tuerca 1/2",
+      "stock_actual": "500.000"
+    }
+  ],
+  "empleados": [
+    {
+      "id_empleado": 1,
+      "codigo_empleado": "EMP-001",
+      "nombres": "Carlos",
+      "apellidos": "Lopez",
+      "estado": true
+    },
+    {
+      "id_empleado": 2,
+      "codigo_empleado": "EMP-002",
+      "nombres": "Ana",
+      "apellidos": "Martinez",
+      "estado": true
+    },
+    {
+      "id_empleado": 3,
+      "codigo_empleado": "EMP-003",
+      "nombres": "Luis",
+      "apellidos": "Ramirez",
+      "estado": true
+    },
+    {
+      "id_empleado": 4,
+      "codigo_empleado": "EMP-004",
+      "nombres": "Maria",
+      "apellidos": "Hernandez",
+      "estado": true
+    },
+    {
+      "id_empleado": 5,
+      "codigo_empleado": "EMP-005",
+      "nombres": "Jose",
+      "apellidos": "Gonzalez",
+      "estado": true
+    },
+    {
+      "id_empleado": 6,
+      "codigo_empleado": "EMP-006",
+      "nombres": "Daniela",
+      "apellidos": "Perez",
+      "estado": true
+    },
+    {
+      "id_empleado": 7,
+      "codigo_empleado": "EMP-007",
+      "nombres": "Miguel",
+      "apellidos": "Torres",
+      "estado": true
+    },
+    {
+      "id_empleado": 8,
+      "codigo_empleado": "EMP-008",
+      "nombres": "Andrea",
+      "apellidos": "Castillo",
+      "estado": true
+    },
+    {
+      "id_empleado": 9,
+      "codigo_empleado": "EMP-009",
+      "nombres": "Kevin",
+      "apellidos": "Morales",
+      "estado": true
+    },
+    {
+      "id_empleado": 10,
+      "codigo_empleado": "EMP-010",
+      "nombres": "Sofia",
+      "apellidos": "Mendoza",
+      "estado": true
+    },
+    {
+      "id_empleado": 11,
+      "codigo_empleado": "EMP-011",
+      "nombres": "Fernando",
+      "apellidos": "Ruiz",
+      "estado": true
+    },
+    {
+      "id_empleado": 12,
+      "codigo_empleado": "EMP-012",
+      "nombres": "Gabriela",
+      "apellidos": "Sanchez",
+      "estado": true
+    },
+    {
+      "id_empleado": 13,
+      "codigo_empleado": "EMP-013",
+      "nombres": "Alejandro",
+      "apellidos": "Vargas",
+      "estado": true
+    },
+    {
+      "id_empleado": 14,
+      "codigo_empleado": "EMP-014",
+      "nombres": "Valeria",
+      "apellidos": "Rojas",
+      "estado": true
+    },
+    {
+      "id_empleado": 15,
+      "codigo_empleado": "EMP-015",
+      "nombres": "Ricardo",
+      "apellidos": "Navarro",
+      "estado": true
+    },
+    {
+      "id_empleado": 16,
+      "codigo_empleado": "EMP-016",
+      "nombres": "Roger",
+      "apellidos": "Perez",
+      "estado": true
+    }
+  ],
+  "ubicaciones": [
+    {
+      "id_ubicacion": 1,
+      "codigo_ubicacion": "A-01-01-01",
+      "seccion": "A",
+      "pasillo": "01",
+      "estante": "01",
+      "nivel": "01",
+      "descripcion": "Zona de herramientas manuales.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.350157",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": null,
+      "zona": null
+    },
+    {
+      "id_ubicacion": 2,
+      "codigo_ubicacion": "A-02-02-01",
+      "seccion": "A",
+      "pasillo": "02",
+      "estante": "02",
+      "nivel": "01",
+      "descripcion": "Zona de herramientas eléctricas.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.350157",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": null,
+      "zona": null
+    },
+    {
+      "id_ubicacion": 3,
+      "codigo_ubicacion": "B-02-03-02",
+      "seccion": "B",
+      "pasillo": "02",
+      "estante": "03",
+      "nivel": "02",
+      "descripcion": "Zona de motores y equipos.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.350157",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": null,
+      "zona": null
+    },
+    {
+      "id_ubicacion": 4,
+      "codigo_ubicacion": "C-01-01-02",
+      "seccion": "C",
+      "pasillo": "01",
+      "estante": "01",
+      "nivel": "02",
+      "descripcion": "Zona de repuestos.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.350157",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": null,
+      "zona": null
+    },
+    {
+      "id_ubicacion": 5,
+      "codigo_ubicacion": "D-01-02-01",
+      "seccion": "D",
+      "pasillo": "01",
+      "estante": "02",
+      "nivel": "01",
+      "descripcion": "Zona de tornillería.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.350157",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": null,
+      "zona": null
+    },
+    {
+      "id_ubicacion": 6,
+      "codigo_ubicacion": "D-02-01-01",
+      "seccion": "D",
+      "pasillo": "02",
+      "estante": "01",
+      "nivel": "01",
+      "descripcion": "Zona secundaria de tornillería.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.350157",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": null,
+      "zona": null
+    },
+    {
+      "id_ubicacion": 917,
+      "codigo_ubicacion": "DEMO-A-P01-E01-N01",
+      "seccion": "A",
+      "pasillo": "01",
+      "estante": "E01",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "A"
+    },
+    {
+      "id_ubicacion": 918,
+      "codigo_ubicacion": "DEMO-A-P01-E02-N01",
+      "seccion": "A",
+      "pasillo": "01",
+      "estante": "E02",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "A"
+    },
+    {
+      "id_ubicacion": 919,
+      "codigo_ubicacion": "DEMO-A-P02-E03-N02",
+      "seccion": "A",
+      "pasillo": "02",
+      "estante": "E03",
+      "nivel": "02",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "A"
+    },
+    {
+      "id_ubicacion": 920,
+      "codigo_ubicacion": "DEMO-A-P02-E04-N01",
+      "seccion": "A",
+      "pasillo": "02",
+      "estante": "E04",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "A"
+    },
+    {
+      "id_ubicacion": 921,
+      "codigo_ubicacion": "DEMO-B-P01-E01-N01",
+      "seccion": "B",
+      "pasillo": "01",
+      "estante": "E01",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "B"
+    },
+    {
+      "id_ubicacion": 922,
+      "codigo_ubicacion": "DEMO-B-P01-E02-N01",
+      "seccion": "B",
+      "pasillo": "01",
+      "estante": "E02",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "B"
+    },
+    {
+      "id_ubicacion": 923,
+      "codigo_ubicacion": "DEMO-B-P02-E03-N02",
+      "seccion": "B",
+      "pasillo": "02",
+      "estante": "E03",
+      "nivel": "02",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "B"
+    },
+    {
+      "id_ubicacion": 924,
+      "codigo_ubicacion": "DEMO-B-P02-E04-N01",
+      "seccion": "B",
+      "pasillo": "02",
+      "estante": "E04",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "B"
+    },
+    {
+      "id_ubicacion": 925,
+      "codigo_ubicacion": "DEMO-C-P01-E01-N01",
+      "seccion": "C",
+      "pasillo": "01",
+      "estante": "E01",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "C"
+    },
+    {
+      "id_ubicacion": 926,
+      "codigo_ubicacion": "DEMO-C-P01-E02-N01",
+      "seccion": "C",
+      "pasillo": "01",
+      "estante": "E02",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "C"
+    },
+    {
+      "id_ubicacion": 927,
+      "codigo_ubicacion": "DEMO-C-P02-E03-N02",
+      "seccion": "C",
+      "pasillo": "02",
+      "estante": "E03",
+      "nivel": "02",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "C"
+    },
+    {
+      "id_ubicacion": 928,
+      "codigo_ubicacion": "DEMO-C-P02-E04-N01",
+      "seccion": "C",
+      "pasillo": "02",
+      "estante": "E04",
+      "nivel": "01",
+      "descripcion": "[DEMO_V1] Ubicación lógica de demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-07-10 00:00:00",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null,
+      "almacen": "Almacén de demostración",
+      "zona": "C"
+    }
+  ],
+  "categorias": [
+    {
+      "id_categoria": 1,
+      "nombre": "Herramientas",
+      "descripcion": "Herramientas manuales y eléctricas.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.347156",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 2,
+      "nombre": "Equipos",
+      "descripcion": "Equipos utilizados dentro de las operaciones.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.347156",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 3,
+      "nombre": "Materiales eléctricos",
+      "descripcion": "Materiales utilizados en instalaciones eléctricas.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.347156",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 4,
+      "nombre": "Repuestos",
+      "descripcion": "Repuestos para equipos y maquinaria.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.347156",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 5,
+      "nombre": "Tornillería",
+      "descripcion": "Tornillos, tuercas, pernos y accesorios.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.347156",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 453,
+      "nombre": "Consumibles",
+      "descripcion": "[DEMO_V1] Categoría para demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-10-03 17:01:44.923338",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 454,
+      "nombre": "Filtros",
+      "descripcion": "[DEMO_V1] Categoría para demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-10-03 17:01:44.923338",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 455,
+      "nombre": "Lubricantes",
+      "descripcion": "[DEMO_V1] Categoría para demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-10-03 17:01:44.923338",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_categoria": 456,
+      "nombre": "Seguridad",
+      "descripcion": "[DEMO_V1] Categoría para demostración.",
+      "estado": true,
+      "fecha_creacion": "2026-10-03 17:01:44.923338",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    }
+  ],
+  "unidades": [
+    {
+      "id_unidad": 1,
+      "nombre": "Unidad",
+      "abreviatura": "ud",
+      "activo": true
+    },
+    {
+      "id_unidad": 2,
+      "nombre": "Caja",
+      "abreviatura": "caja",
+      "activo": true
+    },
+    {
+      "id_unidad": 3,
+      "nombre": "Litro",
+      "abreviatura": "L",
+      "activo": true
+    },
+    {
+      "id_unidad": 4,
+      "nombre": "Galón",
+      "abreviatura": "gal",
+      "activo": true
+    },
+    {
+      "id_unidad": 5,
+      "nombre": "Metro",
+      "abreviatura": "m",
+      "activo": true
+    },
+    {
+      "id_unidad": 6,
+      "nombre": "Kilogramo",
+      "abreviatura": "kg",
+      "activo": true
+    },
+    {
+      "id_unidad": 7,
+      "nombre": "Paquete",
+      "abreviatura": "paq",
+      "activo": true
+    }
+  ],
+  "tipos_movimiento": [
+    {
+      "id_tipo_movimiento": 1,
+      "nombre": "Entrada",
+      "descripcion": "Ingreso de productos al almacén.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.341891",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_tipo_movimiento": 2,
+      "nombre": "Salida",
+      "descripcion": "Retiro de productos del almacén.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.341891",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_tipo_movimiento": 3,
+      "nombre": "Transferencia",
+      "descripcion": "Movimiento de productos entre ubicaciones del almacén.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.341891",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_tipo_movimiento": 4,
+      "nombre": "Ajuste entrada",
+      "descripcion": "Incremento manual del inventario por corrección.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.341891",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    },
+    {
+      "id_tipo_movimiento": 5,
+      "nombre": "Ajuste salida",
+      "descripcion": "Disminución manual del inventario por corrección.",
+      "estado": true,
+      "fecha_creacion": "2026-09-07 21:35:40.341891",
+      "fecha_actualizacion": null,
+      "fecha_eliminacion": null
+    }
+  ],
+  "resumen_movimientos": [
+    {
+      "tipo": "Ajuste salida",
+      "cantidad": 1
+    },
+    {
+      "tipo": "Entrada",
+      "cantidad": 26
+    },
+    {
+      "tipo": "Salida",
+      "cantidad": 211
+    },
+    {
+      "tipo": "Transferencia",
+      "cantidad": 6
+    }
+  ],
+  "periodo": [
+    {
+      "primera": "2026-07-10 08:00:00",
+      "ultima": "2026-10-02 17:00:00"
+    }
+  ],
+  "calidad": {
+    "existencias_negativas": 0,
+    "codigos_producto_duplicados": 0,
+    "pares_existencia_duplicados": 0,
+    "movimientos_futuros": 0,
+    "movimientos_sin_empleado": 0,
+    "cantidades_no_positivas": 0,
+    "alertas_pendientes": 22
+  },
+  "nulos": {
+    "productos.codigo_barras": 24,
+    "productos.codigo_qr": 24,
+    "ubicaciones.almacen": 6,
+    "ubicaciones.zona": 6
+  },
+  "integridad_foranea": [
+    {
+      "relacion": "FK_productos_categorias",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_existencias_ubicaciones",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_detalle_ubicacion_origen",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_detalle_ubicacion_destino",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__existenci__id_ub__625A9A57",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__conteos_i__id_ub__6AEFE058",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_alertas_ubicaciones",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_movimientos_empleados",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__conteos_i__id_em__6BE40491",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_alertas_empleados",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_rostros_empleados",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_existencias_productos",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__lotes__id_produc__5CA1C101",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_detalle_productos",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_alertas_productos",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__detalle_c__id_pr__72910220",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_producto_unidad",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_movimientos_tipos",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__movimient__id_mo__57DD0BE4",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_detalle_movimientos",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_alertas_movimientos",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__detalle_c__id_mo__756D6ECB",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__existenci__id_lo__6166761E",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__detalle_m__id_lo__671F4F74",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__detalle_c__id_lo__73852659",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__alertas__id_lote__76619304",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__anomalias__id_de__10216507",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__detalle_m__id_de__662B2B3B",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK_alertas_tipos",
+      "huerfanos": 0
+    },
+    {
+      "relacion": "FK__detalle_c__id_co__719CDDE7",
+      "huerfanos": 0
+    }
+  ],
+  "calibracion_existe": false
+}

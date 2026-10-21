@@ -1,0 +1,8 @@
+{
+  "calibrada": false,
+  "threshold": null,
+  "modelo_sha256": "d57341272d9d352e5880e12e54db2cabe5cb1560c74af5392aff3eccdd2ebd02",
+  "etiquetas_sha256": "cef7e2835e01d368539ffa748250be51be78a68deaba12b5ed30c34f46622b6e",
+  "preprocesamiento": "yunet-align-sface-gris-100x100-float32-0-1-v2",
+  "motivo": "CNN: identidad incorrecta aceptada en evaluación separada; no se activó. Mejore las muestras o el entrenamiento."
+}

@@ -1,0 +1,12 @@
+{
+  "posiciones_sql": 24,
+  "leds": [
+    14
+  ],
+  "producto": "Tornillo M8",
+  "ubicacion": "Tornillo M8 está en Estante 4, Nivel 1, Posición 2 (E04-N01): 166 unidades.",
+  "encendido": "Simulación: LED 14 encendido. Estante 4 - Nivel 1 - Posición 2.",
+  "apagado": "Simulación: LED 14 apagado. Estante 4 - Nivel 1 - Posición 2.",
+  "errores_tk": [],
+  "hardware_conectado": false
+}

@@ -18,10 +18,35 @@ cache_voz/
 # Archivos temporales
 rostros_temp/
 
-# Modelos entrenados
-modelos/
-modelos_voz/
+# Pesos locales y artefactos regenerados; las etiquetas/configuraciones no se ignoran
+/modelos/*.keras
+/modelos/vigilancia/*.pt
+/modelos/*.png
+/modelos/metricas_modelo_rostros.json
+/modelos/facial_embeddings/*.onnx
+/modelos/facial_embeddings/*.npz
+# Distribución local Vosk requerida: conservar instalada, no incluir binarios en Git
+/modelos_voz/
 
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Capturas y resultados locales de evaluación facial
+evaluacion_facial/*.csv
+evaluacion_facial/*.json
+
+# Salidas y copias locales; no son código fuente
+/backups/
+/outputs/
+/reportes_exportados/
+/logs/
+*.log
+
+# Cachés adicionales de herramientas de desarrollo
+.pytest_cache/
+.ruff_cache/
+
+# Dependencias auxiliares de herramientas y respaldos locales
+node_modules/
+/respaldos_inventario/

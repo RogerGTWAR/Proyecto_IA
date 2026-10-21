@@ -1,0 +1,506 @@
+[
+  {
+    "archivo": "subject19.capture001.png",
+    "etapa": "Mira al frente",
+    "calidad": {
+      "ancho_rostro": 277.36614990234375,
+      "alto_rostro": 359.4250183105469,
+      "distancia": "CERCA",
+      "blur": 60.16490676019565,
+      "iluminacion": 47.65344971491206,
+      "roll": 7.598033543257647,
+      "yaw": 0.06873632425554022,
+      "visible": 0.9974989700952547,
+      "calidad": 0.20003608115872615,
+      "blur_original": 20.79441905692232,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture002.png",
+    "etapa": "Mira al frente",
+    "calidad": {
+      "ancho_rostro": 302.4589538574219,
+      "alto_rostro": 414.6400146484375,
+      "distancia": "CERCA",
+      "blur": 108.72527863964031,
+      "iluminacion": 145.05021942072926,
+      "roll": 1.5083867333780525,
+      "yaw": 0.06290890946663877,
+      "visible": 0.9993494615513012,
+      "calidad": 0.3621600538263803,
+      "blur_original": 24.3119241427637,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture003.png",
+    "etapa": "Mira al frente",
+    "calidad": {
+      "ancho_rostro": 313.22003173828125,
+      "alto_rostro": 413.5468444824219,
+      "distancia": "CERCA",
+      "blur": 126.19970783832645,
+      "iluminacion": 148.22936666950312,
+      "roll": 2.1090032067962348,
+      "yaw": 0.039424991038834116,
+      "visible": 0.9979761181584142,
+      "calidad": 0.41978907510421987,
+      "blur_original": 30.535101959335698,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture004.png",
+    "etapa": "Mira al frente",
+    "calidad": {
+      "ancho_rostro": 324.20758056640625,
+      "alto_rostro": 431.5463562011719,
+      "distancia": "CERCA",
+      "blur": 91.26285012749567,
+      "iluminacion": 142.4044140815216,
+      "roll": 5.896018120952212,
+      "yaw": 0.010630013926928536,
+      "visible": 0.9980944971564528,
+      "calidad": 0.30361157355550716,
+      "blur_original": 19.892476582850325,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture005.png",
+    "etapa": "Gira ligeramente a la izquierda",
+    "calidad": {
+      "ancho_rostro": 316.80706787109375,
+      "alto_rostro": 424.4560546875,
+      "distancia": "CERCA",
+      "blur": 101.94866595535272,
+      "iluminacion": 149.5161625533494,
+      "roll": 3.846677583987228,
+      "yaw": 0.1410189177310306,
+      "visible": 1.0,
+      "calidad": 0.3398084553603976,
+      "blur_original": 24.199513800684205,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture006.png",
+    "etapa": "Gira ligeramente a la izquierda",
+    "calidad": {
+      "ancho_rostro": 322.40826416015625,
+      "alto_rostro": 416.84844970703125,
+      "distancia": "CERCA",
+      "blur": 107.28893680695563,
+      "iluminacion": 152.16974737219303,
+      "roll": 0.5536588764763063,
+      "yaw": 0.07367411295791582,
+      "visible": 0.9967008905283008,
+      "calidad": 0.35642849908500357,
+      "blur_original": 25.410258609574388,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture007.png",
+    "etapa": "Gira ligeramente a la izquierda",
+    "calidad": {
+      "ancho_rostro": 318.28125,
+      "alto_rostro": 426.6981201171875,
+      "distancia": "CERCA",
+      "blur": 100.1432714740308,
+      "iluminacion": 153.68322949346765,
+      "roll": 1.3524065460404886,
+      "yaw": 0.017772835035317246,
+      "visible": 0.9998232012252699,
+      "calidad": 0.33373182175771904,
+      "blur_original": 24.86346191175702,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture008.png",
+    "etapa": "Gira ligeramente a la izquierda",
+    "calidad": {
+      "ancho_rostro": 299.0775146484375,
+      "alto_rostro": 384.5830078125,
+      "distancia": "CERCA",
+      "blur": 81.8024,
+      "iluminacion": 153.6653776477146,
+      "roll": 3.8261129665901707,
+      "yaw": 0.33118557008359467,
+      "visible": 0.9982252658529222,
+      "calidad": 0.27217437700085223,
+      "blur_original": 25.470303069513886,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture009.png",
+    "etapa": "Gira ligeramente a la derecha",
+    "calidad": {
+      "ancho_rostro": 316.39727783203125,
+      "alto_rostro": 388.387939453125,
+      "distancia": "CERCA",
+      "blur": 50.14678807091346,
+      "iluminacion": 155.08493866128666,
+      "roll": 1.8558470107294898,
+      "yaw": 0.28040510223936954,
+      "visible": 1.0,
+      "calidad": 0.16714591050288902,
+      "blur_original": 16.409038799046787,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture010.png",
+    "etapa": "Gira ligeramente a la derecha",
+    "calidad": {
+      "ancho_rostro": 314.7510986328125,
+      "alto_rostro": 413.88909912109375,
+      "distancia": "CERCA",
+      "blur": 75.91546488416672,
+      "iluminacion": 147.34839352810368,
+      "roll": 4.029742018072666,
+      "yaw": 0.3248143965217716,
+      "visible": 1.0,
+      "calidad": 0.2530363356745892,
+      "blur_original": 19.619248188372723,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture011.png",
+    "etapa": "Gira ligeramente a la derecha",
+    "calidad": {
+      "ancho_rostro": 312.4539794921875,
+      "alto_rostro": 413.7474365234375,
+      "distancia": "CERCA",
+      "blur": 99.1057693052686,
+      "iluminacion": 151.34361253877853,
+      "roll": 3.4126826917586945,
+      "yaw": 0.3185722663164352,
+      "visible": 1.0,
+      "calidad": 0.33033270292791944,
+      "blur_original": 25.691450453449217,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture012.png",
+    "etapa": "Gira ligeramente a la derecha",
+    "calidad": {
+      "ancho_rostro": 297.6119079589844,
+      "alto_rostro": 396.22882080078125,
+      "distancia": "CERCA",
+      "blur": 55.799222645399304,
+      "iluminacion": 163.04969730979832,
+      "roll": 6.880456000524808,
+      "yaw": 0.44065727866471716,
+      "visible": 0.9973676306922143,
+      "calidad": 0.18549664186708492,
+      "blur_original": 16.633783954667432,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture013.png",
+    "etapa": "Mira un poco arriba",
+    "calidad": {
+      "ancho_rostro": 297.1266784667969,
+      "alto_rostro": 403.4949951171875,
+      "distancia": "CERCA",
+      "blur": 86.60653287208686,
+      "iluminacion": 165.58736707004033,
+      "roll": 7.233663319379841,
+      "yaw": 0.40571385732745957,
+      "visible": 1.0,
+      "calidad": 0.28867108641001454,
+      "blur_original": 23.70640397123021,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture014.png",
+    "etapa": "Mira un poco arriba",
+    "calidad": {
+      "ancho_rostro": 308.00628662109375,
+      "alto_rostro": 433.23675537109375,
+      "distancia": "CERCA",
+      "blur": 121.63121526575486,
+      "iluminacion": 158.19092858642512,
+      "roll": 4.296843808686952,
+      "yaw": 0.011151805550021945,
+      "visible": 0.9994331201192332,
+      "calidad": 0.40518318807642084,
+      "blur_original": 23.865496006271123,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture015.png",
+    "etapa": "Mira un poco arriba",
+    "calidad": {
+      "ancho_rostro": 277.07476806640625,
+      "alto_rostro": 355.48626708984375,
+      "distancia": "CERCA",
+      "blur": 120.59012014462472,
+      "iluminacion": 152.42583052772483,
+      "roll": 7.896854079900741,
+      "yaw": 0.05478589970626181,
+      "visible": 1.0,
+      "calidad": 0.40194290012598444,
+      "blur_original": 37.90938371598147,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture016.png",
+    "etapa": "Mira un poco arriba",
+    "calidad": {
+      "ancho_rostro": 277.2544250488281,
+      "alto_rostro": 343.8365478515625,
+      "distancia": "CERCA",
+      "blur": 134.23087045690988,
+      "iluminacion": 152.56657711359247,
+      "roll": 7.330275239541127,
+      "yaw": 0.06280473749828404,
+      "visible": 0.999557282126573,
+      "calidad": 0.4472112580320041,
+      "blur_original": 45.43969802512489,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture017.png",
+    "etapa": "Mira un poco abajo",
+    "calidad": {
+      "ancho_rostro": 276.4325256347656,
+      "alto_rostro": 356.14276123046875,
+      "distancia": "CERCA",
+      "blur": 120.88819552386838,
+      "iluminacion": 150.20355823488816,
+      "roll": 8.08325195569838,
+      "yaw": 0.013253660931806561,
+      "visible": 1.0,
+      "calidad": 0.4029364249872721,
+      "blur_original": 38.55553352920874,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture018.png",
+    "etapa": "Mira un poco abajo",
+    "calidad": {
+      "ancho_rostro": 299.2574768066406,
+      "alto_rostro": 401.2210693359375,
+      "distancia": "CERCA",
+      "blur": 126.34206422734536,
+      "iluminacion": 164.46251243781094,
+      "roll": 5.393981369253625,
+      "yaw": 0.002350586162301791,
+      "visible": 1.0,
+      "calidad": 0.4211148943424135,
+      "blur_original": 32.39049321523945,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture019.png",
+    "etapa": "Mira un poco abajo",
+    "calidad": {
+      "ancho_rostro": 286.7091064453125,
+      "alto_rostro": 366.5604248046875,
+      "distancia": "CERCA",
+      "blur": 112.22689998999999,
+      "iluminacion": 162.69565836569225,
+      "roll": 3.4010011893174794,
+      "yaw": 0.0024759667184987427,
+      "visible": 1.0,
+      "calidad": 0.3740671756527819,
+      "blur_original": 33.696579263604676,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture020.png",
+    "etapa": "Mira un poco abajo",
+    "calidad": {
+      "ancho_rostro": 302.2683410644531,
+      "alto_rostro": 391.22625732421875,
+      "distancia": "CERCA",
+      "blur": 120.74272341788745,
+      "iluminacion": 162.83983164241798,
+      "roll": 3.47018285202436,
+      "yaw": 0.019194962307529817,
+      "visible": 0.9985344270829408,
+      "calidad": 0.4018617250329769,
+      "blur_original": 31.841808369227184,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture021.png",
+    "etapa": "Cambia la expresión",
+    "calidad": {
+      "ancho_rostro": 299.9765319824219,
+      "alto_rostro": 370.21063232421875,
+      "distancia": "CERCA",
+      "blur": 94.88353466854662,
+      "iluminacion": 164.43765765765767,
+      "roll": 2.8064351331084803,
+      "yaw": 0.02810734064249653,
+      "visible": 0.9995092356738405,
+      "calidad": 0.31610422478686545,
+      "blur_original": 27.1397071143576,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture022.png",
+    "etapa": "Cambia la expresión",
+    "calidad": {
+      "ancho_rostro": 299.7403259277344,
+      "alto_rostro": 389.9790954589844,
+      "distancia": "CERCA",
+      "blur": 132.28931563295242,
+      "iluminacion": 164.245094017094,
+      "roll": 8.08185911934407,
+      "yaw": 0.06511575679768634,
+      "visible": 1.0,
+      "calidad": 0.4409378738276412,
+      "blur_original": 37.983391181167356,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture023.png",
+    "etapa": "Cambia la expresión",
+    "calidad": {
+      "ancho_rostro": 300.5721130371094,
+      "alto_rostro": 378.0629577636719,
+      "distancia": "CERCA",
+      "blur": 127.0628272419826,
+      "iluminacion": 164.89914462081128,
+      "roll": 9.695363532946827,
+      "yaw": 0.05729720231882326,
+      "visible": 0.9979303762110504,
+      "calidad": 0.42264077181386905,
+      "blur_original": 35.230256547191345,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture024.png",
+    "etapa": "Cambia la expresión",
+    "calidad": {
+      "ancho_rostro": 294.98211669921875,
+      "alto_rostro": 376.5077819824219,
+      "distancia": "CERCA",
+      "blur": 119.15009170436115,
+      "iluminacion": 165.53526866209882,
+      "roll": 8.596857088236304,
+      "yaw": 0.042190159647113194,
+      "visible": 0.9987118806225534,
+      "calidad": 0.3966315262010208,
+      "blur_original": 35.53265504420037,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture025.png",
+    "etapa": "Cambia la distancia",
+    "calidad": {
+      "ancho_rostro": 310.2311706542969,
+      "alto_rostro": 419.5630798339844,
+      "distancia": "CERCA",
+      "blur": 129.4345914836523,
+      "iluminacion": 161.68242408429194,
+      "roll": 3.268586353875703,
+      "yaw": 0.021319356118860554,
+      "visible": 1.0,
+      "calidad": 0.43142269876808204,
+      "blur_original": 32.55325169442867,
+      "estado": "CALIDAD_OK",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture026.png",
+    "etapa": "Cambia la distancia",
+    "calidad": {
+      "ancho_rostro": 268.09100341796875,
+      "alto_rostro": 352.579833984375,
+      "distancia": "CERCA",
+      "blur": 53.5793554807561,
+      "iluminacion": 158.659084182487,
+      "roll": 7.0526997718478,
+      "yaw": 0.010891029439829648,
+      "visible": 1.0,
+      "calidad": 0.1785871139608125,
+      "blur_original": 19.79825444670368,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture027.png",
+    "etapa": "Cambia la distancia",
+    "calidad": {
+      "ancho_rostro": 169.76828002929688,
+      "alto_rostro": 220.31686401367188,
+      "distancia": "MEDIA",
+      "blur": 29.750716528599767,
+      "iluminacion": 152.3940374331551,
+      "roll": 4.865245789965187,
+      "yaw": 0.021588875012881568,
+      "visible": 0.9999247365460415,
+      "calidad": 0.09915562950670391,
+      "blur_original": 26.75099891260831,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  },
+  {
+    "archivo": "subject19.capture028.png",
+    "etapa": "Cambia la distancia",
+    "calidad": {
+      "ancho_rostro": 156.5120849609375,
+      "alto_rostro": 207.87332153320312,
+      "distancia": "MEDIA",
+      "blur": 64.33264797905815,
+      "iluminacion": 149.25209566074952,
+      "roll": 4.755446972331973,
+      "yaw": 0.026866548252611817,
+      "visible": 0.9973355526358345,
+      "calidad": 0.20919594241205045,
+      "blur_original": 56.57038320085464,
+      "estado": "CALIDAD_ACEPTABLE",
+      "valida": true
+    }
+  }
+]

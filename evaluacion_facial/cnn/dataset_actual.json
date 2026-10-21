@@ -1,0 +1,593 @@
+{
+  "modo": "Dataset actual",
+  "protocolo": "cnn-dataset-actual-estratificado-provisional-v1",
+  "nota": "Evaluación provisional por imágenes, sin sesiones independientes. La validación también selecciona pesos y umbrales; sus resultados pueden ser optimistas. No mide rechazo de personas desconocidas.",
+  "imagenes": 182,
+  "clases": [
+    "subject01",
+    "subject02",
+    "subject03",
+    "subject04",
+    "subject05",
+    "subject06",
+    "subject07",
+    "subject08",
+    "subject09",
+    "subject10",
+    "subject11",
+    "subject12",
+    "subject13",
+    "subject14",
+    "subject15",
+    "subject19"
+  ],
+  "conteos": {
+    "subject01": 11,
+    "subject02": 10,
+    "subject03": 10,
+    "subject04": 10,
+    "subject05": 11,
+    "subject06": 10,
+    "subject07": 8,
+    "subject08": 10,
+    "subject09": 10,
+    "subject10": 11,
+    "subject11": 11,
+    "subject12": 10,
+    "subject13": 11,
+    "subject14": 10,
+    "subject15": 11,
+    "subject19": 28
+  },
+  "excluidas": {
+    "subject16": {
+      "activo_sql": true,
+      "archivos_dataset": 30,
+      "fuentes_canonicas": 30,
+      "validas": 0,
+      "borrosas": 0,
+      "duplicadas": 0,
+      "casi_duplicadas": 0,
+      "rechazadas": 30,
+      "sesiones": 0,
+      "grupos": 0,
+      "imagenes_con_sesion": 0,
+      "sin_sesion": 0
+    },
+    "subject17": {
+      "activo_sql": true,
+      "archivos_dataset": 30,
+      "fuentes_canonicas": 30,
+      "validas": 0,
+      "borrosas": 0,
+      "duplicadas": 0,
+      "casi_duplicadas": 0,
+      "rechazadas": 30,
+      "sesiones": 0,
+      "grupos": 0,
+      "imagenes_con_sesion": 0,
+      "sin_sesion": 0
+    },
+    "subject18": {
+      "activo_sql": true,
+      "archivos_dataset": 30,
+      "fuentes_canonicas": 30,
+      "validas": 0,
+      "borrosas": 0,
+      "duplicadas": 0,
+      "casi_duplicadas": 0,
+      "rechazadas": 30,
+      "sesiones": 0,
+      "grupos": 0,
+      "imagenes_con_sesion": 0,
+      "sin_sesion": 0
+    }
+  },
+  "rechazos": [
+    {
+      "subject": "subject02",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject02.noglasses.gif"
+    },
+    {
+      "subject": "subject03",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject03.noglasses.gif"
+    },
+    {
+      "subject": "subject04",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.sad.gif.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject04.normal.gif"
+    },
+    {
+      "subject": "subject06",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject06.noglasses.gif"
+    },
+    {
+      "subject": "subject07",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.leftlight.gif",
+      "motivo": "ILUMINACION_DEFICIENTE"
+    },
+    {
+      "subject": "subject07",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.noglasses.gif"
+    },
+    {
+      "subject": "subject07",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject07.rightlight.gif",
+      "motivo": "ILUMINACION_DEFICIENTE"
+    },
+    {
+      "subject": "subject08",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject08.glasses.gif"
+    },
+    {
+      "subject": "subject09",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject09.noglasses.gif"
+    },
+    {
+      "subject": "subject12",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject12.noglasses.gif"
+    },
+    {
+      "subject": "subject14",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.normal.gif",
+      "motivo": "Imagen duplicada de C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject14.noglasses.gif"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture001.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture002.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture003.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture004.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture005.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture006.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture007.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture008.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture009.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture010.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture011.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture012.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture013.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture014.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture015.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture016.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture017.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture018.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture019.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture020.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture021.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture022.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture023.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture024.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture025.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture026.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture027.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture028.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture029.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject16",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject16.capture030.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture001.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture002.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture003.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture004.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture005.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture006.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture007.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture008.png",
+      "motivo": "Se requiere un rostro; detectados: 0."
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture009.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture010.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture011.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture012.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture013.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture014.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture015.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture016.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture017.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture018.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture019.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture020.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture021.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture022.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture023.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture024.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture025.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture026.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture027.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture028.png",
+      "motivo": "Se requiere un rostro; detectados: 0."
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture029.png",
+      "motivo": "Se requiere un rostro; detectados: 0."
+    },
+    {
+      "subject": "subject17",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject17.capture030.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture001.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture002.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture003.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture004.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture005.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture006.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture007.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture008.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture009.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture010.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture011.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture012.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture013.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture014.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture015.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture016.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture017.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture018.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture019.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture020.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture021.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture022.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture023.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture024.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture025.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture026.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture027.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture028.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture029.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    },
+    {
+      "subject": "subject18",
+      "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\Clasificacion\\rostros\\DataSet01\\data\\subject18.capture030.png",
+      "motivo": "ROSTRO_MUY_PEQUENO"
+    }
+  ]
+}

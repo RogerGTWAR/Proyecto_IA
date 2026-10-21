@@ -1,0 +1,12 @@
+{
+  "rol": "Administrador",
+  "vistas": 36,
+  "modales": [
+    "Nuevo usuario",
+    "Nuevo rol",
+    "Catálogo de permisos"
+  ],
+  "errores": [],
+  "recortados": [],
+  "fuente_permisos": "SQL"
+}

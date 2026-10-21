@@ -1,0 +1,17 @@
+{
+  "frames_mostrados": 245,
+  "duracion_s": 8.780999999999949,
+  "fps_video": 28.97888554982402,
+  "fps_cnn": 0.0,
+  "inferencias_ms_promedio": null,
+  "estados_observados": [
+    "Buscando rostro..."
+  ],
+  "estado_final": "SIN_ROSTRO",
+  "subject_final": null,
+  "consultas_sql": 0,
+  "resoluciones_empleado": 0,
+  "alertas_sql": 0,
+  "imagenes_guardadas": 0,
+  "nota": "Comprobación de cámara disponible; no mide accuracy con personas ni distancia de reconocimiento."
+}

@@ -1,0 +1,21 @@
+{
+  "resumen": {
+    "listo": false,
+    "subjects": 16,
+    "sesiones_completas": 1,
+    "sesiones_requeridas": 64,
+    "clases_incompletas": 16,
+    "fugas_entre_sesiones": 0
+  },
+  "comprobaciones": 67,
+  "interfaz": "Plan subject19 sesión 2, confirmación, captura manual y finalización desde 4 imágenes comprobados",
+  "sface_archivos_identicos": 44,
+  "modelo_cnn_sin_cambios": "d57341272d9d352e5880e12e54db2cabe5cb1560c74af5392aff3eccdd2ebd02",
+  "capturas_reales_nuevas": 0,
+  "entrenamiento_ejecutado": false,
+  "respaldo": {
+    "archivo": "C:\\Users\\rpere\\OneDrive\\Desktop\\Proyecto IA - copia sin AWS\\backups\\cnn\\imagenes_71b7da7163779c49177b.zip",
+    "archivos": 312,
+    "verificado": true
+  }
+}
