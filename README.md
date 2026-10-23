@@ -68,6 +68,28 @@ modelos_voz/            Modelo local de reconocimiento de voz
 
 También se conservan carpetas auxiliares con recursos de verificación y dependencias complementarias. Los resultados, registros y respaldos se generan en carpetas locales.
 
+### Carpetas auxiliares y rutas de configuración
+
+| Ubicación | Contenido y uso |
+| --- | --- |
+| `tests/` | Suites Python actuales. El ejecutor principal está en `tools/verificar_eventos.py`. |
+| `pruebas/` | Archivo de requisitos adicionales para verificaciones; conserva la ruta documentada de instalación. |
+| `tools/` | Utilidades de preparación, mantenimiento y validación. Los validadores de interfaz están en `tools/verificacion_ui/`. |
+| `herramientas/` | Plantilla SQL que carga `tools/preparar_historial_operativo.py` y lista complementaria de dependencias de Vigilancia. |
+| `verificacion_ui/` | Capturas, resultados y auxiliares de generación de documentos. Hay herramientas que leen o escriben en estas rutas. |
+| `evaluacion_facial/` | Resultados, calibraciones y evidencias de evaluación facial, algunos consultados desde la aplicación. |
+| `Clasificacion/` | Dataset facial utilizado por los módulos de datos y sus verificaciones. |
+| `rostros/` y `rostros_temp/` | Carpetas locales de datos faciales y captura; su ubicación se conserva para compatibilidad. |
+| `reportes_exportados/` | Destino local de reportes según la configuración. |
+| `outputs/` y `logs/` | Salidas de procesos, evidencias, comprobaciones y registros técnicos. |
+| `backups/` y `respaldos_inventario/` | Copias de recuperación conservadas por el proyecto. |
+
+Los archivos `config_sistema.json`, `intenciones_jarvis.json` y
+`reconocimiento_facial_config.json` permanecen en la raíz: sus cargadores utilizan
+esas ubicaciones. Los modelos, muestras y resultados también conservan sus rutas.
+Para iniciar el sistema se mantiene `main.py`; las utilidades se ejecutan desde
+la raíz con `python -m tools.nombre_de_la_herramienta` cuando corresponda.
+
 ## Requisitos
 
 - Windows con Python y soporte para Tkinter. El entorno de desarrollo revisado utiliza **Python 3.9.13**.

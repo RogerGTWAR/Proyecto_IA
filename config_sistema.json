@@ -84,7 +84,7 @@
     "inicio": "Dashboard"
   },
   "inventario": {
-    "stock_minimo": 0,
+    "stock_minimo": 0.0,
     "formato_fecha": "%Y-%m-%d"
   },
   "jarvis": {
@@ -134,9 +134,9 @@
     "tile": 640,
     "max_rostros": 16,
     "min_rostro": 80,
-    "blur_min": 100.00601255122483,
+    "blur_min": 45,
     "blur_lado": 160,
-    "blur_rechazo": 13.309093958158202,
+    "blur_rechazo": 45,
     "iluminacion_min": 45,
     "iluminacion_max": 210,
     "roll_max": 35,
